@@ -1,0 +1,152 @@
+[
+  {
+    "nom": "Royal Madeleine Hotel & Spa",
+    "ville": "8e arr.",
+    "site_officiel": "https://www.hotelroyalmadeleine.com/en/",
+    "id_booking": "royal-madeleine-paris"
+  },
+  {
+    "nom": "voco Paris Montparnasse by IHG",
+    "ville": "14e arr.",
+    "site_officiel": "https://vocoparismontparnasse.com-hotel.com/",
+    "id_booking": "holiday-inn-paris-montparnasse-maine"
+  },
+  {
+    "nom": "Star Champs-Elysées",
+    "ville": "17e arr.",
+    "site_officiel": "https://www.arcotel-starchampselysees.com/",
+    "id_booking": "star-etoile-paris"
+  },
+  {
+    "nom": "Hotel Parister Piscine & Spa",
+    "ville": "9e arr.",
+    "site_officiel": "https://www.paristerhotel.com/",
+    "id_booking": "parister"
+  },
+  {
+    "nom": "Les Rives Oceanik",
+    "ville": "5e arr.",
+    "site_officiel": "https://www.lesrivesoceanik.com/fr/",
+    "id_booking": "les-rives-oceanik"
+  },
+  {
+    "nom": "Le Bellune Paris",
+    "ville": "15e arr.",
+    "site_officiel": "https://www.lebelluneparis.com/",
+    "id_booking": "le-bellune-paris1"
+  },
+  {
+    "nom": "Le Madame By Sweett",
+    "ville": "9e arr.",
+    "site_officiel": "https://hotel-le-madame-by-sweett.fr-paris.fr/",
+    "id_booking": "le-madame-by-sweett"
+  },
+  {
+    "nom": "Hotel Eiffel Blomet",
+    "ville": "15e arr.",
+    "site_officiel": "https://www.hoteleiffelblomet.com/",
+    "id_booking": "eiffel-blomet"
+  },
+  {
+    "nom": "Lyric Hotel Paris Opera",
+    "ville": "2e arr.",
+    "site_officiel": "https://lyrichotelparis.com/en/",
+    "id_booking": "lyric-ha-tel-paris"
+  },
+  {
+    "nom": "Le Mathurin Hotel & Spa",
+    "ville": "8e arr.",
+    "site_officiel": "https://www.le-mathurin.com/en/",
+    "id_booking": "hotel-le-mathurin"
+  },
+  {
+    "nom": "Les Jardins Du Marais",
+    "ville": "11e arr.",
+    "site_officiel": "https://www.lesjardinsdumarais.com/",
+    "id_booking": "les-jardins-du-marais"
+  },
+  {
+    "nom": "Hotel Touraine Opera",
+    "ville": "9e arr.",
+    "site_officiel": "https://hoteltouraine.com/en/",
+    "id_booking": "touraine-opera"
+  },
+  {
+    "nom": "Maison Pigalle",
+    "ville": "9e arr.",
+    "site_officiel": "https://www.maisonpigalle.com/",
+    "id_booking": "trinite"
+  },
+  {
+    "nom": "Hôtel Etoile Maillot",
+    "ville": "16e arr.",
+    "site_officiel": "https://www.etoilemaillot.com/fr/",
+    "id_booking": "lavillamaillot"
+  },
+  {
+    "nom": "Laz' Hotel Spa Urbain Paris",
+    "ville": "9e arr.",
+    "site_officiel": "https://www.lazhotelparis.com/en/",
+    "id_booking": "laz-39-spa-urbain-paris"
+  },
+  {
+    "nom": "Monsieur Cadet Hotel & Spa",
+    "ville": "9e arr.",
+    "site_officiel": "https://www.monsieurcadet.com/?lang=en",
+    "id_booking": "meyerhold-amp-spa"
+  },
+  {
+    "nom": "Hotel La Lanterne & Spa By Timhotel",
+    "ville": "5e arr.",
+    "site_officiel": "https://www.hotel-la-lanterne.com/",
+    "id_booking": "la-lanterne-paris"
+  },
+  {
+    "nom": "Hôtel Hiro Paris",
+    "ville": "17e arr.",
+    "site_officiel": "https://www.hotelhiroparis.com/",
+    "id_booking": "tivoli-etoile"
+  },
+  {
+    "nom": "Hôtel Fabric",
+    "ville": "11e arr.",
+    "site_officiel": "https://www.hotelfabric.com/",
+    "id_booking": "ha-tel-fabric"
+  },
+  {
+    "nom": "Paris j'Adore Hotel & Spa",
+    "ville": "17e arr.",
+    "site_officiel": "https://www.hotelparisjadore.com/en/",
+    "id_booking": "paris-j-39-adore-amp-spa"
+  },
+  {
+    "nom": "Hôtel Le Marianne",
+    "ville": "8e arr.",
+    "site_officiel": "https://www.lemarianne.com/fr/",
+    "id_booking": "le-marianne"
+  },
+  {
+    "nom": "Hotel Astra Opera - Astotel",
+    "ville": "9e arr.",
+    "site_officiel": "https://hotelastraopera.com-hotel.com/",
+    "id_booking": "astraopera"
+  },
+  {
+    "nom": "Hotel Villa Saxe Eiffel",
+    "ville": "7e arr.",
+    "site_officiel": "https://hotelvillasaxeeiffel.com-hotel.com/en/owner/contact",
+    "id_booking": "villa-saxe-eiffel"
+  },
+  {
+    "nom": "XO Hotel Paris",
+    "ville": "17e arr.",
+    "site_officiel": "https://www.xohotelparis.com/",
+    "id_booking": "pierrearcdetriomphe"
+  },
+  {
+    "nom": "Holiday Inn Paris - Gare de Lyon Bastille by IHG",
+    "ville": "12e arr.",
+    "site_officiel": "https://www.ihg.com/holidayinn/hotels/us/en/paris/parba/hoteldetail",
+    "id_booking": "holiday-inn-paris-bastille"
+  }
+]
