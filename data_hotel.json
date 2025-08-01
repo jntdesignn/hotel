@@ -1,4 +1,286 @@
 [
+   {
+    "nom": "Hôtel D'Aubusson",
+    "adresse": "6e arr., Paris",
+    "id_booking": "d-aubusson",
+    "site_officiel": "https://www.hoteldaubusson.com/fr/"
+  },
+  {
+    "nom": "Hotel Parister Piscine & Spa",
+    "adresse": "9e arr., Paris",
+    "id_booking": "parister",
+    "site_officiel": "https://www.paristerhotel.com/"
+  },
+  {
+    "nom": "Maison Albar - Le Pont-Neuf",
+    "adresse": "1er arr., Paris",
+    "id_booking": "maison-albar-paris-celine",
+    "site_officiel": "https://www.maison-albar-hotels-le-pont-neuf.com/en/"
+  },
+  {
+    "nom": "Maison Albar- Le Champs-Elysées",
+    "adresse": "8e arr., Paris",
+    "id_booking": "ha-tel-mac-mahon",
+    "site_officiel": "https://www.maison-albar-hotels-le-champs-elysees.com/en/"
+  },
+  {
+    "nom": "InterContinental Paris Le Grand by IHG",
+    "adresse": "9e arr., Paris",
+    "id_booking": "intercontinental-paris-le-grand",
+    "site_officiel": "https://parislegrand.intercontinental.com/en/"
+  },
+  {
+    "nom": "Le Burgundy Paris",
+    "adresse": "1er arr., Paris",
+    "id_booking": "burgundy",
+    "site_officiel": "https://www.leburgundy.com/fr/"
+  },
+  {
+    "nom": "Le Narcisse Blanc",
+    "adresse": "7e arr., Paris",
+    "id_booking": "le-narcisse-blanc",
+    "site_officiel": "https://www.lenarcisseblanc.com/en"
+  },
+  {
+    "nom": "Villa-des-Prés",
+    "adresse": "6e arr., Paris",
+    "id_booking": "villa-des-pres",
+    "site_officiel": "https://www.villadespres.com/"
+  },
+  {
+    "nom": "The One Alma Paris",
+    "adresse": "7e arr., Paris",
+    "id_booking": "le-juliana",
+    "site_officiel": "https://www.hotelstheone.com/en/paris-hotels/the-one-alma-paris"
+  },
+  {
+    "nom": "La Clef Tour Eiffel Paris by The Crest Collection",
+    "adresse": "16e arr., Paris",
+    "id_booking": "ascott-arc-de-triomphe-paris",
+    "site_officiel": "https://lacleftoureiffelparis.com-hotel.com/"
+  },
+  {
+    "nom": "Le Damantin Hôtel & Spa",
+    "adresse": "8e arr., Paris",
+    "id_booking": "le-damantin-amp-spa",
+    "site_officiel": "https://www.ledamantin.com/en-gb/home"
+  },
+  {
+    "nom": "Monsieur George Hotel & Spa - Champs-Elysées",
+    "adresse": "8e arr., Paris",
+    "id_booking": "monsieur-george-amp-spa-champs-elysees",
+    "site_officiel": "https://www.monsieurgeorge.com/?lang=en"
+  },
+  {
+    "nom": "La Demeure Montaigne",
+    "adresse": "8e arr., Paris",
+    "id_booking": "la-demeure-montaigne",
+    "site_officiel": "https://www.lademeuremontaigne.com/"
+  },
+  {
+    "nom": "Mandarin Oriental Lutetia, Paris",
+    "adresse": "6e arr., Paris",
+    "id_booking": "mandarin-oriental-lutetia-paris12",
+    "site_officiel": "https://www.mandarinoriental.com/en/paris/lutetia"
+  },
+  {
+    "nom": "Hotel de Montesquieu",
+    "adresse": "8e arr., Paris",
+    "id_booking": "daniel-paris",
+    "site_officiel": "https://www.hoteldemontesquieu.fr/en/"
+  },
+  {
+    "nom": "Hôtel Balzac Paris & Spa Ikoï",
+    "adresse": "8e arr., Paris",
+    "id_booking": "balzac",
+    "site_officiel": "https://www.hotelbalzac.paris/en/"
+  },
+  {
+    "nom": "Château des Fleurs Hôtel & Spa Paris",
+    "adresse": "8e arr., Paris",
+    "id_booking": "chateaudesfleurs",
+    "site_officiel": "https://www.chateaudesfleurs.paris/"
+  },
+  {
+    "nom": "L'Hôtel",
+    "adresse": "6e arr., Paris",
+    "id_booking": "paris",
+    "site_officiel": "https://www.l-hotel.com/"
+  },
+  {
+    "nom": "Sofitel Paris Arc De Triomphe",
+    "adresse": "8e arr., Paris",
+    "id_booking": "sofitel-arc-de-triomphe",
+    "site_officiel": "https://www.sofitel-paris-arcdetriomphe.com/en/"
+  },
+  {
+    "nom": "Maison Colbert Member of Meliá Collection Notre-Dame",
+    "adresse": "5e arr., Paris",
+    "id_booking": "maison-colbert-member-of-melia-collection",
+    "site_officiel": "https://hotelmaisoncolbert.com-hotel.com/"
+  },
+  {
+    "nom": "Nolinski Paris - Evok Collection",
+    "adresse": "1er arr., Paris",
+    "id_booking": "nolinski-paris",
+    "site_officiel": "https://nolinskiparis.com/en/"
+  },
+  {
+    "nom": "Maison Albar - Le Vendome",
+    "adresse": "9e arr., Paris",
+    "id_booking": "maison-albar-hotels-le-diamond",
+    "site_officiel": "https://www.maison-albar-hotels-le-pont-neuf.com/en/"
+  },
+  {
+    "nom": "Hotel Marignan Champs-Elysées",
+    "adresse": "8e arr., Paris",
+    "id_booking": "marignan-champs-elysees",
+    "site_officiel": "https://www.hotelmarignanelyseesparis.com/en/page/room-with-eiffel-tower-view.2005.html"
+  },
+  {
+    "nom": "Brach Paris - Evok Collection",
+    "adresse": "16e arr., Paris",
+    "id_booking": "brach-paris",
+    "site_officiel": "https://brachparis.com/en/"
+  },
+  {
+    "nom": "Castille Paris – Starhotels Collezione",
+    "adresse": "1er arr., Paris",
+    "id_booking": "castille-paris",
+    "site_officiel": "https://castilleparisstarhotelscollezione.com-hotel.com/"
+  },
+  {
+    "nom": "Le Cinq Codet",
+    "adresse": "7e arr., Paris",
+    "id_booking": "le-cinq-codet",
+    "site_officiel": "https://lecinqcodet.com/en/"
+  },
+  {
+    "nom": "Le Roch Hotel & Spa",
+    "adresse": "1er arr., Paris",
+    "id_booking": "le-roch-amp-spa",
+    "site_officiel": "https://leroch-hotel.com/"
+  },
+  {
+    "nom": "Hotel Montalembert",
+    "adresse": "7e arr., Paris",
+    "id_booking": "montalembert",
+    "site_officiel": "https://www.hotelmontalembert-paris.com/"
+  },
+  {
+    "nom": "Quartier Libre Opera",
+    "adresse": "9e arr., Paris",
+    "id_booking": "quartier-libre-opera",
+    "site_officiel": "https://www.quartierlibrecollection.com/"
+  },
+  {
+    "nom": "Majestic Hotel Spa - Champs Elysées",
+    "adresse": "16e arr., Paris",
+    "id_booking": "villa-majestic",
+    "site_officiel": "https://www.majestic-hotel.com/en/"
+  },
+  {
+    "nom": "Saint James Paris",
+    "adresse": "16e arr., Paris",
+    "id_booking": "saint-james-paris",
+    "site_officiel": "https://www.saint-james-paris.com/en/"
+  },
+  {
+    "nom": "Boutet Bastille Hotel Paris - MGallery Collection",
+    "adresse": "11e arr., Paris",
+    "id_booking": "paris-bastille-boutet",
+    "site_officiel": "https://www.hotel-paris-bastille-boutet.com/en/"
+  },
+  {
+    "nom": "Hotel de Nell",
+    "adresse": "9e arr., Paris",
+    "id_booking": "de-nell",
+    "site_officiel": "https://hoteldenell.com/?lang=en"
+  },
+  {
+    "nom": "Grand Powers Hotel",
+    "adresse": "8e arr., Paris",
+    "id_booking": "grand-powers",
+    "site_officiel": "https://www.hotelgrandpowersparis.com/en/"
+  },
+  {
+    "nom": "Renaissance Paris Arc de Triomphe Hotel",
+    "adresse": "17e arr., Paris",
+    "id_booking": "renaissance-paris-arc-de-triomphe",
+    "site_officiel": "https://renaissanceparisarcdetriomphehotel.com-hotel.com/"
+  },
+  {
+    "nom": "La Maison Champs Elysées",
+    "adresse": "8e arr., Paris",
+    "id_booking": "champs-elysees-paris",
+    "site_officiel": "https://www.la-maison-champs-elysees.com/en/"
+  },
+  {
+    "nom": "Renaissance Paris Republique Hotel & Spa",
+    "adresse": "10e arr., Paris",
+    "id_booking": "renaissance-paris-republique",
+    "site_officiel": "https://renaissanceparisrepubliquehotel.com-hotel.com/"
+  },
+  {
+    "nom": "Maison Barrière Vendôme",
+    "adresse": "1er arr., Paris",
+    "id_booking": "maison-barriere-vendome",
+    "site_officiel": "https://www.hotelsbarriere.com/maison-barriere-vendome"
+  },
+  {
+    "nom": "Cheval Blanc Paris & Dior Spa Cheval Blanc Paris",
+    "adresse": "1er arr., Paris",
+    "id_booking": "cheval-blanc-paris",
+    "site_officiel": "https://www.chevalblanc.com/en/maison/paris/"
+  },
+  {
+    "nom": "Hotel Hana",
+    "adresse": "2e arr., Paris",
+    "id_booking": "hana-paris",
+    "site_officiel": "https://hotelhana-paris.com/"
+  },
+  {
+    "nom": "Cour des Vosges - Evok Collection",
+    "adresse": "4e arr., Paris",
+    "id_booking": "cour-des-vosges-paris12",
+    "site_officiel": "https://courdesvosges.com/"
+  },
+  {
+    "nom": "Le Grand Mazarin",
+    "adresse": "4e arr., Paris",
+    "id_booking": "le-grand-mazarin",
+    "site_officiel": "https://www.legrandmazarin.com/"
+  },
+  {
+    "nom": "Four Seasons Hotel George V Paris",
+    "adresse": "8e arr., Paris",
+    "id_booking": "four-seasons-george-v-paris",
+    "site_officiel": "https://www.fourseasons.com/paris/"
+  },
+  {
+    "nom": "Pavillon Faubourg Saint-Germain & Spa",
+    "adresse": "7e arr., Paris",
+    "id_booking": "le-saint-hotel-paris",
+    "site_officiel": "https://en.pavillon-faubourg-saint-germain.com/"
+  },
+  {
+    "nom": "MARQUIS Faubourg Saint-Honoré",
+    "adresse": "8e arr., Paris",
+    "id_booking": "marquis-faubourg-saint-honora-c",
+    "site_officiel": "https://www.marquisfaubourgsainthonore.com/"
+  },
+  {
+    "nom": "Relais Christine",
+    "adresse": "6e arr., Paris",
+    "id_booking": "relais-christine",
+    "site_officiel": "https://www.relais-christine.com/en/"
+  },
+  {
+    "nom": "Le Bristol Paris, Oetker Hotels",
+    "adresse": "8e arr., Paris",
+    "id_booking": "le-bristol-paris",
+    "site_officiel": "https://www.oetkerhotels.com/hotels/le-bristol-paris/"
+  }
   {
     "nom": "Hotel La Lanterne & Spa By Timhotel",
     "adresse": "5e arr., Paris",
