@@ -1,4 +1,953 @@
 [
+   [
+  {
+    "nom": "Hôtel Clémence",
+    "adresse": "17e arr., Paris",
+    "id_booking": "clemence",
+    "site_officiel": "https://hotelclemence.fr/"
+  },
+  {
+    "nom": "Hotel Prince Albert Opéra",
+    "adresse": "9e arr., Paris",
+    "id_booking": "prince-albert-opera",
+    "site_officiel": "https://www.hotelprincealbert.com/en/offers/opera"
+  },
+  {
+    "nom": "Hotel de Flore - Montmartre",
+    "adresse": "18e arr., Paris",
+    "id_booking": "de-flore-paris",
+    "site_officiel": "https://www.hotelpasdecalais.com/en/"
+  },
+  {
+    "nom": "Hôtel Gérando",
+    "adresse": "9e arr., Paris",
+    "id_booking": "gerando",
+    "site_officiel": "https://www.hotelgerando.com/"
+  },
+  {
+    "nom": "Hotel Des Deux Continents",
+    "adresse": "6e arr., Paris",
+    "id_booking": "des-deux-continents",
+    "site_officiel": "https://www.hoteldes2continents.com/en/"
+  },
+  {
+    "nom": "Le Robinet d'Or Paris Canal Saint Martin",
+    "adresse": "10e arr., Paris",
+    "id_booking": "le-robinet-d-or",
+    "site_officiel": "https://www.lerobinetdor.com/"
+  },
+  {
+    "nom": "Ibis Styles Hotel Paris Gare de Lyon Bastille",
+    "adresse": "12e arr., Paris",
+    "id_booking": "jules-cesar-paris",
+    "site_officiel": "https://ibisstyleshotelparisgaredelyonbastille.com-hotel.com/"
+  },
+  {
+    "nom": "ibis Paris Gare de Lyon Diderot",
+    "adresse": "12e arr., Paris",
+    "id_booking": "ibis-gare-de-lyon-diderot",
+    "site_officiel": "https://ibisparisgaredelyondiderot.com-hotel.com/"
+  },
+  {
+    "nom": "Hotel Migny Opéra Montmartre",
+    "adresse": "9e arr., Paris",
+    "id_booking": "hoteligny",
+    "site_officiel": "https://www.hotelmigny.com/"
+  },
+  {
+    "nom": "La Finca Hôtel & Spa",
+    "adresse": "11e arr., Paris",
+    "id_booking": "auberge-flora",
+    "site_officiel": "https://www.fincalabobadilla.com/en/"
+  },
+  {
+    "nom": "Best Western Empire Elysees",
+    "adresse": "17e arr., Paris",
+    "id_booking": "best-western-empire-elysees",
+    "site_officiel": "https://www.bestwestern.com/en_US/book/hotels-in-paris/best-western-empire-elysees/propertyCode.93201.html"
+  },
+  {
+    "nom": "Hotel Muguet",
+    "adresse": "7e arr., Paris",
+    "id_booking": "muguet",
+    "site_officiel": "https://hotelparismuguet.com/en/"
+  },
+  {
+    "nom": "Hotel De Seine",
+    "adresse": "6e arr., Paris",
+    "id_booking": "de-seine",
+    "site_officiel": "https://www.hoteldeseine.com/en/"
+  },
+  {
+    "nom": "ibis Paris Gare de Lyon Ledru Rollin",
+    "adresse": "12e arr., Paris",
+    "id_booking": "ha-tel-ibis-paris-gare-de-lyon-ledru-rollin",
+    "site_officiel": "https://ibisparisgaredelyonledrurollin.com-hotel.com/"
+  },
+  {
+    "nom": "La Planque Hotel",
+    "adresse": "10e arr., Paris",
+    "id_booking": "la-planque-paris",
+    "site_officiel": "https://www.laplanquehotel.com/"
+  },
+  {
+    "nom": "Hotel Alhambra",
+    "adresse": "11e arr., Paris",
+    "id_booking": "alhambra-paris",
+    "site_officiel": "https://www.hotelalhambrapalace.com/"
+  },
+  {
+    "nom": "Hotel Madeleine De Senlis",
+    "adresse": "5e arr., Paris",
+    "id_booking": "de-senlis",
+    "site_officiel": "https://www.hotelmadeleinedesenlis.com/en/"
+  },
+  {
+    "nom": "Hotel Bastille Speria",
+    "adresse": "4e arr., Paris",
+    "id_booking": "bastille-speria",
+    "site_officiel": "https://www.hotel-bastille-speria.com/"
+  },
+  {
+    "nom": "Motel One Paris-Porte Dorée",
+    "adresse": "12e arr., Paris",
+    "id_booking": "motel-one-paris-porte-doree",
+    "site_officiel": "https://www.motel-one.com/fr/hotels/paris/hotel-paris-porte-doree/"
+  },
+  {
+    "nom": "Hotel Cluny Square",
+    "adresse": "5e arr., Paris",
+    "id_booking": "clunysquareparis",
+    "site_officiel": "https://www.cluny-paris-hotel.com/"
+  },
+  {
+    "nom": "ibis Paris Bastille Opera",
+    "adresse": "11e arr., Paris",
+    "id_booking": "paris-bastille-opera",
+    "site_officiel": "https://ibisparisbastilleopera.com-hotel.com/"
+  },
+  {
+    "nom": "Hotel Minerve",
+    "adresse": "5e arr., Paris",
+    "id_booking": "minerve",
+    "site_officiel": "https://www.parishotelminerve.com/en/"
+  },
+  {
+    "nom": "Hotel Choiseul Opera",
+    "adresse": "2e arr., Paris",
+    "id_booking": "choiseul-opera",
+    "site_officiel": "https://www.hotelchoiseuloperaparis.com/en/"
+  },
+  {
+    "nom": "Hotel Elysees 8",
+    "adresse": "8e arr., Paris",
+    "id_booking": "timelysees",
+    "site_officiel": "https://elysees-paris-hotel.com/en/"
+  },
+  {
+    "nom": "Hotel Ascot Opera",
+    "adresse": "2e arr., Paris",
+    "id_booking": "ascot",
+    "site_officiel": "https://www.ascotparishotel.com/en/"
+  },
+  {
+    "nom": "Hotel de Fleurie - Saint-Germain-des-Pres",
+    "adresse": "6e arr., Paris",
+    "id_booking": "de-fleurie",
+    "site_officiel": "https://www.hotelfoliedespres.com/en/"
+  },
+  {
+    "nom": "Best Western Hotel Opéra Drouot",
+    "adresse": "9e arr., Paris",
+    "id_booking": "comfort-opera-drouot",
+    "site_officiel": "https://www.bestwestern.com/en_US/book/hotels-in-paris/best-western-hotel-opera-drouot/propertyCode.93818.html"
+  },
+  {
+    "nom": "ibis Paris Grands Boulevards Opéra 9e",
+    "adresse": "9e arr., Paris",
+    "id_booking": "ibis-paris-grands-boulevards-opa-c-ra-9e",
+    "site_officiel": "https://ibis-opera-grand-boulevard.fr-paris.fr/en/contact-us/"
+  },
+  {
+    "nom": "Hotel de Neuve by Happyculture",
+    "adresse": "4e arr., Paris",
+    "id_booking": "jardindeparismaraisbastille",
+    "site_officiel": "https://www.hoteldeneuveparis.com/en/"
+  },
+  {
+    "nom": "Amadeus Hotel",
+    "adresse": "12e arr., Paris",
+    "id_booking": "amadeus-hotel",
+    "site_officiel": "https://www.hotelamadeus.fr/"
+  },
+  {
+    "nom": "ibis Styles Paris Cadet Lafayette",
+    "adresse": "9e arr., Paris",
+    "id_booking": "all-season-paris-9-lafayette",
+    "site_officiel": "https://ibisstylespariscadetlafayette.com-hotel.com/"
+  },
+  {
+    "nom": "Hotel Orphée - Orso Hotels",
+    "adresse": "5e arr., Paris",
+    "id_booking": "hotelorpheeparis",
+    "site_officiel": "https://en.orsohotels.com/hotel-orphee"
+  },
+  {
+    "nom": "Campanile Paris 14 - Maine Montparnasse",
+    "adresse": "14e arr., Paris",
+    "id_booking": "campparmainemontpar",
+    "site_officiel": "https://paris-14-maine-montparnasse.campanile.com/en-us/"
+  },
+  {
+    "nom": "Paris France Hotel",
+    "adresse": "3e arr., Paris",
+    "id_booking": "paris-france",
+    "site_officiel": "https://www.paris-france-hotel.com/"
+  },
+  {
+    "nom": "Hotel du Champ de Mars",
+    "adresse": "7e arr., Paris",
+    "id_booking": "du-champ-de-mars",
+    "site_officiel": "https://www.hotelduchampdemars.com/"
+  },
+  {
+    "nom": "Hotel George Sand Opéra Paris",
+    "adresse": "9e arr., Paris",
+    "id_booking": "george-sand",
+    "site_officiel": "https://hotelgeorgesand.com/en/"
+  },
+  {
+    "nom": "Princesse Caroline",
+    "adresse": "17e arr., Paris",
+    "id_booking": "princesse-caroline",
+    "site_officiel": "https://www.hotelprincessecaroline.fr/en/"
+  },
+  {
+    "nom": "ibis Styles Paris Opera Lafayette",
+    "adresse": "9e arr., Paris",
+    "id_booking": "all-seasons-paris-lafayette-opera",
+    "site_officiel": "https://ibis-styles-paris-lafayette-opera.parishotelsweb.com/en/"
+  },
+  {
+    "nom": "Verlain",
+    "adresse": "11e arr., Paris",
+    "id_booking": "verlain",
+    "site_officiel": "https://clg-verlaine-lesmureaux.ac-versailles.fr/"
+  },
+  {
+    "nom": "Amiral-Fondary",
+    "adresse": "15e arr., Paris",
+    "id_booking": "amiral-fondary",
+    "site_officiel": "https://www.hotelamiralfondary.com/en/"
+  },
+  {
+    "nom": "Hotel Locomo - Gare de Lyon Bastille",
+    "adresse": "12e arr., Paris",
+    "id_booking": "adriatic",
+    "site_officiel": "https://hotel-locomo-paris-gare-de-lyon.com/en/"
+  },
+  {
+    "nom": "Hotel Aida Marais",
+    "adresse": "10e arr., Paris",
+    "id_booking": "aida-marais",
+    "site_officiel": "https://hotel-aida-marais-paris.com/"
+  },
+  {
+    "nom": "Hotel Michelet Odeon",
+    "adresse": "6e arr., Paris",
+    "id_booking": "michelet-odeon",
+    "site_officiel": "https://www.hotelmicheletodeon.com/en/"
+  },
+  {
+    "nom": "Les Tournelles",
+    "adresse": "3e arr., Paris",
+    "id_booking": "les-tournelles-paris",
+    "site_officiel": "https://www.lestournelles.com/en/"
+  },
+  {
+    "nom": "Hotel Abbatial Saint Germain",
+    "adresse": "5e arr., Paris",
+    "id_booking": "abbatial-st-germain",
+    "site_officiel": "https://hotelabbatial.com/en/"
+  },
+  {
+    "nom": "Hotel Glasgow Monceau by Patrick Hayat",
+    "adresse": "17e arr., Paris",
+    "id_booking": "glasgowmonceauparis",
+    "site_officiel": "https://www.hotel-glasgow.com/en/"
+  },
+  {
+    "nom": "Ibis Styles Paris Gare Saint Lazare",
+    "adresse": "8e arr., Paris",
+    "id_booking": "ibis-styles-paris-gare-saint-lazare",
+    "site_officiel": "https://ibisstylesparisgaresaintlazare.com-hotel.com/"
+  },
+  {
+    "nom": "Hotel Fior d'Aliza",
+    "adresse": "9e arr., Paris",
+    "id_booking": "lamartine",
+    "site_officiel": "https://fiordaliza.paris/en/"
+  },
+  {
+    "nom": "Petit Madeleine Hôtel",
+    "adresse": "8e arr., Paris",
+    "id_booking": "hotelpaixmadeleine",
+    "site_officiel": "https://www.petitmadeleinehotel.com/fr/"
+  },
+  {
+    "nom": "Hotel Marena",
+    "adresse": "9e arr., Paris",
+    "id_booking": "marena",
+    "site_officiel": "https://www.hotel-marena.com/fr/"
+  },
+  {
+    "nom": "Hôtel La Canopée",
+    "adresse": "8e arr., Paris",
+    "id_booking": "la-canopee-paris",
+    "site_officiel": "https://hotelcanopee.com/"
+  },
+  {
+    "nom": "Hôtel Orchidée",
+    "adresse": "14e arr., Paris",
+    "id_booking": "de-l-orchidee",
+    "site_officiel": "https://www.hotel-orchidee.fr/"
+  },
+  {
+    "nom": "Hotel Viator - Gare de Lyon",
+    "adresse": "12e arr., Paris",
+    "id_booking": "viator",
+    "site_officiel": "https://www.paris-hotel-viator.com/"
+  },
+  {
+    "nom": "Le Pavillon Hotel",
+    "adresse": "7e arr., Paris",
+    "id_booking": "le-pavillon",
+    "site_officiel": "https://www.lepavillon.com/"
+  },
+  {
+    "nom": "Hotel Haussmann Saint Augustin",
+    "adresse": "8e arr., Paris",
+    "id_booking": "paris-haussmann-st-augustin",
+    "site_officiel": "https://www.hotel-haussmann-saint-augustin.fr/en/"
+  },
+  {
+    "nom": "Hotel De Suez",
+    "adresse": "5e arr., Paris",
+    "id_booking": "de-suez",
+    "site_officiel": "https://hoteldesuezparis.com/en/"
+  },
+  {
+    "nom": "Libertel Montmartre Opéra",
+    "adresse": "9e arr., Paris",
+    "id_booking": "libertel-amiral-duperre",
+    "site_officiel": "https://en.libertel-montmartre-opera.com/rooms/"
+  },
+  {
+    "nom": "Hotel du Pré",
+    "adresse": "9e arr., Paris",
+    "id_booking": "hoteldupre",
+    "site_officiel": "https://www.leshotelsdupre.com/our-hotels/relais-du-pre/hotel-and-services"
+  },
+  {
+    "nom": "Hôtel Brésil Opéra SPA",
+    "adresse": "9e arr., Paris",
+    "id_booking": "bresil-opera",
+    "site_officiel": "https://www.hotel-bresil-opera.com/en/english/"
+  },
+  {
+    "nom": "Fred'Hotel",
+    "adresse": "14e arr., Paris",
+    "id_booking": "fred",
+    "site_officiel": "https://www.fred-hotel.com/"
+  },
+  {
+    "nom": "Passy Eiffel",
+    "adresse": "16e arr., Paris",
+    "id_booking": "passy-eiffel",
+    "site_officiel": "https://www.passyeiffel.com/"
+  },
+  {
+    "nom": "Prince Albert Lyon Bercy",
+    "adresse": "12e arr., Paris",
+    "id_booking": "prince-albert-lyon-bercy",
+    "site_officiel": "https://www.hotelprincealbert.com/en/offers/lyon-bercy"
+  },
+  {
+    "nom": "Hôtel AMI - Orso Hotels",
+    "adresse": "15e arr., Paris",
+    "id_booking": "hotel-ami-paris",
+    "site_officiel": "https://www.orsohotels.com/hotel-ami"
+  },
+  {
+    "nom": "Hotel Left Bank Saint Germain",
+    "adresse": "6e arr., Paris",
+    "id_booking": "hotel-left-bank",
+    "site_officiel": "https://www.hotelleftbank.com/en/"
+  },
+  {
+    "nom": "Eiffel Kennedy",
+    "adresse": "16e arr., Paris",
+    "id_booking": "eiffelkennedy",
+    "site_officiel": "https://www.eiffelkennedy.com/"
+  },
+  {
+    "nom": "La Perle Saint Germain des Prés",
+    "adresse": "6e arr., Paris",
+    "id_booking": "la-perle",
+    "site_officiel": "https://www.hotel-paris-laperle.com/en/"
+  },
+  {
+    "nom": "Hotel Bel Oranger Gare de Lyon",
+    "adresse": "12e arr., Paris",
+    "id_booking": "au-nouvel-hotel-lyon",
+    "site_officiel": "https://www.hotelbelorangerparis.com/fr/index.html"
+  },
+  {
+    "nom": "Hotel Britannique",
+    "adresse": "1er arr., Paris",
+    "id_booking": "britannique-paris",
+    "site_officiel": "https://hotel-britannique.fr/"
+  },
+  {
+    "nom": "Hotel 10 Opéra by HappyCulture",
+    "adresse": "9e arr., Paris",
+    "id_booking": "royal-opera",
+    "site_officiel": "https://www.hotel-10-opera.com/en/"
+  },
+  {
+    "nom": "Le Bailli",
+    "adresse": "15e arr., Paris",
+    "id_booking": "bailli-de-suffren-tour-eiffel",
+    "site_officiel": "https://www.lebailliparis.com/legal-notice"
+  },
+  {
+    "nom": "Libertel Austerlitz Jardin des Plantes",
+    "adresse": "5e arr., Paris",
+    "id_booking": "libertel-austerlitz",
+    "site_officiel": "https://en.libertel-austerlitz-jardin-des-plantes.com/rooms/"
+  },
+  {
+    "nom": "Jardins Eiffel",
+    "adresse": "7e arr., Paris",
+    "id_booking": "hoteljardinseiffel",
+    "site_officiel": "https://www.hoteljardinseiffel.com/"
+  },
+  {
+    "nom": "Cler Hotel",
+    "adresse": "7e arr., Paris",
+    "id_booking": "cler-paris",
+    "site_officiel": "https://www.clerhotel.com/en/"
+  },
+  {
+    "nom": "Apollinaire",
+    "adresse": "14e arr., Paris",
+    "id_booking": "apollinaire-paris",
+    "site_officiel": "https://www.apollinaire-nice.com/en/"
+  },
+  {
+    "nom": "Holiday Inn Express Paris-Canal De La Villette by IHG",
+    "adresse": "19e arr., Paris",
+    "id_booking": "holiday-inn-express-paris-canal-de-la-villette",
+    "site_officiel": "https://holidayinn-canal-villette.h-rez.com/"
+  },
+  {
+    "nom": "Le Temple De Jeanne",
+    "adresse": "4e arr., Paris",
+    "id_booking": "pointe-rivoli",
+    "site_officiel": "https://www.letempledejeanne.com/"
+  },
+  {
+    "nom": "Hotel Paix Republique",
+    "adresse": "10e arr., Paris",
+    "id_booking": "paix-republique",
+    "site_officiel": "https://www.hotel-paix-republique.fr/"
+  },
+  {
+    "nom": "Best Western Aramis Saint Germain",
+    "adresse": "6e arr., Paris",
+    "id_booking": "aramis",
+    "site_officiel": "https://www.bestwestern.com/en_US/book/hotels-in-paris/best-western-aramis-saint-germain/propertyCode.93225.html"
+  },
+  {
+    "nom": "Hotel Pax Opera",
+    "adresse": "9e arr., Paris",
+    "id_booking": "pax-opera",
+    "site_officiel": "https://www.hotelpaxopera.com/en/"
+  },
+  {
+    "nom": "Excelsior Opera",
+    "adresse": "9e arr., Paris",
+    "id_booking": "excelsior-opera",
+    "site_officiel": "https://hotel-excelsior-opera.com/"
+  },
+  {
+    "nom": "Hotel Scarlett",
+    "adresse": "20e arr., Paris",
+    "id_booking": "scarlett",
+    "site_officiel": "https://www.hotelscarlett.com/"
+  },
+  {
+    "nom": "HOTEL ALISON",
+    "adresse": "8e arr., Paris",
+    "id_booking": "alison",
+    "site_officiel": "https://www.hotel-alison.com/en/"
+  },
+  {
+    "nom": "Odeon Hotel",
+    "adresse": "6e arr., Paris",
+    "id_booking": "odeon-paris",
+    "site_officiel": "https://odeonhotel.fr/en/"
+  },
+  {
+    "nom": "Oh la la ! Hotel Bar Paris Bastille",
+    "adresse": "11e arr., Paris",
+    "id_booking": "oh-la-la",
+    "site_officiel": "https://www.ohlalabastille.com/"
+  },
+  {
+    "nom": "Hotel Des Arenes",
+    "adresse": "5e arr., Paris",
+    "id_booking": "des-arenes",
+    "site_officiel": "https://www.hotel-des-arenes.com/fr/"
+  },
+  {
+    "nom": "Le Quartier Bercy-Square",
+    "adresse": "12e arr., Paris",
+    "id_booking": "hoteldereuillyparis",
+    "site_officiel": "https://lequartierhotelbs.com/fr/"
+  },
+  {
+    "nom": "Hotel Terminus Lyon",
+    "adresse": "12e arr., Paris",
+    "id_booking": "hotelterminuslyon",
+    "site_officiel": "https://hotelterminuslyon.com/en/"
+  },
+  {
+    "nom": "Hotel Ernest",
+    "adresse": "10e arr., Paris",
+    "id_booking": "ernest-paris",
+    "site_officiel": "https://www.hotelernest.com/"
+  },
+  {
+    "nom": "Le Petit Cosy Hôtel",
+    "adresse": "12e arr., Paris",
+    "id_booking": "cosy",
+    "site_officiel": "https://www.lepetitcosyhotel.com/"
+  },
+  {
+    "nom": "Rose Bourbon",
+    "adresse": "15e arr., Paris",
+    "id_booking": "rose-bourbon",
+    "site_officiel": "https://www.fourrosesbourbon.com/"
+  },
+  {
+    "nom": "Chambellan Morgane",
+    "adresse": "16e arr., Paris",
+    "id_booking": "chambellan-morgane",
+    "site_officiel": "https://www.hotelchambellanmorgane.fr/en/home/"
+  },
+  {
+    "nom": "Exe Paris Centre",
+    "adresse": "8e arr., Paris",
+    "id_booking": "exe-paris-centre",
+    "site_officiel": "https://exe-paris-centre.parishotelsweb.com/en/"
+  },
+  {
+    "nom": "Hotel des Grandes Ecoles",
+    "adresse": "5e arr., Paris",
+    "id_booking": "des-grandes-ecoles",
+    "site_officiel": "https://www.hoteldesgrandesecoles.com/"
+  },
+  {
+    "nom": "Chouette Hotel",
+    "adresse": "15e arr., Paris",
+    "id_booking": "ajiel",
+    "site_officiel": "https://www.chouettehotel.com/"
+  },
+  {
+    "nom": "Magda Champs Elysées",
+    "adresse": "17e arr., Paris",
+    "id_booking": "royalmagdaetoile",
+    "site_officiel": "https://www.arcotel-magdachampselysees.com/en/"
+  },
+  {
+    "nom": "Hotel Paris Louis Blanc",
+    "adresse": "10e arr., Paris",
+    "id_booking": "paris-louis-blanc",
+    "site_officiel": "https://www.hotel-paris-louis-blanc.com/en/"
+  },
+  {
+    "nom": "Hotel Royal Phare",
+    "adresse": "7e arr., Paris",
+    "id_booking": "royal-phare",
+    "site_officiel": "https://www.hotel-royalphare-paris.com/en/services-policies/"
+  },
+  {
+    "nom": "Hotel Massena",
+    "adresse": "8e arr., Paris",
+    "id_booking": "massena-paris",
+    "site_officiel": "https://www.hotel-massena-nice.com/"
+  },
+  {
+    "nom": "Libertel Canal Saint Martin",
+    "adresse": "19e arr., Paris",
+    "id_booking": "libertel-villette",
+    "site_officiel": "https://en.libertel-canal-saint-martin.com/contact/"
+  },
+  {
+    "nom": "Charles V Marais Apartment",
+    "adresse": "4e arr., Paris",
+    "id_booking": "charles-v-marais-apartment",
+    "site_officiel": "https://www.hotelcharlesv.fr/en/"
+  },
+  {
+    "nom": "Hotel Inn Design Paris Place d'italie",
+    "adresse": "13e arr., Paris",
+    "id_booking": "hotel-inn-design-paris-place-ditalie",
+    "site_officiel": "https://hotel-inn-paris.fr/en/homepage/"
+  },
+  {
+    "nom": "Hotel Boronali - Nouvellement rénové",
+    "adresse": "18e arr., Paris",
+    "id_booking": "boronali",
+    "site_officiel": "https://www.hotel-boronali.com/"
+  },
+  {
+    "nom": "Floride-Etoile",
+    "adresse": "16e arr., Paris",
+    "id_booking": "florideetoileparis",
+    "site_officiel": "https://www.floride-paris-hotel.com/"
+  },
+  {
+    "nom": "Acacias Etoile",
+    "adresse": "17e arr., Paris",
+    "id_booking": "acaciasetoile",
+    "site_officiel": "https://www.arcotel-acaciasetoile.com/en/"
+  },
+  {
+    "nom": "All Suites Appart Hôtel et Hôtel - Paris 13 - Porte d'Italie",
+    "adresse": "13e arr., Paris",
+    "id_booking": "all-suites-appart-paris-13-porte-d-italie",
+    "site_officiel": "https://www.allsuites.com/hotel/appart-hotel-paris-13"
+  },
+  {
+    "nom": "Hotel Beaugrenelle Tour Eiffel",
+    "adresse": "15e arr., Paris",
+    "id_booking": "beaugrenelletoureiffel",
+    "site_officiel": "https://www.hotelbeaugrenelle.com/en/"
+  },
+  {
+    "nom": "Hôtel Zélie",
+    "adresse": "17e arr., Paris",
+    "id_booking": "hotel-zelie",
+    "site_officiel": "https://www.hotelzelie.com/fr/"
+  },
+  {
+    "nom": "Libertel Gare Du Nord Suede",
+    "adresse": "10e arr., Paris",
+    "id_booking": "libertel-suede-gare-du-nord",
+    "site_officiel": "https://en.libertel-gare-du-nord-suede.com/services/"
+  },
+  {
+    "nom": "Hotel Apolonia Paris Montmartre; Sure Hotel Collection by Best Western",
+    "adresse": "18e arr., Paris",
+    "id_booking": "comfort-hotel-lamarck-caulaincourt",
+    "site_officiel": "https://hotel-montmartre-apolonia.com/"
+  },
+  {
+    "nom": "Hôtel du Théâtre by Patrick Hayat",
+    "adresse": "17e arr., Paris",
+    "id_booking": "hoteldutheatre",
+    "site_officiel": "https://www.hotel-theatre.com/en/"
+  },
+  {
+    "nom": "Appia La Fayette",
+    "adresse": "10e arr., Paris",
+    "id_booking": "hotelappialafayette",
+    "site_officiel": "https://www.hotelappia.com/"
+  },
+  {
+    "nom": "Crystal Hotel",
+    "adresse": "6e arr., Paris",
+    "id_booking": "hotelcrystal2",
+    "site_officiel": "https://hotelcrystalsaintgermainparis.com/en/"
+  },
+  {
+    "nom": "Campanile Prime Paris 19 - La Villette",
+    "adresse": "19e arr., Paris",
+    "id_booking": "campanile-prime-paris19-lavillette",
+    "site_officiel": "https://prime-paris-la-villette.campanile.com/en-us/"
+  },
+  {
+    "nom": "Hotel Lilas Blanc",
+    "adresse": "15e arr., Paris",
+    "id_booking": "lilas-blanc",
+    "site_officiel": "https://lilasblanc-hotel.com/en/"
+  },
+  {
+    "nom": "ibis Styles Paris Buttes Chaumont",
+    "adresse": "19e arr., Paris",
+    "id_booking": "le-laumia-re",
+    "site_officiel": "https://ibisstylesparisbutteschaumont.com-hotel.com/"
+  },
+  {
+    "nom": "Hotel Archetype Etoile",
+    "adresse": "17e arr., Paris",
+    "id_booking": "centre-ville-etoile-paris",
+    "site_officiel": "https://hotel-archetype-etoile.fr/en/faq-en/"
+  },
+  {
+    "nom": "Hotel Bonaparte",
+    "adresse": "6e arr., Paris",
+    "id_booking": "bonaparte-paris",
+    "site_officiel": "https://www.hotelbonaparte.fr/"
+  },
+  {
+    "nom": "Prince Albert Montmartre",
+    "adresse": "18e arr., Paris",
+    "id_booking": "ha-tel-prince-montmartre",
+    "site_officiel": "https://www.hotelprincealbert.com/en/hotel-prince-albert-montmartre"
+  },
+  {
+    "nom": "Hotel Albe Bastille",
+    "adresse": "12e arr., Paris",
+    "id_booking": "hotel-belle-epoque-paris",
+    "site_officiel": "https://www.hotelalbebastille.com/"
+  },
+  {
+    "nom": "Convention Montparnasse",
+    "adresse": "15e arr., Paris",
+    "id_booking": "convention-montparnasse",
+    "site_officiel": "https://www.conventionmontparnasseparishotel.com/"
+  },
+  {
+    "nom": "Mama Shelter Paris West",
+    "adresse": "15e arr., Paris",
+    "id_booking": "mama-shelter-paris-west",
+    "site_officiel": "https://mamashelter.com/"
+  },
+  {
+    "nom": "Hotel Max",
+    "adresse": "14e arr., Paris",
+    "id_booking": "jardindalesia",
+    "site_officiel": "https://www.hotel-max.fr/"
+  },
+  {
+    "nom": "Hôtel La Nouvelle République & Hammam",
+    "adresse": "11e arr., Paris",
+    "id_booking": "la-nouvelle-republique",
+    "site_officiel": "https://www.hotel-la-nouvelle-republique.paris/"
+  },
+  {
+    "nom": "Hotel Concortel Paris",
+    "adresse": "8e arr., Paris",
+    "id_booking": "concortel",
+    "site_officiel": "https://concortel-paris-hotel.com/?locale=en"
+  },
+  {
+    "nom": "Villa Glamour",
+    "adresse": "16e arr., Paris",
+    "id_booking": "villa-glamour",
+    "site_officiel": "https://www.hotelvillaglamour.com/"
+  },
+  {
+    "nom": "Hotel Paradis",
+    "adresse": "10e arr., Paris",
+    "id_booking": "hotel-paradis",
+    "site_officiel": "https://hotelparadisparis.com/"
+  },
+  {
+    "nom": "Grand Hotel Francais",
+    "adresse": "11e arr., Paris",
+    "id_booking": "hotelfrancais",
+    "site_officiel": "https://grand-hotel-francais.com/en/"
+  },
+  {
+    "nom": "Hotel Brady - Gare de l'Est",
+    "adresse": "10e arr., Paris",
+    "id_booking": "hotel-brady-gare-de-l-est",
+    "site_officiel": "https://www.hotelbrady.com/"
+  },
+  {
+    "nom": "Arc De Triomphe",
+    "adresse": "17e arr., Paris",
+    "id_booking": "arc-de-triomphe",
+    "site_officiel": "https://www.paris-arc-de-triomphe.fr/en"
+  },
+  {
+    "nom": "Best Western Au Trocadéro",
+    "adresse": "16e arr., Paris",
+    "id_booking": "bestwesternautrocaderoparis",
+    "site_officiel": "https://www.bestwestern.com/en_US/book/hotels-in-paris/best-western-au-trocadero/propertyCode.93261.html"
+  },
+  {
+    "nom": "Montparnasse Daguerre",
+    "adresse": "14e arr., Paris",
+    "id_booking": "hoteldaguerre",
+    "site_officiel": "https://www.hotelmontparnassedaguerre.com/"
+  },
+  {
+    "nom": "HOTEL DU PRINTEMPS",
+    "adresse": "8e arr., Paris",
+    "id_booking": "du-printemps-paris",
+    "site_officiel": "https://www.hotelduprintemps.fr/en/"
+  },
+  {
+    "nom": "Trianon Gare de Lyon",
+    "adresse": "12e arr., Paris",
+    "id_booking": "trianongaredulyon",
+    "site_officiel": "https://www.trianongaredelyon.com/"
+  },
+  {
+    "nom": "Champerret Heliopolis",
+    "adresse": "17e arr., Paris",
+    "id_booking": "champerret-heliopolis",
+    "site_officiel": "https://champerret-heliopolis-paris-hotel.com/fr/"
+  },
+  {
+    "nom": "New Orient Hotel",
+    "adresse": "8e arr., Paris",
+    "id_booking": "new-orient",
+    "site_officiel": "https://www.hotelneworient.com/"
+  },
+  {
+    "nom": "Maison 46",
+    "adresse": "15e arr., Paris",
+    "id_booking": "best-western-eiffel-cambronne",
+    "site_officiel": "https://www.maison46.com/fr/"
+  },
+  {
+    "nom": "Hotel La Manufacture",
+    "adresse": "13e arr., Paris",
+    "id_booking": "manufacture",
+    "site_officiel": "https://www.hotel-la-manufacture.com/"
+  },
+  {
+    "nom": "Hotel Eiffel Capitol",
+    "adresse": "15e arr., Paris",
+    "id_booking": "eiffelcapitol",
+    "site_officiel": "https://www.paris-hotel-eiffel-capitol.com/en/"
+  },
+  {
+    "nom": "Hotel Boileau",
+    "adresse": "16e arr., Paris",
+    "id_booking": "hotelboileau",
+    "site_officiel": "https://www.hotel-boileau.com/en"
+  },
+  {
+    "nom": "Hotel Cervantes by Happyculture",
+    "adresse": "8e arr., Paris",
+    "id_booking": "ha-tel-cervantes",
+    "site_officiel": "https://www.hotelcervantesparis.com/en/"
+  },
+  {
+    "nom": "Le Citizen Hotel",
+    "adresse": "10e arr., Paris",
+    "id_booking": "le-citizen",
+    "site_officiel": "https://lecitizenhotel.com/"
+  },
+  {
+    "nom": "Europe Hotel Paris Eiffel",
+    "adresse": "15e arr., Paris",
+    "id_booking": "europe-paris",
+    "site_officiel": "https://www.europehotelparis.com/"
+  },
+  {
+    "nom": "Hotel Astoria - Astotel",
+    "adresse": "8e arr., Paris",
+    "id_booking": "astoriaopera",
+    "site_officiel": "https://www.hotelastoria-barcelona.com/en"
+  },
+  {
+    "nom": "Le Trente",
+    "adresse": "17e arr., Paris",
+    "id_booking": "le-trente",
+    "site_officiel": "https://letrentehotel.com/"
+  },
+  {
+    "nom": "Hotel Bridget",
+    "adresse": "20e arr., Paris",
+    "id_booking": "bridget",
+    "site_officiel": "https://www.hotelbridget.com/"
+  },
+  {
+    "nom": "Le Mireille",
+    "adresse": "17e arr., Paris",
+    "id_booking": "le-mireille-paris",
+    "site_officiel": "https://hotellemireille.com/en/"
+  },
+  {
+    "nom": "Hotel Delambre",
+    "adresse": "14e arr., Paris",
+    "id_booking": "delambre-paris",
+    "site_officiel": "https://www.delambre-paris-hotel.com/"
+  },
+  {
+    "nom": "Hotel Magenta 38 by Happyculture",
+    "adresse": "10e arr., Paris",
+    "id_booking": "ha-tel-magenta",
+    "site_officiel": "https://hotelmagenta38.com/en/"
+  },
+  {
+    "nom": "Hotel Miramar",
+    "adresse": "15e arr., Paris",
+    "id_booking": "miramar-paris",
+    "site_officiel": "https://hotelmiramar75.com/"
+  },
+  {
+    "nom": "Hotel Mogador",
+    "adresse": "9e arr., Paris",
+    "id_booking": "mogador-paris",
+    "site_officiel": "http://www.hotelmogador.com/en/mentions-legales.html"
+  },
+  {
+    "nom": "Kyriad Hotel XIII Italie Gobelins",
+    "adresse": "13e arr., Paris",
+    "id_booking": "hotelkyriaditaliegobelins",
+    "site_officiel": "https://kyriadhotelxiiiitaliegobelins.com-hotel.com/"
+  },
+  {
+    "nom": "Maison Urbaine",
+    "adresse": "19e arr., Paris",
+    "id_booking": "trema",
+    "site_officiel": "https://www.maisonurbaine.com/en/"
+  },
+  {
+    "nom": "Hotel Eiffel Seine",
+    "adresse": "15e arr., Paris",
+    "id_booking": "relaiseiffelgrenelle",
+    "site_officiel": "https://www.hotel-eiffel-saint-charles.com/en/"
+  },
+  {
+    "nom": "Chatillon Paris Montparnasse",
+    "adresse": "14e arr., Paris",
+    "id_booking": "chatillon",
+    "site_officiel": "https://www.hotelchatillon-parismontparnasse.com/en/"
+  },
+  {
+    "nom": "Hotel Claude Bernard Saint-Germain",
+    "adresse": "5e arr., Paris",
+    "id_booking": "claude-bernard-saint-germain",
+    "site_officiel": "https://www.hotelclaudebernardparis.com/en/"
+  },
+  {
+    "nom": "Hotel Ariane Montparnasse by Patrick Hayat",
+    "adresse": "14e arr., Paris",
+    "id_booking": "ariane-montparnasse",
+    "site_officiel": "https://www.hotel-ariane.fr/en/"
+  },
+  {
+    "nom": "Gavarni",
+    "adresse": "16e arr., Paris",
+    "id_booking": "gavarni",
+    "site_officiel": "https://www.gavarni.com/fr/"
+  },
+  {
+    "nom": "Hotel Splendor Elysées",
+    "adresse": "17e arr., Paris",
+    "id_booking": "splendor",
+    "site_officiel": "https://www.hotel-splendor.com/en/"
+  },
    {
     "nom": "Hôtel D'Aubusson",
     "adresse": "6e arr., Paris",
