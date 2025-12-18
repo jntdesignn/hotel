@@ -1,0 +1,2264 @@
+[
+  {
+    "id": "htl_le_quartier_bercy_square",
+    "name": "Le Quartier Bercy-Square",
+    "booking_slug": "/hotel/fr/hoteldereuillyparis.fr.html",
+    "engine_type": "synxis",
+    "engine_params": {
+      "chain_id": "6162",
+      "hotel_id": "51934"
+    },
+    "price_mode": "night"
+  },
+  
+  {
+    "id": "the-chess",
+    "name": "The Chess Hotel",
+    "booking_slug": "/hotel/fr/the-chess",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "a26d58c8-ccb5-4246-9bab-ab6000f28ead"
+    },
+    "price_mode": "night"
+  },
+  
+  {
+    "id": "htl_royal_madeleine",
+    "name": "Hotel Royal Madeleine",
+    "booking_slug": "/hotel/fr/royal-madeleine-paris",
+    "engine_type": "dedge",
+    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2A8D/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "price_mode": "stay"
+  },
+  {
+    "id": "htl_collectionneur",
+    "name": "L'Hôtel Collectionneur",
+    "booking_slug": "/hotel/fr/collectionneur",
+    "engine_type": "dedge",
+    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2PNY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "price_selector": "[data-testid='bestRate-price']",
+    "price_selector_alt": [
+      ".cvg-rate-card__price .cvg-typo-heading-3",
+      "[data-testid*='price']"
+    ],
+    "price_mode": "night"
+  },
+  {
+    "id": "htl_seven",
+    "name": "Hotel Seven",
+    "booking_slug": "/hotel/fr/seven",
+    "engine_type": "dedge",
+    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Seven/2GQ4/9454/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "price_selector": "[data-testid='bestRate-price']",
+    "price_selector_alt": [
+      ".cvg-rate-card__price .cvg-typo-heading-3",
+      "[data-testid*='price']"
+    ],
+    "price_mode": "night"
+  },
+    {
+      "id": "prince-albert-opera",
+      "name": "Hotel Prince Albert Opéra",
+      "booking_slug": "/hotel/fr/prince-albert-opera",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J14K/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "de-flore-paris",
+      "name": "Hotel de Flore - Montmartre",
+      "booking_slug": "/hotel/fr/de-flore-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2DS4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "des-deux-continents",
+      "name": "Hotel Des Deux Continents",
+      "booking_slug": "/hotel/fr/des-deux-continents",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2TYR/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-robinet-d-or",
+      "name": "Le Robinet d'Or Paris Canal Saint Martin",
+      "booking_slug": "/hotel/fr/le-robinet-d-or",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2YM1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "muguet",
+      "name": "Hotel Muguet",
+      "booking_slug": "/hotel/fr/muguet",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29YI/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "de-seine",
+      "name": "Hotel De Seine",
+      "booking_slug": "/hotel/fr/de-seine",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2TD1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "night"
+    },
+    {
+      "id": "la-planque-paris",
+      "name": "La Planque Hotel",
+      "booking_slug": "/hotel/fr/la-planque-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJ2R/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "de-senlis",
+      "name": "Hotel Madeleine De Senlis",
+      "booking_slug": "/hotel/fr/de-senlis",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Madeleine-de-Senlis/JTJ6/30108/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "bastille-speria",
+      "name": "Hotel Bastille Speria",
+      "booking_slug": "/hotel/fr/bastille-speria",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JHE1/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "minerve",
+      "name": "Hotel Minerve",
+      "booking_slug": "/hotel/fr/minerve",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2QAV/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "choiseul-opera",
+      "name": "Hotel Choiseul Opera",
+      "booking_slug": "/hotel/fr/choiseul-opera",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VKP/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "timelysees",
+      "name": "Hotel Elysees 8",
+      "booking_slug": "/hotel/fr/timelysees",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2ZR7/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "ascot",
+      "name": "Hotel Ascot Opera",
+      "booking_slug": "/hotel/fr/ascot",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2NPY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "jardindeparismaraisbastille",
+      "name": "Hotel de Neuve by Happyculture",
+      "booking_slug": "/hotel/fr/jardindeparismaraisbastille",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VT6/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "paris-france",
+      "name": "Paris France Hotel",
+      "booking_slug": "/hotel/fr/paris-france",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2FZ7/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "du-champ-de-mars",
+      "name": "Hotel du Champ de Mars",
+      "booking_slug": "/hotel/fr/du-champ-de-mars",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/be/JHA7/en?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "princesse-caroline",
+      "name": "Princesse Caroline",
+      "booking_slug": "/hotel/fr/princesse-caroline",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24W1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "michelet-odeon",
+      "name": "Hotel Michelet Odeon",
+      "booking_slug": "/hotel/fr/michelet-odeon",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JIJT/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "abbatial-st-germain",
+      "name": "Hotel Abbatial Saint Germain",
+      "booking_slug": "/hotel/fr/abbatial-st-germain",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2U7K/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "glasgowmonceauparis",
+      "name": "Hotel Glasgow Monceau by Patrick Hayat",
+      "booking_slug": "/hotel/fr/glasgowmonceauparis",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JB99/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotelpaixmadeleine",
+      "name": "Petit Madeleine Hôtel",
+      "booking_slug": "/hotel/fr/hotelpaixmadeleine",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2DZU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "marena",
+      "name": "Hotel Marena",
+      "booking_slug": "/hotel/fr/marena",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI8B/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "la-canopee-paris",
+      "name": "Hôtel La Canopée",
+      "booking_slug": "/hotel/fr/la-canopee-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J8RE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "de-l-orchidee",
+      "name": "Hôtel Orchidée",
+      "booking_slug": "/hotel/fr/de-l-orchidee",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJFH/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "viator",
+      "name": "Hotel Viator - Gare de Lyon",
+      "booking_slug": "/hotel/fr/viator",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29EP/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "paris-haussmann-st-augustin",
+      "name": "Hotel Haussmann Saint Augustin",
+      "booking_slug": "/hotel/fr/paris-haussmann-st-augustin",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XP2/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "de-suez",
+      "name": "Hotel De Suez",
+      "booking_slug": "/hotel/fr/de-suez",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29U7/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hoteldupre",
+      "name": "Hotel du Pré",
+      "booking_slug": "/hotel/fr/hoteldupre",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JIEP/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "bresil-opera",
+      "name": "Hôtel Brésil Opéra SPA",
+      "booking_slug": "/hotel/fr/bresil-opera",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "fred",
+      "name": "Fred'Hotel",
+      "booking_slug": "/hotel/fr/fred",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2U4Y/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "prince-albert-lyon-bercy",
+      "name": "Prince Albert Lyon Bercy",
+      "booking_slug": "/hotel/fr/prince-albert-lyon-bercy",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JK7X/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotel-left-bank",
+      "name": "Hotel Left Bank Saint Germain",
+      "booking_slug": "/hotel/fr/hotel-left-bank",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Z99/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "eiffelkennedy",
+      "name": "Eiffel Kennedy",
+      "booking_slug": "/hotel/fr/eiffelkennedy",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/hotel-eiffel-kennedy/2924/{LOCALE}/search?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "la-perle",
+      "name": "La Perle Saint Germain des Prés",
+      "booking_slug": "/hotel/fr/la-perle",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-La-Perle/2MSV/en-US?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "royal-opera",
+      "name": "Hotel 10 Opéra by HappyCulture",
+      "booking_slug": "/hotel/fr/royal-opera",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/26FB/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "bailli-de-suffren-tour-eiffel",
+      "name": "Le Bailli",
+      "booking_slug": "/hotel/fr/bailli-de-suffren-tour-eiffel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2QPW/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hoteljardinseiffel",
+      "name": "Jardins Eiffel",
+      "booking_slug": "/hotel/fr/hoteljardinseiffel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/widgets/_app.js?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "cler-paris",
+      "name": "Cler Hotel",
+      "booking_slug": "/hotel/fr/cler-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2DNI/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "apollinaire-paris",
+      "name": "Apollinaire",
+      "booking_slug": "/hotel/fr/apollinaire-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "pointe-rivoli",
+      "name": "Le Temple De Jeanne",
+      "booking_slug": "/hotel/fr/pointe-rivoli",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2TAS/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "pax-opera",
+      "name": "Hotel Pax Opera",
+      "booking_slug": "/hotel/fr/pax-opera",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2QNA/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "scarlett",
+      "name": "Hotel Scarlett",
+      "booking_slug": "/hotel/fr/scarlett",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2YAW/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "odeon-paris",
+      "name": "Odeon Hotel",
+      "booking_slug": "/hotel/fr/odeon-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2GN1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "oh-la-la",
+      "name": "Oh la la ! Hotel Bar Paris Bastille",
+      "booking_slug": "/hotel/fr/oh-la-la",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JBTN/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "des-arenes",
+      "name": "Hotel Des Arenes",
+      "booking_slug": "/hotel/fr/des-arenes",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2ZEM/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotelterminuslyon",
+      "name": "Hotel Terminus Lyon",
+      "booking_slug": "/hotel/fr/hotelterminuslyon",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29C4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "ernest-paris",
+      "name": "Hotel Ernest",
+      "booking_slug": "/hotel/fr/ernest-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JSBA/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "chambellan-morgane",
+      "name": "Chambellan Morgane",
+      "booking_slug": "/hotel/fr/chambellan-morgane",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2MZS/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "des-grandes-ecoles",
+      "name": "Hotel des Grandes Ecoles",
+      "booking_slug": "/hotel/fr/des-grandes-ecoles",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J29X/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "ajiel",
+      "name": "Chouette Hotel",
+      "booking_slug": "/hotel/fr/ajiel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VGB/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "royalmagdaetoile",
+      "name": "Magda Champs Elysées",
+      "booking_slug": "/hotel/fr/royalmagdaetoile",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2IS/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "paris-louis-blanc",
+      "name": "Hotel Paris Louis Blanc",
+      "booking_slug": "/hotel/fr/paris-louis-blanc",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24WE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "royal-phare",
+      "name": "Hotel Royal Phare",
+      "booking_slug": "/hotel/fr/royal-phare",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "massena-paris",
+      "name": "Hotel Massena",
+      "booking_slug": "/hotel/fr/massena-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Y9W/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "charles-v-marais-apartment",
+      "name": "Charles V Marais Apartment",
+      "booking_slug": "/hotel/fr/charles-v-marais-apartment",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XWQ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotel-inn-design-paris-place-ditalie",
+      "name": "Hotel Inn Design Paris Place d'italie",
+      "booking_slug": "/hotel/fr/hotel-inn-design-paris-place-ditalie",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJGV/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "boronali",
+      "name": "Hotel Boronali - Nouvellement rénové",
+      "booking_slug": "/hotel/fr/boronali",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Boronali/298Z/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "florideetoileparis",
+      "name": "Floride-Etoile",
+      "booking_slug": "/hotel/fr/florideetoileparis",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "acaciasetoile",
+      "name": "Acacias Etoile",
+      "booking_slug": "/hotel/fr/acaciasetoile",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2II/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "all-suites-appart-paris-13-porte-d-italie",
+      "name": "All Suites Appart Hôtel et Hôtel - Paris 13 - Porte d'Italie",
+      "booking_slug": "/hotel/fr/all-suites-appart-paris-13-porte-d-italie",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2UK/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "beaugrenelletoureiffel",
+      "name": "Hotel Beaugrenelle Tour Eiffel",
+      "booking_slug": "/hotel/fr/beaugrenelletoureiffel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/be/JRTF/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotel-zelie",
+      "name": "Hôtel Zélie",
+      "booking_slug": "/hotel/fr/hotel-zelie",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Zelie/J7KF/803/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "night"
+    },
+    {
+      "id": "hoteldutheatre",
+      "name": "Hôtel du Théâtre by Patrick Hayat",
+      "booking_slug": "/hotel/fr/hoteldutheatre",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JB9F/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotelappialafayette",
+      "name": "Appia La Fayette",
+      "booking_slug": "/hotel/fr/hotelappialafayette",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2ZAE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotelcrystal2",
+      "name": "Crystal Hotel",
+      "booking_slug": "/hotel/fr/hotelcrystal2",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2HTN/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "centre-ville-etoile-paris",
+      "name": "Hotel Archetype Etoile",
+      "booking_slug": "/hotel/fr/centre-ville-etoile-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/MjI4ODoxMTg1MA/{LOCALE}/products?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "ha-tel-prince-montmartre",
+      "name": "Prince Albert Montmartre",
+      "booking_slug": "/hotel/fr/ha-tel-prince-montmartre",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JK7A/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotel-belle-epoque-paris",
+      "name": "Hotel Albe Bastille",
+      "booking_slug": "/hotel/fr/hotel-belle-epoque-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24SB/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "convention-montparnasse",
+      "name": "Convention Montparnasse",
+      "booking_slug": "/hotel/fr/convention-montparnasse",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Q4S/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "villa-glamour",
+      "name": "Villa Glamour",
+      "booking_slug": "/hotel/fr/villa-glamour",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2h1a/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotelfrancais",
+      "name": "Grand Hotel Francais",
+      "booking_slug": "/hotel/fr/hotelfrancais",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Grand-Hotel-Francais/JS4U/fr/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "du-printemps-paris",
+      "name": "HOTEL DU PRINTEMPS",
+      "booking_slug": "/hotel/fr/du-printemps-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI69/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "champerret-heliopolis",
+      "name": "Champerret Heliopolis",
+      "booking_slug": "/hotel/fr/champerret-heliopolis",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2EQY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "new-orient",
+      "name": "New Orient Hotel",
+      "booking_slug": "/hotel/fr/new-orient",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VFJ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "best-western-eiffel-cambronne",
+      "name": "Maison 46",
+      "booking_slug": "/hotel/fr/best-western-eiffel-cambronne",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2HMZ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "eiffelcapitol",
+      "name": "Hotel Eiffel Capitol",
+      "booking_slug": "/hotel/fr/eiffelcapitol",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JRVU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotelboileau",
+      "name": "Hotel Boileau",
+      "booking_slug": "/hotel/fr/hotelboileau",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Boileau/JHFI/{LOCALE}/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "ha-tel-cervantes",
+      "name": "Hotel Cervantes by Happyculture",
+      "booking_slug": "/hotel/fr/ha-tel-cervantes",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2D2B/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-citizen",
+      "name": "Le Citizen Hotel",
+      "booking_slug": "/hotel/fr/le-citizen",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2GZY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "europe-paris",
+      "name": "Europe Hotel Paris Eiffel",
+      "booking_slug": "/hotel/fr/europe-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24Q5/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "bridget",
+      "name": "Hotel Bridget",
+      "booking_slug": "/hotel/fr/bridget",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J28G/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-mireille-paris",
+      "name": "Le Mireille",
+      "booking_slug": "/hotel/fr/le-mireille-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2EXX/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "delambre-paris",
+      "name": "Hotel Delambre",
+      "booking_slug": "/hotel/fr/delambre-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29E6/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "ha-tel-magenta",
+      "name": "Hotel Magenta 38 by Happyculture",
+      "booking_slug": "/hotel/fr/ha-tel-magenta",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2D2J/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "mogador-paris",
+      "name": "Hotel Mogador",
+      "booking_slug": "/hotel/fr/mogador-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2E8S/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "relaiseiffelgrenelle",
+      "name": "Hotel Eiffel Seine",
+      "booking_slug": "/hotel/fr/relaiseiffelgrenelle",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2U5N/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "claude-bernard-saint-germain",
+      "name": "Hotel Claude Bernard Saint-Germain",
+      "booking_slug": "/hotel/fr/claude-bernard-saint-germain",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2DNV/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "ariane-montparnasse",
+      "name": "Hotel Ariane Montparnasse by Patrick Hayat",
+      "booking_slug": "/hotel/fr/ariane-montparnasse",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JB9N/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "d-aubusson",
+      "name": "Hôtel D'Aubusson",
+      "booking_slug": "/hotel/fr/d-aubusson",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2UZE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "villa-des-pres",
+      "name": "Villa-des-Prés",
+      "booking_slug": "/hotel/fr/villa-des-pres",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JK4T/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-damantin-amp-spa",
+      "name": "Le Damantin Hôtel & Spa",
+      "booking_slug": "/hotel/fr/le-damantin-amp-spa",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JSYY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "monsieur-george-amp-spa-champs-elysees",
+      "name": "Monsieur George Hotel & Spa - Champs-Elysées",
+      "booking_slug": "/hotel/fr/monsieur-george-amp-spa-champs-elysees",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J272/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "la-demeure-montaigne",
+      "name": "La Demeure Montaigne",
+      "booking_slug": "/hotel/fr/la-demeure-montaigne",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI2S/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "daniel-paris",
+      "name": "Hotel de Montesquieu",
+      "booking_slug": "/hotel/fr/daniel-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2PMN/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "sofitel-arc-de-triomphe",
+      "name": "Sofitel Paris Arc De Triomphe",
+      "booking_slug": "/hotel/fr/sofitel-arc-de-triomphe",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-cinq-codet",
+      "name": "Le Cinq Codet",
+      "booking_slug": "/hotel/fr/le-cinq-codet",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Le-Cinq-Codet/JH5H/{LOCALE}/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "montalembert",
+      "name": "Hotel Montalembert",
+      "booking_slug": "/hotel/fr/montalembert",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Montalembert/JTYC/en/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "paris-bastille-boutet",
+      "name": "Boutet Bastille Hotel Paris - MGallery Collection",
+      "booking_slug": "/hotel/fr/paris-bastille-boutet",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hana-paris",
+      "name": "Hotel Hana",
+      "booking_slug": "/hotel/fr/hana-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J7GU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-grand-mazarin",
+      "name": "Le Grand Mazarin",
+      "booking_slug": "/hotel/fr/le-grand-mazarin",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-saint-hotel-paris",
+      "name": "Pavillon Faubourg Saint-Germain & Spa",
+      "booking_slug": "/hotel/fr/le-saint-hotel-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2M4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "marquis-faubourg-saint-honora-c",
+      "name": "MARQUIS Faubourg Saint-Honoré",
+      "booking_slug": "/hotel/fr/marquis-faubourg-saint-honora-c",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2965/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "la-lanterne-paris",
+      "name": "Hotel La Lanterne & Spa By Timhotel",
+      "booking_slug": "/hotel/fr/la-lanterne-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2EXQ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "les-rives-oceanik",
+      "name": "Les Rives Oceanik",
+      "booking_slug": "/hotel/fr/les-rives-oceanik",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J1AT/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "eiffel-blomet",
+      "name": "Hotel Eiffel Blomet",
+      "booking_slug": "/hotel/fr/eiffel-blomet",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2EV4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-bellune-paris1",
+      "name": "Le Bellune Paris",
+      "booking_slug": "/hotel/fr/le-bellune-paris1",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JS8I/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "lyric-ha-tel-paris",
+      "name": "Lyric Hotel Paris Opera",
+      "booking_slug": "/hotel/fr/lyric-ha-tel-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2FFQ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "phileas-hotel",
+      "name": "Hotel Phileas Lazare & Spa - Opera",
+      "booking_slug": "/hotel/fr/phileas-hotel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2YCU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "trinite",
+      "name": "Maison Pigalle",
+      "booking_slug": "/hotel/fr/trinite",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "trianon-rive-gauche",
+      "name": "Hotel Trianon Rive Gauche",
+      "booking_slug": "/hotel/fr/trianon-rive-gauche",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2TYJ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "luxembourg-parc",
+      "name": "Hotel Luxembourg Parc",
+      "booking_slug": "/hotel/fr/luxembourg-parc",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/smart/Hotel-Luxembourg-Parc/2EGF-2297/fr/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotelbeausejour",
+      "name": "B Montmartre",
+      "booking_slug": "/hotel/fr/hotelbeausejour",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JR5Z/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "newhotelroblin",
+      "name": "New Hotel Roblin",
+      "booking_slug": "/hotel/fr/newhotelroblin",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JTDR/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-clark",
+      "name": "LE CLARK HOTEL",
+      "booking_slug": "/hotel/fr/le-clark",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J7NN/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "elysee-gare-de-lyon",
+      "name": "Hotel Sleeping Belle - Gare de Lyon Bastille",
+      "booking_slug": "/hotel/fr/elysee-gare-de-lyon",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2UD1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "elyseesregencia",
+      "name": "Hôtel Elysées Régencia",
+      "booking_slug": "/hotel/fr/elyseesregencia",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/23XU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "peyris-opera",
+      "name": "Hotel Peyris Opera",
+      "booking_slug": "/hotel/fr/peyris-opera",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2QNC/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "molere",
+      "name": "Hôtel Molière",
+      "booking_slug": "/hotel/fr/molere",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2U17/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "les-jardins-de-mademoiselle-paris",
+      "name": "Jardins de Mademoiselle Hôtel & Spa",
+      "booking_slug": "/hotel/fr/les-jardins-de-mademoiselle-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XA3/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-six",
+      "name": "Hotel Le Six",
+      "booking_slug": "/hotel/fr/le-six",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJ2F/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "best-western-premier-litteraire-le-swann",
+      "name": "Hotel Litteraire Le Swann, BW Premier Collection",
+      "booking_slug": "/hotel/fr/best-western-premier-litteraire-le-swann",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JRR2/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "idol",
+      "name": "Idol Hotel",
+      "booking_slug": "/hotel/fr/idol",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2V4N/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "pullman-paris-montparnasse",
+      "name": "Pullman Paris Montparnasse",
+      "booking_slug": "/hotel/fr/pullman-paris-montparnasse",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "lodeon",
+      "name": "Hotel Odeon Saint-Germain",
+      "booking_slug": "/hotel/fr/lodeon",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-sainte-beuve",
+      "name": "Hôtel Sainte-Beuve",
+      "booking_slug": "/hotel/fr/le-sainte-beuve",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Z4I/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "park-lane-paris",
+      "name": "Hotel Park Lane Paris",
+      "booking_slug": "/hotel/fr/park-lane-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24LS/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "au-manoir-saint-germain",
+      "name": "Au Manoir Saint Germain",
+      "booking_slug": "/hotel/fr/au-manoir-saint-germain",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2962/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "saint-marc-paris",
+      "name": "Hôtel Saint-Marc",
+      "booking_slug": "/hotel/fr/saint-marc-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJKG/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "gardenelysee",
+      "name": "Garden-Elysée",
+      "booking_slug": "/hotel/fr/gardenelysee",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "pierrearcdetriomphe",
+      "name": "XO Hotel Paris",
+      "booking_slug": "/hotel/fr/pierrearcdetriomphe",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2FHV/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "basile",
+      "name": "Le Basile Hôtel",
+      "booking_slug": "/hotel/fr/basile",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XYX/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "millesime-paris",
+      "name": "Millésime Hôtel",
+      "booking_slug": "/hotel/fr/millesime-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/21YX/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "pavillon-de-paris",
+      "name": "Maison Nabis by HappyCulture",
+      "booking_slug": "/hotel/fr/pavillon-de-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Maison-Nabis-by-HappyCulture/2D28/{LOCALE}/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "madame-drouot-amp-spa-opera",
+      "name": "Madame Drouot & Spa - Opera",
+      "booking_slug": "/hotel/fr/madame-drouot-amp-spa-opera",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JTKJ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "best-western-plus-litteraire-marcel",
+      "name": "Hotel Litteraire Marcel Ayme, BW Premier Collection",
+      "booking_slug": "/hotel/fr/best-western-plus-litteraire-marcel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JRR2/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "de-lutece",
+      "name": "Hotel L de Lutece - Notre-Dame",
+      "booking_slug": "/hotel/fr/de-lutece",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/265X/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "grenelle-paris-tour-eiffel",
+      "name": "Hotel Bleu de Grenelle - Tour Eiffel",
+      "booking_slug": "/hotel/fr/grenelle-paris-tour-eiffel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI1H/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "de-suede-saint-germain",
+      "name": "Hotel De Suede Saint Germain",
+      "booking_slug": "/hotel/fr/de-suede-saint-germain",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2UWU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "emeraude-louvre-montana",
+      "name": "Hotel Louvre Montana",
+      "booking_slug": "/hotel/fr/emeraude-louvre-montana",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2X5/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "avaitic",
+      "name": "Hotel Louison",
+      "booking_slug": "/hotel/fr/avaitic",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/smart/Elegancia-Gestion/2YJV-3734/en?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "royal-garden-champs-elysees",
+      "name": "Royal Garden Champs-Élysées",
+      "booking_slug": "/hotel/fr/royal-garden-champs-elysees",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2YR2/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "drawing-house",
+      "name": "Drawing House",
+      "booking_slug": "/hotel/fr/drawing-house",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI9C/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "rayz-eiffel",
+      "name": "Rayz Eiffel",
+      "booking_slug": "/hotel/fr/rayz-eiffel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JBAH/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "villa-romantic",
+      "name": "Hotel Villa Romantic & Spa",
+      "booking_slug": "/hotel/fr/villa-romantic",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JS7Q/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "observatoireluxembour",
+      "name": "Hotel Observatoire Luxembourg",
+      "booking_slug": "/hotel/fr/observatoireluxembour",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJB4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "cambon",
+      "name": "Hotel Cambon",
+      "booking_slug": "/hotel/fr/cambon",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JTD8/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "armoni-paris",
+      "name": "Hotel Armoni Paris",
+      "booking_slug": "/hotel/fr/armoni-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29QD/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "monge-paris7",
+      "name": "Hotel Monge",
+      "booking_slug": "/hotel/fr/monge-paris7",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/25JB/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotelduministere",
+      "name": "Hôtel du Ministère",
+      "booking_slug": "/hotel/fr/hotelduministere",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2AS7/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-marceau-bastille",
+      "name": "Le Marceau Bastille",
+      "booking_slug": "/hotel/fr/le-marceau-bastille",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Z66/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "royal-saint-michel",
+      "name": "Royal Saint Michel",
+      "booking_slug": "/hotel/fr/royal-saint-michel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "charles-v-paris",
+      "name": "Charles V",
+      "booking_slug": "/hotel/fr/charles-v-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XWQ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "une-autre-chambre",
+      "name": "UNE AUTRE CHAMBRE",
+      "booking_slug": "/hotel/fr/une-autre-chambre",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2GTI/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-pavillon-des-lettres",
+      "name": "Le Pavillon des Lettres",
+      "booking_slug": "/hotel/fr/le-pavillon-des-lettres",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VQE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "josephine",
+      "name": "Hôtel Joséphine by Happyculture",
+      "booking_slug": "/hotel/fr/josephine",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2D2I/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "celtelafayette",
+      "name": "New Hotel Lafayette",
+      "booking_slug": "/hotel/fr/celtelafayette",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JTVC/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "grey",
+      "name": "Le Grey Hotel",
+      "booking_slug": "/hotel/fr/grey",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29GU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "lord-byron",
+      "name": "Lord Byron",
+      "booking_slug": "/hotel/fr/lord-byron",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JSEP/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "de-seze-paris",
+      "name": "Hotel de Seze",
+      "booking_slug": "/hotel/fr/de-seze-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JHDH/30885/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&selectedAdultCount={ADULTS}&selectedChildCount={CHILDREN}&currency=EUR&rooms={ROOMS}",
+      "price_mode": "stay"
+    },
+    {
+      "id": "a-la-villa-madame",
+      "name": "La Villa Madame",
+      "booking_slug": "/hotel/fr/a-la-villa-madame",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/21A1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hoteltherese",
+      "name": "Hôtel Thérèse",
+      "booking_slug": "/hotel/fr/hoteltherese",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2PZ8/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "stgeorges",
+      "name": "Hotel Sacha",
+      "booking_slug": "/hotel/fr/stgeorges",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2D2R/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "des-carmes-paris",
+      "name": "Hotel des Carmes by Malone",
+      "booking_slug": "/hotel/fr/des-carmes-paris",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J7DR/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "le-grand-quartier",
+      "name": "Le Grand Quartier",
+      "booking_slug": "/hotel/fr/le-grand-quartier",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "hotel-fougrere",
+      "name": "Hôtel Fougère",
+      "booking_slug": "/hotel/fr/hotel-fougrere",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J8BX/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "pullman-paris-bercy",
+      "name": "Pullman Paris Centre - Bercy",
+      "booking_slug": "/hotel/fr/pullman-paris-bercy",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "novotel-paris-pte-versailles",
+      "name": "Novotel Paris Porte Versailles",
+      "booking_slug": "/hotel/fr/novotel-paris-pte-versailles",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "saintpaul",
+      "name": "Hôtel Saint-Paul Rive-Gauche",
+      "booking_slug": "/hotel/fr/saintpaul",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "duquesneeiffel",
+      "name": "Hotel Duquesne Eiffel",
+      "booking_slug": "/hotel/fr/duquesneeiffel",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Duquesne-Eiffel/JRIQ/en/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    },
+    {
+      "id": "sullysaintgermain",
+      "name": "Hotel Atmospheres",
+      "booking_slug": "/hotel/fr/sullysaintgermain",
+      "engine_type": "dedge",
+      "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Atmospheres-Paris/JBF7/{LOCALE}/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+      "price_selector": "[data-testid='bestRate-price']",
+      "price_selector_alt": [
+        ".cvg-room-card__footer__starting-price .cvg-typo-heading-3",
+        "[data-testid*='price']"
+      ],
+      "price_mode": "stay"
+    }
+  ]
