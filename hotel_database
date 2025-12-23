@@ -40,7 +40,7 @@
   },
   {
     "id": "htl_collectionneur",
-    "name": "L'Hôtel Collectionneur",
+    "name": "L'Hôtel Collectionneur", 
     "booking_slug": "/hotel/fr/collectionneur",
     "engine_type": "dedge",
     "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2PNY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
@@ -283,7 +283,10 @@
     "name": "Hôtel Brésil Opéra SPA",
     "booking_slug": "/hotel/fr/bresil-opera",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2AGU",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -851,7 +854,10 @@
     "name": "Le Grand Mazarin",
     "booking_slug": "/hotel/fr/le-grand-mazarin",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JS63",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -923,7 +929,10 @@
     "name": "Maison Pigalle",
     "booking_slug": "/hotel/fr/trinite",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "26RJ",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1259,7 +1268,10 @@
     "name": "Royal Saint Michel",
     "booking_slug": "/hotel/fr/royal-saint-michel",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2AIB",
+      "slug": "Royal-Saint-Michel"
+    },
     "price_mode": "stay"
   },
   {
@@ -1363,7 +1375,10 @@
     "name": "Le Grand Quartier",
     "booking_slug": "/hotel/fr/le-grand-quartier",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JR6H",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1395,7 +1410,10 @@
     "name": "Hôtel Saint-Paul Rive-Gauche",
     "booking_slug": "/hotel/fr/saintpaul",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/quotation?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2G41",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
