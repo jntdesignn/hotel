@@ -1415,7 +1415,7 @@
     "price_mode": "stay"
   },
 {
-    "id": "htl_louvre_saint_honore",
+    "id": "louvresainthonore",
     "name": "Hotel Louvre Saint-Honoré",
     "booking_slug": "/hotel/fr/louvresainthonore.fr",
     "engine_type": "book-secure",
