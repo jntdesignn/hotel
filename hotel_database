@@ -1417,7 +1417,7 @@
 {
     "id": "louvresainthonore",
     "name": "Hotel Louvre Saint-Honoré",
-    "booking_slug": "/hotel/fr/louvresainthonore.fr",
+    "booking_slug": "/hotel/fr/louvresainthonore",
     "engine_type": "book-secure",
     "engine_params": {
       "property_id": "frpar14300"
