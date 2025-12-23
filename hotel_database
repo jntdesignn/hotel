@@ -1413,5 +1413,15 @@
     "engine_type": "dedge",
     "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Atmospheres-Paris/JBF7/{LOCALE}/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
     "price_mode": "stay"
+  },
+{
+    "id": "htl_louvre_saint_honore",
+    "name": "Hotel Louvre Saint-Honoré",
+    "booking_slug": "/hotel/fr/louvresainthonore.fr",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "frpar14300"
+    },
+    "price_mode": "stay"
   }
 ]
