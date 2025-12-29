@@ -20,30 +20,37 @@
     },
     "price_mode": "night"
   },
-  
   {
     "id": "htl_edenparis",
     "name": "Hotel Eden Opera",
     "booking_slug": "/hotel/fr/edenparis",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Eden-Opera/JB5U/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JB5U",
+      "slug": "Hotel-Eden-Opera"
+    },
     "price_mode": "stay"
   },
-  
   {
     "id": "htl_royal_madeleine",
     "name": "Hotel Royal Madeleine",
     "booking_slug": "/hotel/fr/royal-madeleine-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2A8D/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2A8D",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
     "id": "htl_collectionneur",
-    "name": "L'Hôtel Collectionneur", 
+    "name": "L'Hôtel Collectionneur",
     "booking_slug": "/hotel/fr/collectionneur",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2PNY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2PNY",
+      "slug": "redirect"
+    },
     "price_mode": "night"
   },
   {
@@ -51,7 +58,10 @@
     "name": "Hotel Seven",
     "booking_slug": "/hotel/fr/seven",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Seven/2GQ4/9454/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2GQ4",
+      "slug": "Hotel-Seven"
+    },
     "price_mode": "night"
   },
   {
@@ -59,7 +69,10 @@
     "name": "Hotel Prince Albert Opéra",
     "booking_slug": "/hotel/fr/prince-albert-opera",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J14K/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J14K",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -67,7 +80,10 @@
     "name": "Hotel de Flore - Montmartre",
     "booking_slug": "/hotel/fr/de-flore-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2DS4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2DS4",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -75,7 +91,10 @@
     "name": "Hotel Des Deux Continents",
     "booking_slug": "/hotel/fr/des-deux-continents",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2TYR/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2TYR",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -83,7 +102,10 @@
     "name": "Le Robinet d'Or Paris Canal Saint Martin",
     "booking_slug": "/hotel/fr/le-robinet-d-or",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2YM1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2YM1",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -91,7 +113,10 @@
     "name": "Hotel Muguet",
     "booking_slug": "/hotel/fr/muguet",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29YI/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "29YI",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -99,7 +124,10 @@
     "name": "Hotel De Seine",
     "booking_slug": "/hotel/fr/de-seine",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2TD1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2TD1",
+      "slug": "redirect"
+    },
     "price_mode": "night"
   },
   {
@@ -107,7 +135,10 @@
     "name": "La Planque Hotel",
     "booking_slug": "/hotel/fr/la-planque-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJ2R/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JJ2R",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -115,7 +146,10 @@
     "name": "Hotel Madeleine De Senlis",
     "booking_slug": "/hotel/fr/de-senlis",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Madeleine-de-Senlis/JTJ6/30108/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JTJ6",
+      "slug": "Madeleine-de-Senlis"
+    },
     "price_mode": "stay"
   },
   {
@@ -123,7 +157,10 @@
     "name": "Hotel Bastille Speria",
     "booking_slug": "/hotel/fr/bastille-speria",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JHE1/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JHE1",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -131,7 +168,10 @@
     "name": "Hotel Minerve",
     "booking_slug": "/hotel/fr/minerve",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2QAV/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2QAV",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -139,7 +179,10 @@
     "name": "Hotel Choiseul Opera",
     "booking_slug": "/hotel/fr/choiseul-opera",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VKP/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2VKP",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -147,7 +190,10 @@
     "name": "Hotel Elysees 8",
     "booking_slug": "/hotel/fr/timelysees",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2ZR7/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2ZR7",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -155,7 +201,10 @@
     "name": "Hotel Ascot Opera",
     "booking_slug": "/hotel/fr/ascot",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2NPY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2NPY",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -163,7 +212,10 @@
     "name": "Hotel de Neuve by Happyculture",
     "booking_slug": "/hotel/fr/jardindeparismaraisbastille",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VT6/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2VT6",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -171,7 +223,10 @@
     "name": "Paris France Hotel",
     "booking_slug": "/hotel/fr/paris-france",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2FZ7/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2FZ7",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -179,7 +234,10 @@
     "name": "Hotel du Champ de Mars",
     "booking_slug": "/hotel/fr/du-champ-de-mars",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/be/JHA7/en?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JHA7",
+      "slug": "be"
+    },
     "price_mode": "stay"
   },
   {
@@ -187,7 +245,10 @@
     "name": "Princesse Caroline",
     "booking_slug": "/hotel/fr/princesse-caroline",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24W1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "24W1",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -195,7 +256,10 @@
     "name": "Hotel Michelet Odeon",
     "booking_slug": "/hotel/fr/michelet-odeon",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JIJT/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JIJT",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -203,7 +267,10 @@
     "name": "Hotel Abbatial Saint Germain",
     "booking_slug": "/hotel/fr/abbatial-st-germain",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2U7K/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2U7K",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -211,7 +278,10 @@
     "name": "Hotel Glasgow Monceau by Patrick Hayat",
     "booking_slug": "/hotel/fr/glasgowmonceauparis",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JB99/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JB99",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -219,7 +289,10 @@
     "name": "Petit Madeleine Hôtel",
     "booking_slug": "/hotel/fr/hotelpaixmadeleine",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2DZU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2DZU",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -227,7 +300,10 @@
     "name": "Hotel Marena",
     "booking_slug": "/hotel/fr/marena",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI8B/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JI8B",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -235,7 +311,10 @@
     "name": "Hôtel La Canopée",
     "booking_slug": "/hotel/fr/la-canopee-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J8RE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J8RE",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -243,7 +322,10 @@
     "name": "Hôtel Orchidée",
     "booking_slug": "/hotel/fr/de-l-orchidee",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJFH/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JJFH",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -251,7 +333,10 @@
     "name": "Hotel Viator - Gare de Lyon",
     "booking_slug": "/hotel/fr/viator",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29EP/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "29EP",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -259,7 +344,10 @@
     "name": "Hotel Haussmann Saint Augustin",
     "booking_slug": "/hotel/fr/paris-haussmann-st-augustin",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XP2/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2XP2",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -267,7 +355,10 @@
     "name": "Hotel De Suez",
     "booking_slug": "/hotel/fr/de-suez",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29U7/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "29U7",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -275,7 +366,10 @@
     "name": "Hotel du Pré",
     "booking_slug": "/hotel/fr/hoteldupre",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JIEP/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JIEP",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -294,7 +388,10 @@
     "name": "Fred'Hotel",
     "booking_slug": "/hotel/fr/fred",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2U4Y/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2U4Y",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -302,7 +399,10 @@
     "name": "Prince Albert Lyon Bercy",
     "booking_slug": "/hotel/fr/prince-albert-lyon-bercy",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JK7X/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JK7X",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -310,7 +410,10 @@
     "name": "Hotel Left Bank Saint Germain",
     "booking_slug": "/hotel/fr/hotel-left-bank",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Z99/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2Z99",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -318,7 +421,10 @@
     "name": "Eiffel Kennedy",
     "booking_slug": "/hotel/fr/eiffelkennedy",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/hotel-eiffel-kennedy/2924/{LOCALE}/search?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2924",
+      "slug": "hotel-eiffel-kennedy"
+    },
     "price_mode": "stay"
   },
   {
@@ -326,7 +432,10 @@
     "name": "La Perle Saint Germain des Prés",
     "booking_slug": "/hotel/fr/la-perle",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-La-Perle/2MSV/en-US?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2MSV",
+      "slug": "Hotel-La-Perle"
+    },
     "price_mode": "stay"
   },
   {
@@ -334,7 +443,10 @@
     "name": "Hotel 10 Opéra by HappyCulture",
     "booking_slug": "/hotel/fr/royal-opera",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/26FB/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "26FB",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -342,7 +454,10 @@
     "name": "Le Bailli",
     "booking_slug": "/hotel/fr/bailli-de-suffren-tour-eiffel",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2QPW/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2QPW",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -358,7 +473,10 @@
     "name": "Cler Hotel",
     "booking_slug": "/hotel/fr/cler-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2DNI/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2DNI",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -374,7 +492,10 @@
     "name": "Le Temple De Jeanne",
     "booking_slug": "/hotel/fr/pointe-rivoli",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2TAS/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2TAS",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -382,7 +503,10 @@
     "name": "Hotel Pax Opera",
     "booking_slug": "/hotel/fr/pax-opera",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2QNA/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2QNA",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -390,7 +514,10 @@
     "name": "Hotel Scarlett",
     "booking_slug": "/hotel/fr/scarlett",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2YAW/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2YAW",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -398,7 +525,10 @@
     "name": "Odeon Hotel",
     "booking_slug": "/hotel/fr/odeon-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2GN1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2GN1",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -406,7 +536,10 @@
     "name": "Oh la la ! Hotel Bar Paris Bastille",
     "booking_slug": "/hotel/fr/oh-la-la",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JBTN/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JBTN",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -414,7 +547,10 @@
     "name": "Hotel Des Arenes",
     "booking_slug": "/hotel/fr/des-arenes",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2ZEM/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2ZEM",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -422,7 +558,10 @@
     "name": "Hotel Terminus Lyon",
     "booking_slug": "/hotel/fr/hotelterminuslyon",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29C4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "29C4",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -430,7 +569,10 @@
     "name": "Hotel Ernest",
     "booking_slug": "/hotel/fr/ernest-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JSBA/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JSBA",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -438,7 +580,10 @@
     "name": "Chambellan Morgane",
     "booking_slug": "/hotel/fr/chambellan-morgane",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2MZS/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2MZS",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -446,7 +591,10 @@
     "name": "Hotel des Grandes Ecoles",
     "booking_slug": "/hotel/fr/des-grandes-ecoles",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J29X/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J29X",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -454,7 +602,10 @@
     "name": "Chouette Hotel",
     "booking_slug": "/hotel/fr/ajiel",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VGB/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2VGB",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -462,7 +613,10 @@
     "name": "Magda Champs Elysées",
     "booking_slug": "/hotel/fr/royalmagdaetoile",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2IS/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J2IS",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -470,7 +624,10 @@
     "name": "Hotel Paris Louis Blanc",
     "booking_slug": "/hotel/fr/paris-louis-blanc",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24WE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "24WE",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -486,7 +643,10 @@
     "name": "Hotel Massena",
     "booking_slug": "/hotel/fr/massena-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Y9W/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2Y9W",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -494,7 +654,10 @@
     "name": "Charles V Marais Apartment",
     "booking_slug": "/hotel/fr/charles-v-marais-apartment",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XWQ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2XWQ",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -502,7 +665,10 @@
     "name": "Hotel Inn Design Paris Place d'italie",
     "booking_slug": "/hotel/fr/hotel-inn-design-paris-place-ditalie",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJGV/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JJGV",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -510,7 +676,10 @@
     "name": "Hotel Boronali - Nouvellement rénové",
     "booking_slug": "/hotel/fr/boronali",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Boronali/298Z/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "298Z",
+      "slug": "Hotel-Boronali"
+    },
     "price_mode": "stay"
   },
   {
@@ -526,7 +695,10 @@
     "name": "Acacias Etoile",
     "booking_slug": "/hotel/fr/acaciasetoile",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2II/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J2II",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -534,7 +706,10 @@
     "name": "All Suites Appart Hôtel et Hôtel - Paris 13 - Porte d'Italie",
     "booking_slug": "/hotel/fr/all-suites-appart-paris-13-porte-d-italie",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2UK/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J2UK",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -542,7 +717,10 @@
     "name": "Hotel Beaugrenelle Tour Eiffel",
     "booking_slug": "/hotel/fr/beaugrenelletoureiffel",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/be/JRTF/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JRTF",
+      "slug": "be"
+    },
     "price_mode": "stay"
   },
   {
@@ -550,7 +728,10 @@
     "name": "Hôtel Zélie",
     "booking_slug": "/hotel/fr/hotel-zelie",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Zelie/J7KF/803/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J7KF",
+      "slug": "Hotel-Zelie"
+    },
     "price_mode": "night"
   },
   {
@@ -558,7 +739,10 @@
     "name": "Hôtel du Théâtre by Patrick Hayat",
     "booking_slug": "/hotel/fr/hoteldutheatre",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JB9F/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JB9F",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -566,7 +750,10 @@
     "name": "Appia La Fayette",
     "booking_slug": "/hotel/fr/hotelappialafayette",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2ZAE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2ZAE",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -574,7 +761,10 @@
     "name": "Crystal Hotel",
     "booking_slug": "/hotel/fr/hotelcrystal2",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2HTN/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2HTN",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -590,7 +780,10 @@
     "name": "Prince Albert Montmartre",
     "booking_slug": "/hotel/fr/ha-tel-prince-montmartre",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JK7A/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JK7A",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -598,7 +791,10 @@
     "name": "Hotel Albe Bastille",
     "booking_slug": "/hotel/fr/hotel-belle-epoque-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24SB/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "24SB",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -606,7 +802,10 @@
     "name": "Convention Montparnasse",
     "booking_slug": "/hotel/fr/convention-montparnasse",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Q4S/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2Q4S",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -614,7 +813,10 @@
     "name": "Villa Glamour",
     "booking_slug": "/hotel/fr/villa-glamour",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2h1a/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2h1a",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -622,7 +824,10 @@
     "name": "Grand Hotel Francais",
     "booking_slug": "/hotel/fr/hotelfrancais",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Grand-Hotel-Francais/JS4U/fr/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JS4U",
+      "slug": "Grand-Hotel-Francais"
+    },
     "price_mode": "stay"
   },
   {
@@ -630,7 +835,10 @@
     "name": "HOTEL DU PRINTEMPS",
     "booking_slug": "/hotel/fr/du-printemps-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI69/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JI69",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -638,7 +846,10 @@
     "name": "Champerret Heliopolis",
     "booking_slug": "/hotel/fr/champerret-heliopolis",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2EQY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2EQY",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -646,7 +857,10 @@
     "name": "New Orient Hotel",
     "booking_slug": "/hotel/fr/new-orient",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VFJ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2VFJ",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -654,7 +868,10 @@
     "name": "Maison 46",
     "booking_slug": "/hotel/fr/best-western-eiffel-cambronne",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2HMZ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2HMZ",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -662,7 +879,10 @@
     "name": "Hotel Eiffel Capitol",
     "booking_slug": "/hotel/fr/eiffelcapitol",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JRVU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JRVU",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -670,7 +890,10 @@
     "name": "Hotel Boileau",
     "booking_slug": "/hotel/fr/hotelboileau",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Boileau/JHFI/{LOCALE}/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JHFI",
+      "slug": "Hotel-Boileau"
+    },
     "price_mode": "stay"
   },
   {
@@ -678,7 +901,10 @@
     "name": "Hotel Cervantes by Happyculture",
     "booking_slug": "/hotel/fr/ha-tel-cervantes",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2D2B/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2D2B",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -686,7 +912,10 @@
     "name": "Le Citizen Hotel",
     "booking_slug": "/hotel/fr/le-citizen",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2GZY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2GZY",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -694,7 +923,10 @@
     "name": "Europe Hotel Paris Eiffel",
     "booking_slug": "/hotel/fr/europe-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24Q5/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "24Q5",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -702,7 +934,10 @@
     "name": "Hotel Bridget",
     "booking_slug": "/hotel/fr/bridget",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J28G/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J28G",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -710,7 +945,10 @@
     "name": "Le Mireille",
     "booking_slug": "/hotel/fr/le-mireille-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2EXX/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2EXX",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -718,7 +956,10 @@
     "name": "Hotel Delambre",
     "booking_slug": "/hotel/fr/delambre-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29E6/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "29E6",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -726,7 +967,10 @@
     "name": "Hotel Magenta 38 by Happyculture",
     "booking_slug": "/hotel/fr/ha-tel-magenta",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2D2J/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2D2J",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -734,7 +978,10 @@
     "name": "Hotel Mogador",
     "booking_slug": "/hotel/fr/mogador-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2E8S/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2E8S",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -742,7 +989,10 @@
     "name": "Hotel Eiffel Seine",
     "booking_slug": "/hotel/fr/relaiseiffelgrenelle",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2U5N/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2U5N",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -750,7 +1000,10 @@
     "name": "Hotel Claude Bernard Saint-Germain",
     "booking_slug": "/hotel/fr/claude-bernard-saint-germain",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2DNV/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2DNV",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -758,7 +1011,10 @@
     "name": "Hotel Ariane Montparnasse by Patrick Hayat",
     "booking_slug": "/hotel/fr/ariane-montparnasse",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JB9N/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JB9N",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -766,7 +1022,10 @@
     "name": "Hôtel D'Aubusson",
     "booking_slug": "/hotel/fr/d-aubusson",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2UZE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2UZE",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -774,7 +1033,10 @@
     "name": "Villa-des-Prés",
     "booking_slug": "/hotel/fr/villa-des-pres",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JK4T/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JK4T",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -782,7 +1044,10 @@
     "name": "Le Damantin Hôtel & Spa",
     "booking_slug": "/hotel/fr/le-damantin-amp-spa",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JSYY/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JSYY",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -790,7 +1055,10 @@
     "name": "Monsieur George Hotel & Spa - Champs-Elysées",
     "booking_slug": "/hotel/fr/monsieur-george-amp-spa-champs-elysees",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J272/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J272",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -798,7 +1066,10 @@
     "name": "La Demeure Montaigne",
     "booking_slug": "/hotel/fr/la-demeure-montaigne",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI2S/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JI2S",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -806,7 +1077,10 @@
     "name": "Hotel de Montesquieu",
     "booking_slug": "/hotel/fr/daniel-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2PMN/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2PMN",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -822,7 +1096,10 @@
     "name": "Le Cinq Codet",
     "booking_slug": "/hotel/fr/le-cinq-codet",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Le-Cinq-Codet/JH5H/{LOCALE}/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JH5H",
+      "slug": "Hotel-Le-Cinq-Codet"
+    },
     "price_mode": "stay"
   },
   {
@@ -830,7 +1107,10 @@
     "name": "Hotel Montalembert",
     "booking_slug": "/hotel/fr/montalembert",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Montalembert/JTYC/en/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JTYC",
+      "slug": "Hotel-Montalembert"
+    },
     "price_mode": "stay"
   },
   {
@@ -846,7 +1126,10 @@
     "name": "Hotel Hana",
     "booking_slug": "/hotel/fr/hana-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J7GU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J7GU",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -865,7 +1148,10 @@
     "name": "Pavillon Faubourg Saint-Germain & Spa",
     "booking_slug": "/hotel/fr/le-saint-hotel-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2M4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J2M4",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -873,7 +1159,10 @@
     "name": "MARQUIS Faubourg Saint-Honoré",
     "booking_slug": "/hotel/fr/marquis-faubourg-saint-honora-c",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2965/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2965",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -881,7 +1170,10 @@
     "name": "Hotel La Lanterne & Spa By Timhotel",
     "booking_slug": "/hotel/fr/la-lanterne-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2EXQ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2EXQ",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -889,7 +1181,10 @@
     "name": "Les Rives Oceanik",
     "booking_slug": "/hotel/fr/les-rives-oceanik",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J1AT/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J1AT",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -897,7 +1192,10 @@
     "name": "Hotel Eiffel Blomet",
     "booking_slug": "/hotel/fr/eiffel-blomet",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2EV4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2EV4",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -905,7 +1203,10 @@
     "name": "Le Bellune Paris",
     "booking_slug": "/hotel/fr/le-bellune-paris1",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JS8I/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JS8I",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -913,7 +1214,10 @@
     "name": "Lyric Hotel Paris Opera",
     "booking_slug": "/hotel/fr/lyric-ha-tel-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2FFQ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2FFQ",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -921,7 +1225,10 @@
     "name": "Hotel Phileas Lazare & Spa - Opera",
     "booking_slug": "/hotel/fr/phileas-hotel",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2YCU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2YCU",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -940,7 +1247,10 @@
     "name": "Hotel Trianon Rive Gauche",
     "booking_slug": "/hotel/fr/trianon-rive-gauche",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2TYJ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2TYJ",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -956,7 +1266,10 @@
     "name": "B Montmartre",
     "booking_slug": "/hotel/fr/hotelbeausejour",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JR5Z/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JR5Z",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -964,7 +1277,10 @@
     "name": "New Hotel Roblin",
     "booking_slug": "/hotel/fr/newhotelroblin",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JTDR/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JTDR",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -972,7 +1288,10 @@
     "name": "LE CLARK HOTEL",
     "booking_slug": "/hotel/fr/le-clark",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J7NN/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J7NN",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -980,7 +1299,10 @@
     "name": "Hotel Sleeping Belle - Gare de Lyon Bastille",
     "booking_slug": "/hotel/fr/elysee-gare-de-lyon",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2UD1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2UD1",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -988,7 +1310,10 @@
     "name": "Hôtel Elysées Régencia",
     "booking_slug": "/hotel/fr/elyseesregencia",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/23XU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "23XU",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -996,7 +1321,10 @@
     "name": "Hotel Peyris Opera",
     "booking_slug": "/hotel/fr/peyris-opera",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2QNC/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2QNC",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1004,7 +1332,10 @@
     "name": "Hôtel Molière",
     "booking_slug": "/hotel/fr/molere",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2U17/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2U17",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1012,7 +1343,10 @@
     "name": "Jardins de Mademoiselle Hôtel & Spa",
     "booking_slug": "/hotel/fr/les-jardins-de-mademoiselle-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XA3/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2XA3",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1020,7 +1354,10 @@
     "name": "Hotel Le Six",
     "booking_slug": "/hotel/fr/le-six",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJ2F/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JJ2F",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1028,7 +1365,10 @@
     "name": "Hotel Litteraire Le Swann, BW Premier Collection",
     "booking_slug": "/hotel/fr/best-western-premier-litteraire-le-swann",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JRR2/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JRR2",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1036,7 +1376,10 @@
     "name": "Idol Hotel",
     "booking_slug": "/hotel/fr/idol",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2V4N/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2V4N",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1060,7 +1403,10 @@
     "name": "Hôtel Sainte-Beuve",
     "booking_slug": "/hotel/fr/le-sainte-beuve",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Z4I/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2Z4I",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1068,7 +1414,10 @@
     "name": "Hotel Park Lane Paris",
     "booking_slug": "/hotel/fr/park-lane-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/24LS/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "24LS",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1076,7 +1425,10 @@
     "name": "Au Manoir Saint Germain",
     "booking_slug": "/hotel/fr/au-manoir-saint-germain",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2962/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2962",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1084,7 +1436,10 @@
     "name": "Hôtel Saint-Marc",
     "booking_slug": "/hotel/fr/saint-marc-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJKG/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JJKG",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1100,7 +1455,10 @@
     "name": "XO Hotel Paris",
     "booking_slug": "/hotel/fr/pierrearcdetriomphe",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2FHV/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2FHV",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1108,7 +1466,10 @@
     "name": "Le Basile Hôtel",
     "booking_slug": "/hotel/fr/basile",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XYX/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2XYX",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1116,7 +1477,10 @@
     "name": "Millésime Hôtel",
     "booking_slug": "/hotel/fr/millesime-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/21YX/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "21YX",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1124,7 +1488,10 @@
     "name": "Maison Nabis by HappyCulture",
     "booking_slug": "/hotel/fr/pavillon-de-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Maison-Nabis-by-HappyCulture/2D28/{LOCALE}/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2D28",
+      "slug": "Maison-Nabis-by-HappyCulture"
+    },
     "price_mode": "stay"
   },
   {
@@ -1132,7 +1499,10 @@
     "name": "Madame Drouot & Spa - Opera",
     "booking_slug": "/hotel/fr/madame-drouot-amp-spa-opera",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JTKJ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JTKJ",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1140,7 +1510,10 @@
     "name": "Hotel Litteraire Marcel Ayme, BW Premier Collection",
     "booking_slug": "/hotel/fr/best-western-plus-litteraire-marcel",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JRR2/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JRR2",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1148,7 +1521,10 @@
     "name": "Hotel L de Lutece - Notre-Dame",
     "booking_slug": "/hotel/fr/de-lutece",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/265X/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "265X",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1156,7 +1532,10 @@
     "name": "Hotel Bleu de Grenelle - Tour Eiffel",
     "booking_slug": "/hotel/fr/grenelle-paris-tour-eiffel",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI1H/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JI1H",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1164,7 +1543,10 @@
     "name": "Hotel De Suede Saint Germain",
     "booking_slug": "/hotel/fr/de-suede-saint-germain",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2UWU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2UWU",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1172,7 +1554,10 @@
     "name": "Hotel Louvre Montana",
     "booking_slug": "/hotel/fr/emeraude-louvre-montana",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J2X5/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J2X5",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1188,7 +1573,10 @@
     "name": "Royal Garden Champs-Élysées",
     "booking_slug": "/hotel/fr/royal-garden-champs-elysees",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2YR2/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2YR2",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1196,7 +1584,10 @@
     "name": "Drawing House",
     "booking_slug": "/hotel/fr/drawing-house",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JI9C/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JI9C",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1204,7 +1595,10 @@
     "name": "Rayz Eiffel",
     "booking_slug": "/hotel/fr/rayz-eiffel",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JBAH/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JBAH",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1212,7 +1606,10 @@
     "name": "Hotel Villa Romantic & Spa",
     "booking_slug": "/hotel/fr/villa-romantic",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JS7Q/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JS7Q",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1220,7 +1617,10 @@
     "name": "Hotel Observatoire Luxembourg",
     "booking_slug": "/hotel/fr/observatoireluxembour",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JJB4/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JJB4",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1228,7 +1628,10 @@
     "name": "Hotel Cambon",
     "booking_slug": "/hotel/fr/cambon",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JTD8/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JTD8",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1236,7 +1639,10 @@
     "name": "Hotel Armoni Paris",
     "booking_slug": "/hotel/fr/armoni-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29QD/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "29QD",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1244,7 +1650,10 @@
     "name": "Hotel Monge",
     "booking_slug": "/hotel/fr/monge-paris7",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/25JB/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "25JB",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1252,7 +1661,10 @@
     "name": "Hôtel du Ministère",
     "booking_slug": "/hotel/fr/hotelduministere",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2AS7/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2AS7",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1260,7 +1672,10 @@
     "name": "Le Marceau Bastille",
     "booking_slug": "/hotel/fr/le-marceau-bastille",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2Z66/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2Z66",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1279,7 +1694,10 @@
     "name": "Charles V",
     "booking_slug": "/hotel/fr/charles-v-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2XWQ/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2XWQ",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1287,7 +1705,10 @@
     "name": "UNE AUTRE CHAMBRE",
     "booking_slug": "/hotel/fr/une-autre-chambre",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2GTI/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2GTI",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1295,7 +1716,10 @@
     "name": "Le Pavillon des Lettres",
     "booking_slug": "/hotel/fr/le-pavillon-des-lettres",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2VQE/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2VQE",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1303,7 +1727,10 @@
     "name": "Hôtel Joséphine by Happyculture",
     "booking_slug": "/hotel/fr/josephine",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2D2I/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2D2I",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1311,7 +1738,10 @@
     "name": "New Hotel Lafayette",
     "booking_slug": "/hotel/fr/celtelafayette",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JTVC/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JTVC",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1319,7 +1749,10 @@
     "name": "Le Grey Hotel",
     "booking_slug": "/hotel/fr/grey",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/29GU/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "29GU",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1327,7 +1760,10 @@
     "name": "Lord Byron",
     "booking_slug": "/hotel/fr/lord-byron",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JSEP/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JSEP",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1335,7 +1771,10 @@
     "name": "Hotel de Seze",
     "booking_slug": "/hotel/fr/de-seze-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JHDH/30885/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&selectedAdultCount={ADULTS}&selectedChildCount={CHILDREN}&currency=EUR&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JHDH",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1343,7 +1782,10 @@
     "name": "La Villa Madame",
     "booking_slug": "/hotel/fr/a-la-villa-madame",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/21A1/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "21A1",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1351,7 +1793,10 @@
     "name": "Hôtel Thérèse",
     "booking_slug": "/hotel/fr/hoteltherese",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2PZ8/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2PZ8",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1359,7 +1804,10 @@
     "name": "Hotel Sacha",
     "booking_slug": "/hotel/fr/stgeorges",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/2D2R/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "2D2R",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1367,7 +1815,10 @@
     "name": "Hotel des Carmes by Malone",
     "booking_slug": "/hotel/fr/des-carmes-paris",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J7DR/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J7DR",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1386,7 +1837,10 @@
     "name": "Hôtel Fougère",
     "booking_slug": "/hotel/fr/hotel-fougrere",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/J8BX/{LOCALE}/RoomSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "J8BX",
+      "slug": "redirect"
+    },
     "price_mode": "stay"
   },
   {
@@ -1421,7 +1875,10 @@
     "name": "Hotel Duquesne Eiffel",
     "booking_slug": "/hotel/fr/duquesneeiffel",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Duquesne-Eiffel/JRIQ/en/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JRIQ",
+      "slug": "Hotel-Duquesne-Eiffel"
+    },
     "price_mode": "stay"
   },
   {
@@ -1429,7 +1886,10 @@
     "name": "Hotel Atmospheres",
     "booking_slug": "/hotel/fr/sullysaintgermain",
     "engine_type": "dedge",
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/Hotel-Atmospheres-Paris/JBF7/{LOCALE}/DateSelection?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "engine_params": {
+      "code": "JBF7",
+      "slug": "Hotel-Atmospheres-Paris"
+    },
     "price_mode": "stay"
   },
   {
@@ -1441,5 +1901,17 @@
       "property_id": "frpar14300"
     },
     "price_mode": "stay"
+  },
+  {
+    "id": "hotel-mayflower",
+    "name": "Hotel Mayflower",
+    "booking_slug": "/hotel/fr/hotel-mayflower",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J7JS",
+      "slug": "MAYFLOWER"
+    },
+    "price_mode": "stay"
   }
+  
 ]
