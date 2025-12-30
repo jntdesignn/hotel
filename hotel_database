@@ -2417,10 +2417,12 @@
     "booking_slug": "/hotel/fr/sun-riviera-hotel",
     "engine_type": "dedge",
     "engine_params": {
-      "property_id": "JBRI"
+      "code": "JBRI",
+      "slug": "redirect"
     },
-    "deep_link_template": "https://www.secure-hotel-booking.com/d-edge/redirect/JBRI/fr-FR?arrivalDate={arrival_date}&departureDate={departure_date}&selectedAdultCount=2&currency=EUR",
     "price_mode": "night",
-    "timestamp": "2025-12-30T14:15:09.885704"
+    "city": "Nice",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "FR"
   }
 ]
