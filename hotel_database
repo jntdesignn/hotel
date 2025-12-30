@@ -2424,5 +2424,17 @@
     "city": "Nice",
     "region": "Provence-Alpes-Côte d'Azur",
     "country": "FR"
+  },
+  {
+    "id": "ibaia-serge-blanco-hendaye",
+    "name": "Hôtel Ibaïa",
+    "booking_slug": "/hotel/fr/ibaia-serge-blanco-hendaye",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JI25",
+      "slug": "redirect"
+    },
+    "price_mode": "night",
+    "region": "Nouvelle-Aquitaine"
   }
 ]
