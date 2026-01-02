@@ -9,9 +9,7 @@
       "hotel_id": "51934"
     },
     "price_mode": "night",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "the-chess",
@@ -22,9 +20,7 @@
       "property_id": "a26d58c8-ccb5-4246-9bab-ab6000f28ead"
     },
     "price_mode": "night",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "htl_edenparis",
@@ -36,9 +32,7 @@
       "slug": "Hotel-Eden-Opera"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "htl_royal_madeleine",
@@ -50,9 +44,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "htl_collectionneur",
@@ -64,9 +56,7 @@
       "slug": "redirect"
     },
     "price_mode": "night",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "htl_seven",
@@ -78,9 +68,7 @@
       "slug": "Hotel-Seven"
     },
     "price_mode": "night",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "prince-albert-opera",
@@ -92,9 +80,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "de-flore-paris",
@@ -106,9 +92,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "des-deux-continents",
@@ -120,9 +104,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-robinet-d-or",
@@ -134,9 +116,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "muguet",
@@ -148,9 +128,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "de-seine",
@@ -162,9 +140,7 @@
       "slug": "redirect"
     },
     "price_mode": "night",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "la-planque-paris",
@@ -176,9 +152,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "de-senlis",
@@ -190,9 +164,7 @@
       "slug": "Madeleine-de-Senlis"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "bastille-speria",
@@ -204,9 +176,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "minerve",
@@ -218,9 +188,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "choiseul-opera",
@@ -232,9 +200,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "timelysees",
@@ -246,9 +212,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "ascot",
@@ -260,9 +224,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "jardindeparismaraisbastille",
@@ -274,9 +236,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "paris-france",
@@ -288,9 +248,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "du-champ-de-mars",
@@ -302,9 +260,7 @@
       "slug": "be"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "princesse-caroline",
@@ -316,9 +272,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "michelet-odeon",
@@ -330,9 +284,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "abbatial-st-germain",
@@ -344,9 +296,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "glasgowmonceauparis",
@@ -358,9 +308,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotelpaixmadeleine",
@@ -372,9 +320,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "marena",
@@ -386,9 +332,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "la-canopee-paris",
@@ -400,9 +344,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "de-l-orchidee",
@@ -414,9 +356,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "viator",
@@ -428,9 +368,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "paris-haussmann-st-augustin",
@@ -442,9 +380,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "de-suez",
@@ -456,9 +392,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hoteldupre",
@@ -470,9 +404,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "bresil-opera",
@@ -484,9 +416,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "fred",
@@ -498,9 +428,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "prince-albert-lyon-bercy",
@@ -512,9 +440,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotel-left-bank",
@@ -526,9 +452,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "eiffelkennedy",
@@ -540,9 +464,7 @@
       "slug": "hotel-eiffel-kennedy"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "la-perle",
@@ -554,9 +476,7 @@
       "slug": "Hotel-La-Perle"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "royal-opera",
@@ -568,9 +488,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "bailli-de-suffren-tour-eiffel",
@@ -582,9 +500,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hoteljardinseiffel",
@@ -596,9 +512,7 @@
       "code": "J1CJ",
       "slug": "redirect"
     },
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "cler-paris",
@@ -610,9 +524,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "apollinaire-paris",
@@ -624,9 +536,7 @@
       "code": "2DN8",
       "slug": "redirect"
     },
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "pointe-rivoli",
@@ -638,9 +548,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "pax-opera",
@@ -652,9 +560,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "scarlett",
@@ -666,9 +572,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "odeon-paris",
@@ -680,9 +584,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "oh-la-la",
@@ -694,9 +596,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "des-arenes",
@@ -708,9 +608,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotelterminuslyon",
@@ -722,9 +620,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "ernest-paris",
@@ -736,9 +632,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "chambellan-morgane",
@@ -750,9 +644,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "des-grandes-ecoles",
@@ -764,9 +656,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "ajiel",
@@ -778,9 +668,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "royalmagdaetoile",
@@ -792,9 +680,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "paris-louis-blanc",
@@ -806,9 +692,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "royal-phare",
@@ -820,9 +704,7 @@
       "code": "JKBN",
       "slug": "redirect"
     },
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "massena-paris",
@@ -834,9 +716,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "charles-v-marais-apartment",
@@ -848,9 +728,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotel-inn-design-paris-place-ditalie",
@@ -862,9 +740,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "boronali",
@@ -876,9 +752,7 @@
       "slug": "Hotel-Boronali"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "florideetoileparis",
@@ -889,9 +763,7 @@
     "engine_params": {
       "property_id": "frpar28689"
     },
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "acaciasetoile",
@@ -903,9 +775,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "all-suites-appart-paris-13-porte-d-italie",
@@ -917,9 +787,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "beaugrenelletoureiffel",
@@ -931,9 +799,7 @@
       "slug": "be"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotel-zelie",
@@ -945,9 +811,7 @@
       "slug": "Hotel-Zelie"
     },
     "price_mode": "night",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hoteldutheatre",
@@ -959,9 +823,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotelappialafayette",
@@ -973,9 +835,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotelcrystal2",
@@ -987,9 +847,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "centre-ville-etoile-paris",
@@ -1001,9 +859,7 @@
       "code": "2MZK",
       "slug": "redirect"
     },
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "ha-tel-prince-montmartre",
@@ -1015,9 +871,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotel-belle-epoque-paris",
@@ -1029,9 +883,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "convention-montparnasse",
@@ -1043,9 +895,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "villa-glamour",
@@ -1057,9 +907,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotelfrancais",
@@ -1071,9 +919,7 @@
       "slug": "Grand-Hotel-Francais"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "du-printemps-paris",
@@ -1085,9 +931,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "champerret-heliopolis",
@@ -1099,9 +943,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "new-orient",
@@ -1113,9 +955,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "best-western-eiffel-cambronne",
@@ -1127,9 +967,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "eiffelcapitol",
@@ -1141,9 +979,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotelboileau",
@@ -1155,9 +991,7 @@
       "slug": "Hotel-Boileau"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "ha-tel-cervantes",
@@ -1169,9 +1003,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-citizen",
@@ -1183,9 +1015,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "europe-paris",
@@ -1197,9 +1027,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "bridget",
@@ -1211,9 +1039,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-mireille-paris",
@@ -1225,9 +1051,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "delambre-paris",
@@ -1239,9 +1063,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "ha-tel-magenta",
@@ -1253,9 +1075,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "mogador-paris",
@@ -1267,9 +1087,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "relaiseiffelgrenelle",
@@ -1281,9 +1099,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "claude-bernard-saint-germain",
@@ -1295,9 +1111,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "ariane-montparnasse",
@@ -1309,9 +1123,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "d-aubusson",
@@ -1323,9 +1135,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "villa-des-pres",
@@ -1337,9 +1147,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-damantin-amp-spa",
@@ -1351,9 +1159,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "monsieur-george-amp-spa-champs-elysees",
@@ -1365,9 +1171,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "la-demeure-montaigne",
@@ -1379,9 +1183,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "daniel-paris",
@@ -1393,9 +1195,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-cinq-codet",
@@ -1407,9 +1207,7 @@
       "slug": "Hotel-Le-Cinq-Codet"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "montalembert",
@@ -1421,9 +1219,7 @@
       "slug": "Hotel-Montalembert"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hana-paris",
@@ -1435,9 +1231,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-grand-mazarin",
@@ -1449,9 +1243,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-saint-hotel-paris",
@@ -1463,9 +1255,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "marquis-faubourg-saint-honora-c",
@@ -1477,9 +1267,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "la-lanterne-paris",
@@ -1491,9 +1279,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "les-rives-oceanik",
@@ -1505,9 +1291,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "eiffel-blomet",
@@ -1519,9 +1303,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-bellune-paris1",
@@ -1533,9 +1315,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "lyric-ha-tel-paris",
@@ -1547,9 +1327,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "phileas-hotel",
@@ -1561,9 +1339,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "trinite",
@@ -1575,9 +1351,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "trianon-rive-gauche",
@@ -1589,9 +1363,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "luxembourg-parc",
@@ -1600,9 +1372,7 @@
     "engine_type": "dedge",
     "deep_link_template": "https://www.secure-hotel-booking.com/smart/Hotel-Luxembourg-Parc/2EGF-2297/fr/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotelbeausejour",
@@ -1614,9 +1384,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "newhotelroblin",
@@ -1628,9 +1396,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-clark",
@@ -1642,9 +1408,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "elysee-gare-de-lyon",
@@ -1656,9 +1420,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "elyseesregencia",
@@ -1670,9 +1432,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "peyris-opera",
@@ -1684,9 +1444,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "molere",
@@ -1698,9 +1456,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "les-jardins-de-mademoiselle-paris",
@@ -1712,9 +1468,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-six",
@@ -1726,9 +1480,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "best-western-premier-litteraire-le-swann",
@@ -1740,9 +1492,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "idol",
@@ -1754,9 +1504,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "lodeon",
@@ -1768,9 +1516,7 @@
       "code": "2M3K",
       "slug": "redirect"
     },
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-sainte-beuve",
@@ -1782,9 +1528,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "park-lane-paris",
@@ -1796,9 +1540,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "au-manoir-saint-germain",
@@ -1810,9 +1552,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "saint-marc-paris",
@@ -1824,9 +1564,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "gardenelysee",
@@ -1837,9 +1575,7 @@
     "engine_params": {
       "property_id": "frpar11484"
     },
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "pierrearcdetriomphe",
@@ -1851,9 +1587,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "basile",
@@ -1865,9 +1599,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "millesime-paris",
@@ -1879,9 +1611,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "pavillon-de-paris",
@@ -1893,9 +1623,7 @@
       "slug": "Maison-Nabis-by-HappyCulture"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "madame-drouot-amp-spa-opera",
@@ -1907,9 +1635,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "best-western-plus-litteraire-marcel",
@@ -1921,9 +1647,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "de-lutece",
@@ -1935,9 +1659,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "grenelle-paris-tour-eiffel",
@@ -1949,9 +1671,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "de-suede-saint-germain",
@@ -1963,9 +1683,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "emeraude-louvre-montana",
@@ -1977,9 +1695,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "avaitic",
@@ -1988,9 +1704,7 @@
     "engine_type": "dedge",
     "deep_link_template": "https://www.secure-hotel-booking.com/smart/Elegancia-Gestion/2YJV-3734/en?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "royal-garden-champs-elysees",
@@ -2002,9 +1716,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "drawing-house",
@@ -2016,9 +1728,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "rayz-eiffel",
@@ -2030,9 +1740,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "villa-romantic",
@@ -2044,9 +1752,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "observatoireluxembour",
@@ -2058,9 +1764,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "cambon",
@@ -2072,9 +1776,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "armoni-paris",
@@ -2086,9 +1788,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "monge-paris7",
@@ -2100,9 +1800,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotelduministere",
@@ -2114,9 +1812,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-marceau-bastille",
@@ -2128,9 +1824,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "royal-saint-michel",
@@ -2142,9 +1836,7 @@
       "slug": "Royal-Saint-Michel"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "charles-v-paris",
@@ -2156,9 +1848,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "une-autre-chambre",
@@ -2170,9 +1860,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-pavillon-des-lettres",
@@ -2184,9 +1872,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "josephine",
@@ -2198,9 +1884,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "celtelafayette",
@@ -2212,9 +1896,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "grey",
@@ -2226,9 +1908,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "lord-byron",
@@ -2240,9 +1920,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "de-seze-paris",
@@ -2254,9 +1932,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "a-la-villa-madame",
@@ -2268,9 +1944,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hoteltherese",
@@ -2282,9 +1956,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "stgeorges",
@@ -2296,9 +1968,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "des-carmes-paris",
@@ -2310,9 +1980,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "le-grand-quartier",
@@ -2324,9 +1992,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotel-fougrere",
@@ -2338,9 +2004,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "saintpaul",
@@ -2352,9 +2016,7 @@
       "slug": "redirect"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "duquesneeiffel",
@@ -2366,9 +2028,7 @@
       "slug": "Hotel-Duquesne-Eiffel"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "sullysaintgermain",
@@ -2380,9 +2040,7 @@
       "slug": "Hotel-Atmospheres-Paris"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "louvresainthonore",
@@ -2393,9 +2051,7 @@
       "property_id": "frpar14300"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "hotel-mayflower",
@@ -2407,9 +2063,7 @@
       "slug": "MAYFLOWER"
     },
     "price_mode": "stay",
-    "city": "Paris",
-    "region": "Île-de-France",
-    "country": "FR"
+    "region": "Île-de-France"
   },
   {
     "id": "sun-riviera-hotel",
@@ -2421,9 +2075,7 @@
       "slug": "redirect"
     },
     "price_mode": "night",
-    "city": "Nice",
-    "region": "Provence-Alpes-Côte d'Azur",
-    "country": "FR"
+    "region": "Provence-Alpes-Côte d'Azur"
   },
   {
     "id": "ibaia-serge-blanco-hendaye",
@@ -2435,6 +2087,30 @@
       "slug": "redirect"
     },
     "price_mode": "night",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "villa-catarie",
+    "name": "Villa Catarie",
+    "booking_slug": "/hotel/fr/villa-catarie",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "10191"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "la-villa-des-consuls",
+    "name": "La Villa des Consuls",
+    "booking_slug": "/hotel/fr/la-villa-des-consuls",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "253858"
+    },
+    "price_mode": "stay",
     "region": "Nouvelle-Aquitaine"
   }
 ]
