@@ -2112,5 +2112,28 @@
     },
     "price_mode": "stay",
     "region": "Nouvelle-Aquitaine"
+  },
+ {
+    "id": "biarritz-centre-plaza",
+    "name": "Hôtel Plaza Biarritz",
+    "booking_slug": "/hotel/fr/biarritz-centre-plaza",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "5681"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "cabot-bordeaux-mgallery",
+    "name": "Cabot Bordeaux - MGallery Collection",
+    "booking_slug": "/hotel/fr/cabot-bordeaux-mgallery-collection",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "6660"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
   }
+]
 ]
