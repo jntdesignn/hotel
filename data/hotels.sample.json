@@ -1,0 +1,8012 @@
+[
+  {
+    "id": "htl_le_quartier_bercy_square",
+    "name": "Le Quartier Bercy-Square",
+    "booking_slug": "/hotel/fr/hoteldereuillyparis.fr.html",
+    "engine_type": "synxis",
+    "engine_params": {
+      "chain_id": "6162",
+      "hotel_id": "51934"
+    },
+    "price_mode": "night",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "the-chess",
+    "name": "The Chess Hotel",
+    "booking_slug": "/hotel/fr/the-chess",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "a26d58c8-ccb5-4246-9bab-ab6000f28ead"
+    },
+    "price_mode": "night",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "mercure-bordeaux-centre-gare",
+    "name": "Mercure Bordeaux Centre Gare Atlantic",
+    "booking_slug": "/hotel/fr/mercure-bordeaux-centre-gare-atlantic",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "B3F7"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.825893,
+      -0.557473
+    ]
+  },
+  {
+    "id": "htl_edenparis",
+    "name": "Hotel Eden Opera",
+    "booking_slug": "/hotel/fr/edenparis",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JB5U",
+      "slug": "Hotel-Eden-Opera"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "htl_royal_madeleine",
+    "name": "Hotel Royal Madeleine",
+    "booking_slug": "/hotel/fr/royal-madeleine-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2A8D",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "htl_collectionneur",
+    "name": "L'Hôtel Collectionneur",
+    "booking_slug": "/hotel/fr/collectionneur",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2PNY",
+      "slug": "redirect"
+    },
+    "price_mode": "night",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "htl_seven",
+    "name": "Hotel Seven",
+    "booking_slug": "/hotel/fr/seven",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2GQ4",
+      "slug": "Hotel-Seven"
+    },
+    "price_mode": "night",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "prince-albert-opera",
+    "name": "Hotel Prince Albert Opéra",
+    "booking_slug": "/hotel/fr/prince-albert-opera",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J14K",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "de-flore-paris",
+    "name": "Hotel de Flore - Montmartre",
+    "booking_slug": "/hotel/fr/de-flore-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2DS4",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "des-deux-continents",
+    "name": "Hotel Des Deux Continents",
+    "booking_slug": "/hotel/fr/des-deux-continents",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2TYR",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-robinet-d-or",
+    "name": "Le Robinet d'Or Paris Canal Saint Martin",
+    "booking_slug": "/hotel/fr/le-robinet-d-or",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YM1",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "muguet",
+    "name": "Hotel Muguet",
+    "booking_slug": "/hotel/fr/muguet",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29YI",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "de-seine",
+    "name": "Hotel De Seine",
+    "booking_slug": "/hotel/fr/de-seine",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2TD1",
+      "slug": "redirect"
+    },
+    "price_mode": "night",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "la-planque-paris",
+    "name": "La Planque Hotel",
+    "booking_slug": "/hotel/fr/la-planque-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJ2R",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "de-senlis",
+    "name": "Hotel Madeleine De Senlis",
+    "booking_slug": "/hotel/fr/de-senlis",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTJ6",
+      "slug": "Madeleine-de-Senlis"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "bastille-speria",
+    "name": "Hotel Bastille Speria",
+    "booking_slug": "/hotel/fr/bastille-speria",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JHE1",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "minerve",
+    "name": "Hotel Minerve",
+    "booking_slug": "/hotel/fr/minerve",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2QAV",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "choiseul-opera",
+    "name": "Hotel Choiseul Opera",
+    "booking_slug": "/hotel/fr/choiseul-opera",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2VKP",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "timelysees",
+    "name": "Hotel Elysees 8",
+    "booking_slug": "/hotel/fr/timelysees",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2ZR7",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "ascot",
+    "name": "Hotel Ascot Opera",
+    "booking_slug": "/hotel/fr/ascot",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2NPY",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "jardindeparismaraisbastille",
+    "name": "Hotel de Neuve by Happyculture",
+    "booking_slug": "/hotel/fr/jardindeparismaraisbastille",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2VT6",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "paris-france",
+    "name": "Paris France Hotel",
+    "booking_slug": "/hotel/fr/paris-france",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2FZ7",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "du-champ-de-mars",
+    "name": "Hotel du Champ de Mars",
+    "booking_slug": "/hotel/fr/du-champ-de-mars",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JHA7",
+      "slug": "be"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "princesse-caroline",
+    "name": "Princesse Caroline",
+    "booking_slug": "/hotel/fr/princesse-caroline",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "24W1",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "michelet-odeon",
+    "name": "Hotel Michelet Odeon",
+    "booking_slug": "/hotel/fr/michelet-odeon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JIJT",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "abbatial-st-germain",
+    "name": "Hotel Abbatial Saint Germain",
+    "booking_slug": "/hotel/fr/abbatial-st-germain",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2U7K",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "glasgowmonceauparis",
+    "name": "Hotel Glasgow Monceau by Patrick Hayat",
+    "booking_slug": "/hotel/fr/glasgowmonceauparis",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JB99",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotelpaixmadeleine",
+    "name": "Petit Madeleine Hôtel",
+    "booking_slug": "/hotel/fr/hotelpaixmadeleine",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2DZU",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "marena",
+    "name": "Hotel Marena",
+    "booking_slug": "/hotel/fr/marena",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JI8B",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "la-canopee-paris",
+    "name": "Hôtel La Canopée",
+    "booking_slug": "/hotel/fr/la-canopee-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J8RE",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "de-l-orchidee",
+    "name": "Hôtel Orchidée",
+    "booking_slug": "/hotel/fr/de-l-orchidee",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJFH",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "viator",
+    "name": "Hotel Viator - Gare de Lyon",
+    "booking_slug": "/hotel/fr/viator",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29EP",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "paris-haussmann-st-augustin",
+    "name": "Hotel Haussmann Saint Augustin",
+    "booking_slug": "/hotel/fr/paris-haussmann-st-augustin",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2XP2",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "de-suez",
+    "name": "Hotel De Suez",
+    "booking_slug": "/hotel/fr/de-suez",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29U7",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hoteldupre",
+    "name": "Hotel du Pré",
+    "booking_slug": "/hotel/fr/hoteldupre",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JIEP",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "bresil-opera",
+    "name": "Hôtel Brésil Opéra SPA",
+    "booking_slug": "/hotel/fr/bresil-opera",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2AGU",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "fred",
+    "name": "Fred'Hotel",
+    "booking_slug": "/hotel/fr/fred",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2U4Y",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "prince-albert-lyon-bercy",
+    "name": "Prince Albert Lyon Bercy",
+    "booking_slug": "/hotel/fr/prince-albert-lyon-bercy",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JK7X",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotel-left-bank",
+    "name": "Hotel Left Bank Saint Germain",
+    "booking_slug": "/hotel/fr/hotel-left-bank",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Z99",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "eiffelkennedy",
+    "name": "Eiffel Kennedy",
+    "booking_slug": "/hotel/fr/eiffelkennedy",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2924",
+      "slug": "hotel-eiffel-kennedy"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "la-perle",
+    "name": "La Perle Saint Germain des Prés",
+    "booking_slug": "/hotel/fr/la-perle",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2MSV",
+      "slug": "Hotel-La-Perle"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "royal-opera",
+    "name": "Hotel 10 Opéra by HappyCulture",
+    "booking_slug": "/hotel/fr/royal-opera",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "26FB",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "bailli-de-suffren-tour-eiffel",
+    "name": "Le Bailli",
+    "booking_slug": "/hotel/fr/bailli-de-suffren-tour-eiffel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2QPW",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hoteljardinseiffel",
+    "name": "Jardins Eiffel",
+    "booking_slug": "/hotel/fr/hoteljardinseiffel",
+    "engine_type": "dedge",
+    "price_mode": "stay",
+    "engine_params": {
+      "code": "J1CJ",
+      "slug": "redirect"
+    },
+    "region": "Île-de-France"
+  },
+  {
+    "id": "cler-paris",
+    "name": "Cler Hotel",
+    "booking_slug": "/hotel/fr/cler-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2DNI",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "apollinaire-paris",
+    "name": "Apollinaire",
+    "booking_slug": "/hotel/fr/apollinaire-paris",
+    "engine_type": "dedge",
+    "price_mode": "stay",
+    "engine_params": {
+      "code": "2DN8",
+      "slug": "redirect"
+    },
+    "region": "Île-de-France"
+  },
+  {
+    "id": "pointe-rivoli",
+    "name": "Le Temple De Jeanne",
+    "booking_slug": "/hotel/fr/pointe-rivoli",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2TAS",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "pax-opera",
+    "name": "Hotel Pax Opera",
+    "booking_slug": "/hotel/fr/pax-opera",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2QNA",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "scarlett",
+    "name": "Hotel Scarlett",
+    "booking_slug": "/hotel/fr/scarlett",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YAW",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "odeon-paris",
+    "name": "Odeon Hotel",
+    "booking_slug": "/hotel/fr/odeon-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2GN1",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "oh-la-la",
+    "name": "Oh la la ! Hotel Bar Paris Bastille",
+    "booking_slug": "/hotel/fr/oh-la-la",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JBTN",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "des-arenes",
+    "name": "Hotel Des Arenes",
+    "booking_slug": "/hotel/fr/des-arenes",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2ZEM",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotelterminuslyon",
+    "name": "Hotel Terminus Lyon",
+    "booking_slug": "/hotel/fr/hotelterminuslyon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29C4",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "ernest-paris",
+    "name": "Hotel Ernest",
+    "booking_slug": "/hotel/fr/ernest-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JSBA",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "chambellan-morgane",
+    "name": "Chambellan Morgane",
+    "booking_slug": "/hotel/fr/chambellan-morgane",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2MZS",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "des-grandes-ecoles",
+    "name": "Hotel des Grandes Ecoles",
+    "booking_slug": "/hotel/fr/des-grandes-ecoles",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J29X",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "ajiel",
+    "name": "Chouette Hotel",
+    "booking_slug": "/hotel/fr/ajiel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2VGB",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "royalmagdaetoile",
+    "name": "Magda Champs Elysées",
+    "booking_slug": "/hotel/fr/royalmagdaetoile",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2IS",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "paris-louis-blanc",
+    "name": "Hotel Paris Louis Blanc",
+    "booking_slug": "/hotel/fr/paris-louis-blanc",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "24WE",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "royal-phare",
+    "name": "Hotel Royal Phare",
+    "booking_slug": "/hotel/fr/royal-phare",
+    "engine_type": "dedge",
+    "price_mode": "stay",
+    "engine_params": {
+      "code": "JKBN",
+      "slug": "redirect"
+    },
+    "region": "Île-de-France"
+  },
+  {
+    "id": "massena-paris",
+    "name": "Hotel Massena",
+    "booking_slug": "/hotel/fr/massena-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Y9W",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "charles-v-marais-apartment",
+    "name": "Charles V Marais Apartment",
+    "booking_slug": "/hotel/fr/charles-v-marais-apartment",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2XWQ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotel-inn-design-paris-place-ditalie",
+    "name": "Hotel Inn Design Paris Place d'italie",
+    "booking_slug": "/hotel/fr/hotel-inn-design-paris-place-ditalie",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJGV",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "boronali",
+    "name": "Hotel Boronali - Nouvellement rénové",
+    "booking_slug": "/hotel/fr/boronali",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "298Z",
+      "slug": "Hotel-Boronali"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "florideetoileparis",
+    "name": "Floride-Etoile",
+    "booking_slug": "/hotel/fr/florideetoileparis",
+    "engine_type": "book-secure",
+    "price_mode": "stay",
+    "engine_params": {
+      "property_id": "frpar28689"
+    },
+    "region": "Île-de-France"
+  },
+  {
+    "id": "acaciasetoile",
+    "name": "Acacias Etoile",
+    "booking_slug": "/hotel/fr/acaciasetoile",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2II",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "all-suites-appart-paris-13-porte-d-italie",
+    "name": "All Suites Appart Hôtel et Hôtel - Paris 13 - Porte d'Italie",
+    "booking_slug": "/hotel/fr/all-suites-appart-paris-13-porte-d-italie",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2UK",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "beaugrenelletoureiffel",
+    "name": "Hotel Beaugrenelle Tour Eiffel",
+    "booking_slug": "/hotel/fr/beaugrenelletoureiffel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRTF",
+      "slug": "be"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotel-zelie",
+    "name": "Hôtel Zélie",
+    "booking_slug": "/hotel/fr/hotel-zelie",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J7KF",
+      "slug": "Hotel-Zelie"
+    },
+    "price_mode": "night",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hoteldutheatre",
+    "name": "Hôtel du Théâtre by Patrick Hayat",
+    "booking_slug": "/hotel/fr/hoteldutheatre",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JB9F",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotelappialafayette",
+    "name": "Appia La Fayette",
+    "booking_slug": "/hotel/fr/hotelappialafayette",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2ZAE",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotelcrystal2",
+    "name": "Crystal Hotel",
+    "booking_slug": "/hotel/fr/hotelcrystal2",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2HTN",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "centre-ville-etoile-paris",
+    "name": "Hotel Archetype Etoile",
+    "booking_slug": "/hotel/fr/centre-ville-etoile-paris",
+    "engine_type": "dedge",
+    "price_mode": "stay",
+    "engine_params": {
+      "code": "2MZK",
+      "slug": "redirect"
+    },
+    "region": "Île-de-France"
+  },
+  {
+    "id": "ha-tel-prince-montmartre",
+    "name": "Prince Albert Montmartre",
+    "booking_slug": "/hotel/fr/ha-tel-prince-montmartre",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JK7A",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotel-belle-epoque-paris",
+    "name": "Hotel Albe Bastille",
+    "booking_slug": "/hotel/fr/hotel-belle-epoque-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "24SB",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "convention-montparnasse",
+    "name": "Convention Montparnasse",
+    "booking_slug": "/hotel/fr/convention-montparnasse",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Q4S",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "villa-glamour",
+    "name": "Villa Glamour",
+    "booking_slug": "/hotel/fr/villa-glamour",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2h1a",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotelfrancais",
+    "name": "Grand Hotel Francais",
+    "booking_slug": "/hotel/fr/hotelfrancais",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JS4U",
+      "slug": "Grand-Hotel-Francais"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "du-printemps-paris",
+    "name": "HOTEL DU PRINTEMPS",
+    "booking_slug": "/hotel/fr/du-printemps-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JI69",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "champerret-heliopolis",
+    "name": "Champerret Heliopolis",
+    "booking_slug": "/hotel/fr/champerret-heliopolis",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2EQY",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "new-orient",
+    "name": "New Orient Hotel",
+    "booking_slug": "/hotel/fr/new-orient",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2VFJ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "best-western-eiffel-cambronne",
+    "name": "Maison 46",
+    "booking_slug": "/hotel/fr/best-western-eiffel-cambronne",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2HMZ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "eiffelcapitol",
+    "name": "Hotel Eiffel Capitol",
+    "booking_slug": "/hotel/fr/eiffelcapitol",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRVU",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotelboileau",
+    "name": "Hotel Boileau",
+    "booking_slug": "/hotel/fr/hotelboileau",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JHFI",
+      "slug": "Hotel-Boileau"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "ha-tel-cervantes",
+    "name": "Hotel Cervantes by Happyculture",
+    "booking_slug": "/hotel/fr/ha-tel-cervantes",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2D2B",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-citizen",
+    "name": "Le Citizen Hotel",
+    "booking_slug": "/hotel/fr/le-citizen",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2GZY",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "europe-paris",
+    "name": "Europe Hotel Paris Eiffel",
+    "booking_slug": "/hotel/fr/europe-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "24Q5",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "bridget",
+    "name": "Hotel Bridget",
+    "booking_slug": "/hotel/fr/bridget",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J28G",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-mireille-paris",
+    "name": "Le Mireille",
+    "booking_slug": "/hotel/fr/le-mireille-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2EXX",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "delambre-paris",
+    "name": "Hotel Delambre",
+    "booking_slug": "/hotel/fr/delambre-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29E6",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "ha-tel-magenta",
+    "name": "Hotel Magenta 38 by Happyculture",
+    "booking_slug": "/hotel/fr/ha-tel-magenta",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2D2J",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "mogador-paris",
+    "name": "Hotel Mogador",
+    "booking_slug": "/hotel/fr/mogador-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2E8S",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "relaiseiffelgrenelle",
+    "name": "Hotel Eiffel Seine",
+    "booking_slug": "/hotel/fr/relaiseiffelgrenelle",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2U5N",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "claude-bernard-saint-germain",
+    "name": "Hotel Claude Bernard Saint-Germain",
+    "booking_slug": "/hotel/fr/claude-bernard-saint-germain",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2DNV",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "ariane-montparnasse",
+    "name": "Hotel Ariane Montparnasse by Patrick Hayat",
+    "booking_slug": "/hotel/fr/ariane-montparnasse",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JB9N",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "d-aubusson",
+    "name": "Hôtel D'Aubusson",
+    "booking_slug": "/hotel/fr/d-aubusson",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2UZE",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "villa-des-pres",
+    "name": "Villa-des-Prés",
+    "booking_slug": "/hotel/fr/villa-des-pres",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JK4T",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-damantin-amp-spa",
+    "name": "Le Damantin Hôtel & Spa",
+    "booking_slug": "/hotel/fr/le-damantin-amp-spa",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JSYY",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "monsieur-george-amp-spa-champs-elysees",
+    "name": "Monsieur George Hotel & Spa - Champs-Elysées",
+    "booking_slug": "/hotel/fr/monsieur-george-amp-spa-champs-elysees",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J272",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "la-demeure-montaigne",
+    "name": "La Demeure Montaigne",
+    "booking_slug": "/hotel/fr/la-demeure-montaigne",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JI2S",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "daniel-paris",
+    "name": "Hotel de Montesquieu",
+    "booking_slug": "/hotel/fr/daniel-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2PMN",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-cinq-codet",
+    "name": "Le Cinq Codet",
+    "booking_slug": "/hotel/fr/le-cinq-codet",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JH5H",
+      "slug": "Hotel-Le-Cinq-Codet"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "montalembert",
+    "name": "Hotel Montalembert",
+    "booking_slug": "/hotel/fr/montalembert",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTYC",
+      "slug": "Hotel-Montalembert"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hana-paris",
+    "name": "Hotel Hana",
+    "booking_slug": "/hotel/fr/hana-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J7GU",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-grand-mazarin",
+    "name": "Le Grand Mazarin",
+    "booking_slug": "/hotel/fr/le-grand-mazarin",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JS63",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-saint-hotel-paris",
+    "name": "Pavillon Faubourg Saint-Germain & Spa",
+    "booking_slug": "/hotel/fr/le-saint-hotel-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2M4",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "marquis-faubourg-saint-honora-c",
+    "name": "MARQUIS Faubourg Saint-Honoré",
+    "booking_slug": "/hotel/fr/marquis-faubourg-saint-honora-c",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2965",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "la-lanterne-paris",
+    "name": "Hotel La Lanterne & Spa By Timhotel",
+    "booking_slug": "/hotel/fr/la-lanterne-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2EXQ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "les-rives-oceanik",
+    "name": "Les Rives Oceanik",
+    "booking_slug": "/hotel/fr/les-rives-oceanik",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J1AT",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "eiffel-blomet",
+    "name": "Hotel Eiffel Blomet",
+    "booking_slug": "/hotel/fr/eiffel-blomet",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2EV4",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-bellune-paris1",
+    "name": "Le Bellune Paris",
+    "booking_slug": "/hotel/fr/le-bellune-paris1",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JS8I",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "lyric-ha-tel-paris",
+    "name": "Lyric Hotel Paris Opera",
+    "booking_slug": "/hotel/fr/lyric-ha-tel-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2FFQ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "phileas-hotel",
+    "name": "Hotel Phileas Lazare & Spa - Opera",
+    "booking_slug": "/hotel/fr/phileas-hotel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YCU",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "trinite",
+    "name": "Maison Pigalle",
+    "booking_slug": "/hotel/fr/trinite",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "26RJ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "trianon-rive-gauche",
+    "name": "Hotel Trianon Rive Gauche",
+    "booking_slug": "/hotel/fr/trianon-rive-gauche",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2TYJ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "luxembourg-parc",
+    "name": "Hotel Luxembourg Parc",
+    "booking_slug": "/hotel/fr/luxembourg-parc",
+    "engine_type": "dedge",
+    "deep_link_template": "https://www.secure-hotel-booking.com/smart/Hotel-Luxembourg-Parc/2EGF-2297/fr/?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotelbeausejour",
+    "name": "B Montmartre",
+    "booking_slug": "/hotel/fr/hotelbeausejour",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JR5Z",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "newhotelroblin",
+    "name": "New Hotel Roblin",
+    "booking_slug": "/hotel/fr/newhotelroblin",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTDR",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-clark",
+    "name": "LE CLARK HOTEL",
+    "booking_slug": "/hotel/fr/le-clark",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J7NN",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "elysee-gare-de-lyon",
+    "name": "Hotel Sleeping Belle - Gare de Lyon Bastille",
+    "booking_slug": "/hotel/fr/elysee-gare-de-lyon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2UD1",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "elyseesregencia",
+    "name": "Hôtel Elysées Régencia",
+    "booking_slug": "/hotel/fr/elyseesregencia",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "23XU",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "peyris-opera",
+    "name": "Hotel Peyris Opera",
+    "booking_slug": "/hotel/fr/peyris-opera",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2QNC",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "molere",
+    "name": "Hôtel Molière",
+    "booking_slug": "/hotel/fr/molere",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2U17",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "les-jardins-de-mademoiselle-paris",
+    "name": "Jardins de Mademoiselle Hôtel & Spa",
+    "booking_slug": "/hotel/fr/les-jardins-de-mademoiselle-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2XA3",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-six",
+    "name": "Hotel Le Six",
+    "booking_slug": "/hotel/fr/le-six",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJ2F",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "best-western-premier-litteraire-le-swann",
+    "name": "Hotel Litteraire Le Swann, BW Premier Collection",
+    "booking_slug": "/hotel/fr/best-western-premier-litteraire-le-swann",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRR2",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "idol",
+    "name": "Idol Hotel",
+    "booking_slug": "/hotel/fr/idol",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2V4N",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "lodeon",
+    "name": "Hotel Odeon Saint-Germain",
+    "booking_slug": "/hotel/fr/lodeon",
+    "engine_type": "dedge",
+    "price_mode": "stay",
+    "engine_params": {
+      "code": "2M3K",
+      "slug": "redirect"
+    },
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-sainte-beuve",
+    "name": "Hôtel Sainte-Beuve",
+    "booking_slug": "/hotel/fr/le-sainte-beuve",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Z4I",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "park-lane-paris",
+    "name": "Hotel Park Lane Paris",
+    "booking_slug": "/hotel/fr/park-lane-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "24LS",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "au-manoir-saint-germain",
+    "name": "Au Manoir Saint Germain",
+    "booking_slug": "/hotel/fr/au-manoir-saint-germain",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2962",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "saint-marc-paris",
+    "name": "Hôtel Saint-Marc",
+    "booking_slug": "/hotel/fr/saint-marc-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJKG",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "gardenelysee",
+    "name": "Garden-Elysée",
+    "booking_slug": "/hotel/fr/gardenelysee",
+    "engine_type": "book-secure",
+    "price_mode": "stay",
+    "engine_params": {
+      "property_id": "frpar11484"
+    },
+    "region": "Île-de-France"
+  },
+  {
+    "id": "pierrearcdetriomphe",
+    "name": "XO Hotel Paris",
+    "booking_slug": "/hotel/fr/pierrearcdetriomphe",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2FHV",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "basile",
+    "name": "Le Basile Hôtel",
+    "booking_slug": "/hotel/fr/basile",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2XYX",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "millesime-paris",
+    "name": "Millésime Hôtel",
+    "booking_slug": "/hotel/fr/millesime-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "21YX",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "pavillon-de-paris",
+    "name": "Maison Nabis by HappyCulture",
+    "booking_slug": "/hotel/fr/pavillon-de-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2D28",
+      "slug": "Maison-Nabis-by-HappyCulture"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "madame-drouot-amp-spa-opera",
+    "name": "Madame Drouot & Spa - Opera",
+    "booking_slug": "/hotel/fr/madame-drouot-amp-spa-opera",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTKJ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "best-western-plus-litteraire-marcel",
+    "name": "Hotel Litteraire Marcel Ayme, BW Premier Collection",
+    "booking_slug": "/hotel/fr/best-western-plus-litteraire-marcel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRR2",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "de-lutece",
+    "name": "Hotel L de Lutece - Notre-Dame",
+    "booking_slug": "/hotel/fr/de-lutece",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "265X",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "grenelle-paris-tour-eiffel",
+    "name": "Hotel Bleu de Grenelle - Tour Eiffel",
+    "booking_slug": "/hotel/fr/grenelle-paris-tour-eiffel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JI1H",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "de-suede-saint-germain",
+    "name": "Hotel De Suede Saint Germain",
+    "booking_slug": "/hotel/fr/de-suede-saint-germain",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2UWU",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "emeraude-louvre-montana",
+    "name": "Hotel Louvre Montana",
+    "booking_slug": "/hotel/fr/emeraude-louvre-montana",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2X5",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "avaitic",
+    "name": "Hotel Louison",
+    "booking_slug": "/hotel/fr/avaitic",
+    "engine_type": "dedge",
+    "deep_link_template": "https://www.secure-hotel-booking.com/smart/Elegancia-Gestion/2YJV-3734/en?arrivalDate={CI}&departureDate={CO}&adults={ADULTS}&children={CHILDREN}&rooms={ROOMS}",
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "royal-garden-champs-elysees",
+    "name": "Royal Garden Champs-Élysées",
+    "booking_slug": "/hotel/fr/royal-garden-champs-elysees",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YR2",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "drawing-house",
+    "name": "Drawing House",
+    "booking_slug": "/hotel/fr/drawing-house",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JI9C",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "rayz-eiffel",
+    "name": "Rayz Eiffel",
+    "booking_slug": "/hotel/fr/rayz-eiffel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JBAH",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "villa-romantic",
+    "name": "Hotel Villa Romantic & Spa",
+    "booking_slug": "/hotel/fr/villa-romantic",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JS7Q",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "observatoireluxembour",
+    "name": "Hotel Observatoire Luxembourg",
+    "booking_slug": "/hotel/fr/observatoireluxembour",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJB4",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "cambon",
+    "name": "Hotel Cambon",
+    "booking_slug": "/hotel/fr/cambon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTD8",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "armoni-paris",
+    "name": "Hotel Armoni Paris",
+    "booking_slug": "/hotel/fr/armoni-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29QD",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "monge-paris7",
+    "name": "Hotel Monge",
+    "booking_slug": "/hotel/fr/monge-paris7",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "25JB",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotelduministere",
+    "name": "Hôtel du Ministère",
+    "booking_slug": "/hotel/fr/hotelduministere",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2AS7",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-marceau-bastille",
+    "name": "Le Marceau Bastille",
+    "booking_slug": "/hotel/fr/le-marceau-bastille",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Z66",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "royal-saint-michel",
+    "name": "Royal Saint Michel",
+    "booking_slug": "/hotel/fr/royal-saint-michel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2AIB",
+      "slug": "Royal-Saint-Michel"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "charles-v-paris",
+    "name": "Charles V",
+    "booking_slug": "/hotel/fr/charles-v-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2XWQ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "une-autre-chambre",
+    "name": "UNE AUTRE CHAMBRE",
+    "booking_slug": "/hotel/fr/une-autre-chambre",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2GTI",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-pavillon-des-lettres",
+    "name": "Le Pavillon des Lettres",
+    "booking_slug": "/hotel/fr/le-pavillon-des-lettres",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2VQE",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "josephine",
+    "name": "Hôtel Joséphine by Happyculture",
+    "booking_slug": "/hotel/fr/josephine",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2D2I",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "celtelafayette",
+    "name": "New Hotel Lafayette",
+    "booking_slug": "/hotel/fr/celtelafayette",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTVC",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "grey",
+    "name": "Le Grey Hotel",
+    "booking_slug": "/hotel/fr/grey",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29GU",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "lord-byron",
+    "name": "Lord Byron",
+    "booking_slug": "/hotel/fr/lord-byron",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JSEP",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "de-seze-paris",
+    "name": "Hotel de Seze",
+    "booking_slug": "/hotel/fr/de-seze-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JHDH",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "a-la-villa-madame",
+    "name": "La Villa Madame",
+    "booking_slug": "/hotel/fr/a-la-villa-madame",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "21A1",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hoteltherese",
+    "name": "Hôtel Thérèse",
+    "booking_slug": "/hotel/fr/hoteltherese",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2PZ8",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "stgeorges",
+    "name": "Hotel Sacha",
+    "booking_slug": "/hotel/fr/stgeorges",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2D2R",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "des-carmes-paris",
+    "name": "Hotel des Carmes by Malone",
+    "booking_slug": "/hotel/fr/des-carmes-paris",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J7DR",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "le-grand-quartier",
+    "name": "Le Grand Quartier",
+    "booking_slug": "/hotel/fr/le-grand-quartier",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JR6H",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotel-fougrere",
+    "name": "Hôtel Fougère",
+    "booking_slug": "/hotel/fr/hotel-fougrere",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J8BX",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "saintpaul",
+    "name": "Hôtel Saint-Paul Rive-Gauche",
+    "booking_slug": "/hotel/fr/saintpaul",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2G41",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "duquesneeiffel",
+    "name": "Hotel Duquesne Eiffel",
+    "booking_slug": "/hotel/fr/duquesneeiffel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRIQ",
+      "slug": "Hotel-Duquesne-Eiffel"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "sullysaintgermain",
+    "name": "Hotel Atmospheres",
+    "booking_slug": "/hotel/fr/sullysaintgermain",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JBF7",
+      "slug": "Hotel-Atmospheres-Paris"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "louvresainthonore",
+    "name": "Hotel Louvre Saint-Honoré",
+    "booking_slug": "/hotel/fr/louvresainthonore",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "frpar14300"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "hotel-mayflower",
+    "name": "Hotel Mayflower",
+    "booking_slug": "/hotel/fr/hotel-mayflower",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J7JS",
+      "slug": "MAYFLOWER"
+    },
+    "price_mode": "stay",
+    "region": "Île-de-France"
+  },
+  {
+    "id": "sun-riviera-hotel",
+    "name": "Sun Riviera Hotel",
+    "booking_slug": "/hotel/fr/sun-riviera-hotel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JBRI",
+      "slug": "redirect"
+    },
+    "price_mode": "night",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "id": "ibaia-serge-blanco-hendaye",
+    "name": "Hôtel Ibaïa",
+    "booking_slug": "/hotel/fr/ibaia-serge-blanco-hendaye",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JI25",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "villa-catarie",
+    "name": "Villa Catarie",
+    "booking_slug": "/hotel/fr/villa-catarie",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "10191"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "la-villa-des-consuls",
+    "name": "La Villa des Consuls",
+    "booking_slug": "/hotel/fr/la-villa-des-consuls-et-spa",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "253858"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "biarritz-centre-plaza",
+    "name": "Hôtel Plaza Biarritz",
+    "booking_slug": "/hotel/fr/biarritz-centre-plaza",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "5681"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "cabot-bordeaux-mgallery",
+    "name": "Cabot Bordeaux - MGallery Collection",
+    "booking_slug": "/hotel/fr/cabot-bordeaux-mgallery-collection",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "6660"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "de-bouilhac",
+    "name": "Hôtel de Bouilhac",
+    "booking_slug": "/hotel/fr/de-bouilhac",
+    "engine_type": "thais",
+    "engine_params": {
+      "subdomain": "hoteldebouilhac"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "du-golf-lacanau",
+    "name": "Hôtel du Golf Lacanau",
+    "booking_slug": "/hotel/fr/du-golf-lacanau",
+    "engine_type": "thais",
+    "engine_params": {
+      "subdomain": "labaignoirelacanau"
+    },
+    "price_mode": "stay",
+    "region": "Nouvelle-Aquitaine"
+  },
+  {
+    "id": "la-perle-de-domme",
+    "name": "La Perle de Domme",
+    "booking_slug": "/hotel/fr/la-perle-de-domme",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "bcd21b67-fda6-4db9-a199-b27c00f15ea6"
+    },
+    "price_mode": "stay",
+    "city": "Domme",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8044,
+      1.2178
+    ]
+  },
+  {
+    "id": "hostellerie-des-freres-ibarboure",
+    "name": "Hôtel Les Frères Ibarboure",
+    "booking_slug": "/hotel/fr/hostellerie-des-freres-ibarboure",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "7811"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "vatel-bordeaux",
+    "name": "Hotel Vatel Bordeaux",
+    "booking_slug": "/hotel/fr/vatel-bordeaux",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YFA"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "best-western-bordeaux-quot-bayonne-quot",
+    "name": "Best Western Premier HBEO Bordeaux Centre",
+    "booking_slug": "/hotel/fr/best-western-bordeaux-quot-bayonne-quot",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRYX"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "burdigalabord",
+    "name": "Hôtel Burdigala by Inwood Hotels",
+    "booking_slug": "/hotel/fr/burdigalabord",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JLXC"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "moulin-de-l-abbaye",
+    "name": "Moulin de l'Abbaye",
+    "booking_slug": "/hotel/fr/moulin-de-l-abbaye",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "23337"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "residence-columba",
+    "name": "Résidence Columba - Apparts meublés Agen Sud",
+    "booking_slug": "/hotel/fr/residence-columba",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JR6X"
+    },
+    "price_mode": "stay",
+    "city": "Agen",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.2034,
+      0.6165
+    ]
+  },
+  {
+    "id": "mondrian-bordeaux-des-carmes",
+    "name": "Mondrian Bordeaux Les Carmes",
+    "booking_slug": "/hotel/fr/mondrian-bordeaux-des-carmes",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "1810"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "grand-barrail-chateau-resort-spa-saint-emilion",
+    "name": "Château Hôtel Grand Barrail",
+    "booking_slug": "/hotel/fr/grand-barrail-chateau-resort-spa-saint-emilion",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJ23"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "de-chiberta-et-du-golf",
+    "name": "Hôtel Maison Chiberta",
+    "booking_slug": "/hotel/fr/de-chiberta-et-du-golf",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2MUX"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "le-petit-manoir-sarlat-la-caneda",
+    "name": "LE PETIT MANOIR",
+    "booking_slug": "/hotel/fr/le-petit-manoir-sarlat-la-caneda",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "436649"
+    },
+    "price_mode": "stay",
+    "city": "Sarlat",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8912,
+      1.2165
+    ]
+  },
+  {
+    "id": "chateau-de-maraval",
+    "name": "Château de Maraval",
+    "booking_slug": "/hotel/fr/chateau-de-maraval",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "5ea3fa17-0cca-4d5c-b25d-b14700801317"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "victoria-boutique",
+    "name": "Urban Style Victoria Boutique Hotel",
+    "booking_slug": "/hotel/fr/victoria-boutique",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "233",
+      "hotel_id": "468073"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "de-la-madeleine",
+    "name": "Plaza Madeleine & Spa",
+    "booking_slug": "/hotel/fr/de-la-madeleine",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "131327"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "l-39-anderenis",
+    "name": "L'Anderenis Boutique Hôtel",
+    "booking_slug": "/hotel/fr/l-39-anderenis",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JKBU"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "le-b-darcachon",
+    "name": "Hôtel Le B d'Arcachon by Inwood Hotels",
+    "booking_slug": "/hotel/fr/le-b-darcachon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JLXP"
+    },
+    "price_mode": "stay",
+    "city": "Arcachon",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.6584,
+      -1.1655
+    ]
+  },
+  {
+    "id": "arcachon",
+    "name": "Thalazur Arcachon - Hôtel & Spa",
+    "booking_slug": "/hotel/fr/arcachon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JK3N"
+    },
+    "price_mode": "stay",
+    "city": "Arcachon",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.6584,
+      -1.1655
+    ]
+  },
+  {
+    "id": "madison-saint-jean-de-luz-saint-jean-de-luz",
+    "name": "MADISON Saint Jean de Luz - Handwritten Collection",
+    "booking_slug": "/hotel/fr/madison-saint-jean-de-luz-saint-jean-de-luz",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "C3Y8"
+    },
+    "price_mode": "stay",
+    "city": "Saint-Jean-de-Luz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.3882,
+      -1.6619
+    ]
+  },
+  {
+    "id": "la-metairie-mauzac",
+    "name": "Hôtel La Métairie - Teritoria- Les Collectionneurs",
+    "booking_slug": "/hotel/fr/la-metairie-mauzac",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "3927"
+    },
+    "price_mode": "stay",
+    "city": "Mauzac",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.88,
+      1.23
+    ]
+  },
+  {
+    "id": "helianthal",
+    "name": "Thalazur Saint Jean de Luz - Hôtel & Spa",
+    "booking_slug": "/hotel/fr/helianthal",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JKVM"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "seeko-o",
+    "name": "Seeko'o Hotel Bordeaux",
+    "booking_slug": "/hotel/fr/seeko-o",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2VI8"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "tonic-hotel-biarritz",
+    "name": "Grand Tonic Hotel & SPA NUXE",
+    "booking_slug": "/hotel/fr/tonic-hotel-biarritz",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2X4R"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "berria",
+    "name": "Hôtel Berria par La Maison de Pierre",
+    "booking_slug": "/hotel/fr/berria",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "34fe46ac-65f1-437c-b4c1-b0f3008d42b8"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "les-buissonnets-arcachon",
+    "name": "La Villa du Moulleau",
+    "booking_slug": "/hotel/fr/les-buissonnets-arcachon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRMI"
+    },
+    "price_mode": "stay",
+    "city": "Arcachon",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.6584,
+      -1.1655
+    ]
+  },
+  {
+    "id": "de-seze-bordeaux",
+    "name": "Hôtel de Sèze & Spa Bordeaux Centre",
+    "booking_slug": "/hotel/fr/de-seze-bordeaux",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29J3"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "les-vagues-amp-spa",
+    "name": "Les Vagues Hotel & Spa",
+    "booking_slug": "/hotel/fr/les-vagues-amp-spa",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J16W"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "villa-acotz-lafitenia-resort",
+    "name": "Lafitenia Resort",
+    "booking_slug": "/hotel/fr/villa-acotz-lafitenia-resort",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J1J8"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "yndo",
+    "name": "Yndo Hôtel",
+    "booking_slug": "/hotel/fr/yndo",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2VIU"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "eugenie-biarritz",
+    "name": "Hôtel Florida",
+    "booking_slug": "/hotel/fr/eugenie-biarritz",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "41191",
+      "chain_id": "5460"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "hotels-e-preferences-le-m-e-spa",
+    "name": "Le M & Spa Bordeaux Aéroport by Hôtels & Préférence",
+    "booking_slug": "/hotel/fr/hotels-e-preferences-le-m-e-spa",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "38548",
+      "chain_id": "5460"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "mercure-bordeaux-gare-saint-jean",
+    "name": "Novotel Bordeaux Centre Gare Saint Jean",
+    "booking_slug": "/hotel/fr/mercure-bordeaux-gare-saint-jean",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "7385"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "aux-ducs-de-sienne",
+    "name": "AUX DUCS DE SIENNE",
+    "booking_slug": "/hotel/fr/aux-ducs-de-sienne",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "33aa81bb-055e-4eb7-b931-ad360035e72c"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "le-cafe-de-paris-4",
+    "name": "Hôtel Le Café de Paris",
+    "booking_slug": "/hotel/fr/le-cafe-de-paris-4",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2M9D"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "le-centenaire",
+    "name": "Hotel Restaurant Le Centenaire",
+    "booking_slug": "/hotel/fr/le-centenaire",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "7512"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "le-palais-gallien",
+    "name": "Le Palais Gallien Hôtel & Spa",
+    "booking_slug": "/hotel/fr/le-palais-gallien",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2QCK"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "inter-windsor",
+    "name": "Hôtel Le Windsor Biarritz",
+    "booking_slug": "/hotel/fr/inter-windsor",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YDL"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "chateau-les-merles",
+    "name": "Château Les Merles et ses Villas",
+    "booking_slug": "/hotel/fr/chateau-les-merles",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2HQP"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "de-silhouette-biarritz",
+    "name": "Hotel de Silhouette",
+    "booking_slug": "/hotel/fr/de-silhouette-biarritz",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JB8B"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "la-chartreuse-du-bignac",
+    "name": "La Chartreuse du Bignac - Teritoria",
+    "booking_slug": "/hotel/fr/la-chartreuse-du-bignac",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "10205"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "le-caritz",
+    "name": "Roc Seven Biarritz",
+    "booking_slug": "/hotel/fr/le-caritz",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2CLF"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "villas-foch",
+    "name": "Villas Foch Boutique Hotel & Spa Bordeaux",
+    "booking_slug": "/hotel/fr/villas-foch",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "b82ad591-337c-40c1-94be-ad18009d94b5"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "karitza-biarritz",
+    "name": "Hôtel Jules Verne Biarritz",
+    "booking_slug": "/hotel/fr/karitza-biarritz",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JI6X"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "de-chantaco",
+    "name": "Hôtel Chantaco Golf & Wellness",
+    "booking_slug": "/hotel/fr/de-chantaco",
+    "engine_type": "thais",
+    "engine_params": {
+      "slug": "lechantaco"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "le-boutique-bordeaux",
+    "name": "Le Boutique Hotel & Spa",
+    "booking_slug": "/hotel/fr/le-boutique-bordeaux",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29J3"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "clos-castel",
+    "name": "Hotel Clos Castel Villas Spa",
+    "booking_slug": "/hotel/fr/clos-castel",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "233",
+      "hotel_id": "456762"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "de-normandie-bordeaux",
+    "name": "Hôtel de Normandie",
+    "booking_slug": "/hotel/fr/de-normandie-bordeaux",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "29HQ"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "logis-de-france-et-d-angleterre",
+    "name": "Best Western Premier Hotel des Vignes et des Anges",
+    "booking_slug": "/hotel/fr/logis-de-france-et-d-angleterre",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JKZF"
+    },
+    "price_mode": "stay",
+    "city": "Anglet",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4848,
+      -1.5228
+    ]
+  },
+  {
+    "id": "biarritz-anglet-aeroport",
+    "name": "Novotel Resort & Spa Biarritz Anglet",
+    "booking_slug": "/hotel/fr/biarritz-anglet-aeroport",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "0994"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "bizipoz-saint-jean-de-luz",
+    "name": "Bizipoz Hôtel",
+    "booking_slug": "/hotel/fr/bizipoz-saint-jean-de-luz",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "fca675c8-1939-4b2f-870f-b22000d0646f"
+    },
+    "price_mode": "stay",
+    "city": "Saint-Jean-de-Luz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.3882,
+      -1.6619
+    ]
+  },
+  {
+    "id": "mercure-perigueux-centre",
+    "name": "Mercure Périgueux Centre Historique",
+    "booking_slug": "/hotel/fr/mercure-perigueux-centre",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "6237"
+    },
+    "price_mode": "stay",
+    "city": "Périgueux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      45.1843,
+      0.7212
+    ]
+  },
+  {
+    "id": "serra-boutique",
+    "name": "Serra Boutique Hôtel",
+    "booking_slug": "/hotel/fr/serra-boutique",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J7F6"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "les-sources-de-caudalie",
+    "name": "Les Sources de Caudalie",
+    "booking_slug": "/hotel/fr/les-sources-de-caudalie",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JSQJ"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "auberge-ostape",
+    "name": "Auberge Ostapé",
+    "booking_slug": "/hotel/fr/auberge-ostape",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2X3"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "chateau-fage-la-maison-des-vignes",
+    "name": "Château Fage La Maison des Vignes - Saint-Émilion",
+    "booking_slug": "/hotel/fr/chateau-fage-la-maison-des-vignes",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "432143"
+    },
+    "price_mode": "stay",
+    "city": "Saint-Émilion",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8944,
+      -0.1553
+    ]
+  },
+  {
+    "id": "ithurria",
+    "name": "Hôtel Ithurria - Teritoria",
+    "booking_slug": "/hotel/fr/ithurria",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "458723"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "la-c-o-orniche",
+    "name": "Hotel La Co(o)rniche",
+    "booking_slug": "/hotel/fr/la-c-o-orniche",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YQG"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "chateaugrattequina",
+    "name": "Château Grattequina Hôtel",
+    "booking_slug": "/hotel/fr/chateaugrattequina",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "9450564a-452b-47d1-ab36-ae3e007c52ed"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "logis-des-lacs-d-halco",
+    "name": "Logis des Lacs d'Halco",
+    "booking_slug": "/hotel/fr/logis-des-lacs-d-halco",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "233",
+      "hotel_id": "3722"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "chateau-de-monrecour",
+    "name": "Domaine de Monrecour - Hôtel & Restaurant - Proche de Sarlat",
+    "booking_slug": "/hotel/fr/chateau-de-monrecour",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "93820"
+    },
+    "price_mode": "stay",
+    "city": "Sarlat",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8912,
+      1.2165
+    ]
+  },
+  {
+    "id": "cote-sable",
+    "name": "Hôtel Côté Sable",
+    "booking_slug": "/hotel/fr/cote-sable",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2C5Y"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "les-pres-d-39-eugenie",
+    "name": "Les Prés d'Eugénie",
+    "booking_slug": "/hotel/fr/les-pres-d-39-eugenie",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "3941"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "le-saint-james",
+    "name": "Hôtel Le Saint-James",
+    "booking_slug": "/hotel/fr/le-saint-james",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "53735",
+      "chain_id": "8565"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "les-jardins-de-bakea",
+    "name": "Les Jardins de Bakea",
+    "booking_slug": "/hotel/fr/les-jardins-de-bakea",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "7614"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "relais-des-vigiers",
+    "name": "Relais des Vigiers",
+    "booking_slug": "/hotel/fr/relais-des-vigiers",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2GIK"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "hostellerie-de-plaisance",
+    "name": "Hôtel de Pavie",
+    "booking_slug": "/hotel/fr/hostellerie-de-plaisance",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "22875",
+      "chain_id": "8565"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "les-glycines",
+    "name": "Les Glycines - Hôtel & Spa - Teritoria",
+    "booking_slug": "/hotel/fr/les-glycines",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "68152",
+      "chain_id": "18985"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "atlanthal",
+    "name": "Atlanthal",
+    "booking_slug": "/hotel/fr/atlanthal",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "3685"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "radisson-hotel-bordeaux",
+    "name": "Radisson Hôtel Bordeaux Saint-Jean",
+    "booking_slug": "/hotel/fr/radisson-hotel-bordeaux",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "33000"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "l-39-abbaye-saint-cyprien1",
+    "name": "Hôtel l'Abbaye",
+    "booking_slug": "/hotel/fr/l-39-abbaye-saint-cyprien1",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "37332",
+      "chain_id": "5460"
+    },
+    "price_mode": "stay",
+    "city": "Saint-Cyprien",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8658,
+      1.0422
+    ]
+  },
+  {
+    "id": "des-augustins",
+    "name": "Hôtel-Restaurant des Augustins",
+    "booking_slug": "/hotel/fr/des-augustins",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2CLY"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "ostoria-bw-signature-collection",
+    "name": "Hôtel OstOria Périgueux, BW Signature Collection",
+    "booking_slug": "/hotel/fr/ostoria-bw-signature-collection",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JLEX"
+    },
+    "price_mode": "stay",
+    "city": "Périgueux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      45.1843,
+      0.7212
+    ]
+  },
+  {
+    "id": "ha-a-itza",
+    "name": "Ha(a)ïtza",
+    "booking_slug": "/hotel/fr/ha-a-itza",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YQG"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "la-residence-thalazur-arcachon",
+    "name": "La Résidence - Thalazur Arcachon",
+    "booking_slug": "/hotel/fr/la-residence-thalazur-arcachon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JK3N"
+    },
+    "price_mode": "stay",
+    "city": "Arcachon",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.6584,
+      -1.1655
+    ]
+  },
+  {
+    "id": "arraya",
+    "name": "Arraya",
+    "booking_slug": "/hotel/fr/arraya",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "3960"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "chac-teau-des-reynats",
+    "name": "Château des Reynats",
+    "booking_slug": "/hotel/fr/chac-teau-des-reynats",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "10264"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "la-suite-biarritz",
+    "name": "Hôtel La Suite",
+    "booking_slug": "/hotel/fr/la-suite-biarritz",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2D89"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "mercure-pau-palais-des-sports",
+    "name": "Mercure Pau Palais des Sports",
+    "booking_slug": "/hotel/fr/mercure-pau-palais-des-sports",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "0952"
+    },
+    "price_mode": "stay",
+    "city": "Pau",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.2951,
+      -0.3708
+    ]
+  },
+  {
+    "id": "pullman-aquitania-bordeaux-lac",
+    "name": "Pullman Bordeaux Lac",
+    "booking_slug": "/hotel/fr/pullman-aquitania-bordeaux-lac",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "0669"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "novotel-bordeaux-lac",
+    "name": "Novotel Bordeaux Lac",
+    "booking_slug": "/hotel/fr/novotel-bordeaux-lac",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "0403"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "mercure-bordeaux-centre-meriadeck",
+    "name": "Mercure Bordeaux Centre Ville",
+    "booking_slug": "/hotel/fr/mercure-bordeaux-centre-meriadeck",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "1281"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "thalassa-miramar-biarritz",
+    "name": "Sofitel Biarritz Le Miramar Thalassa",
+    "booking_slug": "/hotel/fr/thalassa-miramar-biarritz",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "2049"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "bord-aeroport",
+    "name": "Novotel Bordeaux Mérignac",
+    "booking_slug": "/hotel/fr/bord-aeroport",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "0402"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "novotel-bordeaux-centre-meriadeck",
+    "name": "Novotel Bordeaux Centre Ville",
+    "booking_slug": "/hotel/fr/novotel-bordeaux-centre-meriadeck",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "1023"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "mercure-bordeaux-lac",
+    "name": "Mercure Bordeaux Lac",
+    "booking_slug": "/hotel/fr/mercure-bordeaux-lac",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "0551"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "mercure-bordeaux-gare-atlantic",
+    "name": "Mercure Bordeaux Centre Gare Atlantic",
+    "booking_slug": "/hotel/fr/mercure-bordeaux-gare-atlantic",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "5067"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "mercure-libourne-saint-emilion",
+    "name": "Mercure Libourne Saint Emilion",
+    "booking_slug": "/hotel/fr/mercure-libourne-saint-emilion",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "6238"
+    },
+    "price_mode": "stay",
+    "city": "Libourne",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.9167,
+      -0.2417
+    ]
+  },
+  {
+    "id": "pau-lescar",
+    "name": "Novotel Pau Pyrénées",
+    "booking_slug": "/hotel/fr/pau-lescar",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "0421"
+    },
+    "price_mode": "stay",
+    "city": "Pau",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.2951,
+      -0.3708
+    ]
+  },
+  {
+    "id": "mercure-le-president-biarritz-centre",
+    "name": "Mercure Président Biarritz Plage",
+    "booking_slug": "/hotel/fr/mercure-le-president-biarritz-centre",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "7286"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "bordeaux-aeroport",
+    "name": "Mercure Bordeaux Aéroport",
+    "booking_slug": "/hotel/fr/bordeaux-aeroport",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "1508"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "de-selves",
+    "name": "Au Grand Hôtel de Sarlat - Pavillon de SELVES",
+    "booking_slug": "/hotel/fr/de-selves",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "134974"
+    },
+    "price_mode": "stay",
+    "city": "Sarlat",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8912,
+      1.2165
+    ]
+  },
+  {
+    "id": "ville-d-hiver",
+    "name": "Hôtel Ville d'Hiver",
+    "booking_slug": "/hotel/fr/ville-d-hiver",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2XZ"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "majestic-bordeaux",
+    "name": "Hôtel Majestic",
+    "booking_slug": "/hotel/fr/majestic-bordeaux",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JB1E"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "la-maison-bordeaux",
+    "name": "Hôtel La Maison Bord'eaux",
+    "booking_slug": "/hotel/fr/la-maison-bordeaux",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2FAI"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "moulin-de-madame",
+    "name": "Hôtel Mercure Villeneuve sur Lot Moulin de Madame",
+    "booking_slug": "/hotel/fr/moulin-de-madame",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "A6Q0"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "hoteldeparcbaumont",
+    "name": "Parc Beaumont Hôtel & Spa Pau - MGallery Collection",
+    "booking_slug": "/hotel/fr/hoteldeparcbaumont",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "C0Z2"
+    },
+    "price_mode": "stay",
+    "city": "Pau",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.2951,
+      -0.3708
+    ]
+  },
+  {
+    "id": "radisson-blu-hotel-biarritz",
+    "name": "Le Talaia Hôtel & Spa Biarritz - MGallery Collection",
+    "booking_slug": "/hotel/fr/radisson-blu-hotel-biarritz",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotelId": "C2U9"
+    },
+    "price_mode": "stay",
+    "city": "Biarritz",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      43.4832,
+      -1.5586
+    ]
+  },
+  {
+    "id": "chac-teau-de-la-c-ognan-la-c-ognan",
+    "name": "Château Léognan, Domaine viticole - proche Bordeaux",
+    "booking_slug": "/hotel/fr/chac-teau-de-la-c-ognan-la-c-ognan",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JKJP"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "hotel-continental-bordeaux",
+    "name": "Hotel Konti Bordeaux by HappyCulture",
+    "booking_slug": "/hotel/fr/hotel-continental-bordeaux",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "CUSTOM"
+    },
+    "price_mode": "stay",
+    "city": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "les-echasses-eco-lodge",
+    "name": "Les Échasses Golf & Surf Eco Lodge",
+    "booking_slug": "/hotel/fr/les-echasses-eco-lodge",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "247081"
+    },
+    "price_mode": "stay",
+    "city": "Nouvelle-Aquitaine",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.8378,
+      -0.5792
+    ]
+  },
+  {
+    "id": "domaine-du-ferret-balneo-serge-blanco-experience",
+    "name": "Domaine du Ferret Restaurant & Spa",
+    "booking_slug": "/hotel/fr/domaine-du-ferret-balneo-serge-blanco-experience",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JSXN"
+    },
+    "price_mode": "stay",
+    "city": "Cap Ferret",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      44.6357,
+      -1.2486
+    ]
+  },
+  {
+    "id": "chateau-de-varenne",
+    "name": "Château de Varenne",
+    "booking_slug": "/hotel/fr/chateau-de-varenne",
+    "engine_type": "directbook",
+    "engine_params": {
+      "propertySlug": "chateaudevarennedirect",
+      "propertyId": "11282"
+    },
+    "price_mode": "stay",
+    "city": "Varenne-l'Arconce",
+    "region": "Nouvelle-Aquitaine",
+    "country": "FR",
+    "coordinates": [
+      46.5566,
+      4.023
+    ]
+  },
+  {
+    "id": "domaine-de-verchant",
+    "name": "Domaine de Verchant & Spa - Relais & Châteaux",
+    "booking_slug": "/hotel/fr/domaine-de-verchant",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JBCC",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "city": "Montpellier",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "logis-de-france-les-elmes",
+    "name": "Les Elmes - Hôtel & Spa",
+    "booking_slug": "/hotel/fr/logis-de-france-les-elmes",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "f0663834-2d74-43aa-a547-af2e006772a0"
+    },
+    "price_mode": "stay",
+    "city": "Banyuls-sur-Mer",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      42.4828,
+      3.1289
+    ]
+  },
+  {
+    "id": "chateau-de-pondres",
+    "name": "Château de Pondres",
+    "booking_slug": "/hotel/fr/chateau-de-pondres",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJJU",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "city": "Villevieille",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.8017,
+      4.0889
+    ]
+  },
+  {
+    "id": "best-western-hostellerie-la-magnaneraie",
+    "name": "Hôtel la Magnaneraie",
+    "booking_slug": "/hotel/fr/best-western-hostellerie-la-magnaneraie",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JIEL",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "chez-camille-banyuls-sur-mer",
+    "name": "Villa Camille Hotel & Spa",
+    "booking_slug": "/hotel/fr/chez-camille-banyuls-sur-mer",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JK3S",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Banyuls-sur-Mer",
+    "country": "FR",
+    "coordinates": [
+      42.4828,
+      3.1289
+    ]
+  },
+  {
+    "id": "domaine-de-biar",
+    "name": "Hôtel Domaine de Biar",
+    "booking_slug": "/hotel/fr/domaine-de-biar",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "8c75b599-5de0-4611-98ca-b01c007d69ee"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "les-roches-brunes-collioure",
+    "name": "Les Roches Brunes",
+    "booking_slug": "/hotel/fr/les-roches-brunes-collioure",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2DTF",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Collioure",
+    "country": "FR",
+    "coordinates": [
+      42.5269,
+      3.0832
+    ]
+  },
+  {
+    "id": "le-19-21",
+    "name": "Le 19-21 - Un amour d'hotel",
+    "booking_slug": "/hotel/fr/le-19-21",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2CUY",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "carcassonne-porte-de-la-cite",
+    "name": "Mercure Carcassonne La Cité",
+    "booking_slug": "/hotel/fr/carcassonne-porte-de-la-cite",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2XZW",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Carcassonne",
+    "country": "FR",
+    "coordinates": [
+      43.213,
+      2.3491
+    ]
+  },
+  {
+    "id": "vatel",
+    "name": "Hôtel & Spa Vatel",
+    "booking_slug": "/hotel/fr/vatel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2E5D",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "villaduflot",
+    "name": "Villa Duflot Hôtel & Spa Perpignan",
+    "booking_slug": "/hotel/fr/villaduflot",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2FTC",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Perpignan",
+    "country": "FR",
+    "coordinates": [
+      42.6987,
+      2.8954
+    ]
+  },
+  {
+    "id": "l-39-in-situ",
+    "name": "Hôtel In Situ",
+    "booking_slug": "/hotel/fr/l-39-in-situ",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "ebf96116-c77f-4ef2-a7ad-b126009367ca"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "boutique-maison-nova",
+    "name": "Maison Nova - Boutique Hôtel & Spa",
+    "booking_slug": "/hotel/fr/boutique-maison-nova",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "b527b78c-6f1e-4bc6-9fe4-b0b300e0ae46"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "ha-tel-la-baume",
+    "name": "Best Western Marquis de la Baume",
+    "booking_slug": "/hotel/fr/ha-tel-la-baume",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "frnim12152"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "mediterranee-la-grande-motte",
+    "name": "Le Prose Hôtel",
+    "booking_slug": "/hotel/fr/mediterranee-la-grande-motte",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2X4Q",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "La Grande-Motte",
+    "country": "FR",
+    "coordinates": [
+      43.5611,
+      4.0828
+    ]
+  },
+  {
+    "id": "hotel-de-la-cite",
+    "name": "Hotel de la Cité Carcassonne - MGallery Collection",
+    "booking_slug": "/hotel/fr/hotel-de-la-cite",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YPT",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Carcassonne",
+    "country": "FR",
+    "coordinates": [
+      43.213,
+      2.3491
+    ]
+  },
+  {
+    "id": "jardins-secrets-nimes",
+    "name": "Jardins Secrets",
+    "booking_slug": "/hotel/fr/jardins-secrets-nimes",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YF3",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "les-remparts-aigues-mortes",
+    "name": "Boutique Hôtel des Remparts & Spa",
+    "booking_slug": "/hotel/fr/les-remparts-aigues-mortes",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J6BS",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Aigues-Mortes",
+    "country": "FR",
+    "coordinates": [
+      43.5667,
+      4.1919
+    ]
+  },
+  {
+    "id": "eau-thermale-avene-l",
+    "name": "Eau Thermale Avène l'hôtel",
+    "booking_slug": "/hotel/fr/eau-thermale-avene-l",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JT2M",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Avène",
+    "country": "FR",
+    "coordinates": [
+      43.7333,
+      3.1167
+    ]
+  },
+  {
+    "id": "la-ba-c-gude-lt-st-pierre",
+    "name": "Hôtel & Restaurant de charme - La Bégude Saint-Pierre",
+    "booking_slug": "/hotel/fr/la-ba-c-gude-lt-st-pierre",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YZ1",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "le-chateau-lhospitalet",
+    "name": "Château L'Hospitalet Wine Resort Beach & Spa",
+    "booking_slug": "/hotel/fr/le-chateau-lhospitalet",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTYD",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "le-spinaker",
+    "name": "Le Spinaker",
+    "booking_slug": "/hotel/fr/le-spinaker",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2A32",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "residence-hoteliere-cap-pirate",
+    "name": "Hôtel Cap Pirate",
+    "booking_slug": "/hotel/fr/residence-hoteliere-cap-pirate",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JKRZ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "les-corallines",
+    "name": "Hôtel Les Corallines - Thalasso & Resort",
+    "booking_slug": "/hotel/fr/les-corallines",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2PFX",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "thalassa-port-camargue",
+    "name": "Thalazur Port-Camargue - Hotel & Spa",
+    "booking_slug": "/hotel/fr/thalassa-port-camargue",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JK93",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "le-relais-des-chartreuses",
+    "name": "Le Relais Des Chartreuses",
+    "booking_slug": "/hotel/fr/le-relais-des-chartreuses",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2ANM",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "suite-novotel-perpignan-centre",
+    "name": "Novotel Suites Perpignan Centre - Grandes Suites & Confort Centre-Ville",
+    "booking_slug": "/hotel/fr/suite-novotel-perpignan-centre",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "6514"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Perpignan",
+    "country": "FR",
+    "coordinates": [
+      42.6987,
+      2.8954
+    ]
+  },
+  {
+    "id": "pullmanmontpellier",
+    "name": "Pullman La Pléiade Montpellier Centre",
+    "booking_slug": "/hotel/fr/pullmanmontpellier",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "A6Q7"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "des-trois-couronnes",
+    "name": "Tribe Carcassonne",
+    "booking_slug": "/hotel/fr/des-trois-couronnes",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "TRIBE_CARCASSONNE"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Carcassonne",
+    "country": "FR",
+    "coordinates": [
+      43.213,
+      2.3491
+    ]
+  },
+  {
+    "id": "perpignan-centre",
+    "name": "Mercure Perpignan Centre",
+    "booking_slug": "/hotel/fr/perpignan-centre",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "MERCURE_PERPIGNAN"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Perpignan",
+    "country": "FR",
+    "coordinates": [
+      42.6987,
+      2.8954
+    ]
+  },
+  {
+    "id": "aparthotel-adagio-access-montpellier-centre",
+    "name": "Aparthotel Adagio access Montpellier Centre",
+    "booking_slug": "/hotel/fr/aparthotel-adagio-access-montpellier-centre",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "ADAGIO_ACCESS_MONTPELLIER"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "mercure-montpellier-centre",
+    "name": "Mercure Montpellier Centre Comédie",
+    "booking_slug": "/hotel/fr/mercure-montpellier-centre",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "MERCURE_MONTPELLIER_COMEDIE"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "suitehotel-montpellier",
+    "name": "Novotel Suites Montpellier Antigone",
+    "booking_slug": "/hotel/fr/suitehotel-montpellier",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "NOVOTEL_SUITES_MONTPELLIER"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "nmontpellier",
+    "name": "Novotel Montpellier",
+    "booking_slug": "/hotel/fr/nmontpellier",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "NOVOTEL_MONTPELLIER"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "mercure-antigone",
+    "name": "Mercure Montpellier Centre Antigone",
+    "booking_slug": "/hotel/fr/mercure-antigone",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "MERCURE_ANTIGONE"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "aparthotel-adagio-montpellier-centre-comedie",
+    "name": "Aparthotel Adagio Montpellier Centre Comedie",
+    "booking_slug": "/hotel/fr/aparthotel-adagio-montpellier-centre-comedie",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "ADAGIO_MONTPELLIER_COMEDIE"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "novotel-la-grande-motte-golf",
+    "name": "Novotel La Grande Motte Golf",
+    "booking_slug": "/hotel/fr/novotel-la-grande-motte-golf",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "NOVOTEL_LA_GRANDE_MOTTE"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "La Grande-Motte",
+    "country": "FR",
+    "coordinates": [
+      43.5611,
+      4.0828
+    ]
+  },
+  {
+    "id": "perpignan",
+    "name": "Novotel Perpignan Nord Rivesaltes",
+    "booking_slug": "/hotel/fr/perpignan",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "NOVOTEL_PERPIGNAN_RIVESALTES"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Perpignan",
+    "country": "FR",
+    "coordinates": [
+      42.6987,
+      2.8954
+    ]
+  },
+  {
+    "id": "chateau-de-collias",
+    "name": "Château de Collias",
+    "booking_slug": "/hotel/fr/chateau-de-collias",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J7LV",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Collias",
+    "country": "FR",
+    "coordinates": [
+      43.95,
+      4.4833
+    ]
+  },
+  {
+    "id": "la-maison-d-uzes",
+    "name": "La Maison d'Uzès Relais & Châteaux",
+    "booking_slug": "/hotel/fr/la-maison-d-uzes",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2N2",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Uzès",
+    "country": "FR",
+    "coordinates": [
+      44.0119,
+      4.4197
+    ]
+  },
+  {
+    "id": "domaine-des-escaunes-sernhac",
+    "name": "Domaine Des Escaunes",
+    "booking_slug": "/hotel/fr/domaine-des-escaunes-sernhac",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "93737"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Sernhac",
+    "country": "FR",
+    "coordinates": [
+      43.9167,
+      4.5333
+    ]
+  },
+  {
+    "id": "appart-39-city-nimes",
+    "name": "Appart'City Collection Nîmes Arènes",
+    "booking_slug": "/hotel/fr/appart-39-city-nimes",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2EAI"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Nîmes",
+    "country": "FR",
+    "coordinates": [
+      43.8367,
+      4.3601
+    ]
+  },
+  {
+    "id": "maison-soleil-montpellier",
+    "name": "Hotel M Soleil - Montpellier Centre Saint Roch",
+    "booking_slug": "/hotel/fr/maison-soleil-montpellier",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "53729040-abca-430e-b107-b07b00ac5003"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "madeloc",
+    "name": "Hôtel & Spa Le Madeloc - Collioure Centre",
+    "booking_slug": "/hotel/fr/madeloc",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "175",
+      "hotel_id": "13771"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Collioure",
+    "country": "FR",
+    "coordinates": [
+      42.5269,
+      3.0832
+    ]
+  },
+  {
+    "id": "canetflamantsroses",
+    "name": "Grand Hôtel Les Flamants Roses Thalasso & Spa",
+    "booking_slug": "/hotel/fr/canetflamantsroses",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJB2"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "golden-tulip-montpellier-centre-belaroia",
+    "name": "Belaroïa Montpellier Centre Saint Roch",
+    "booking_slug": "/hotel/fr/golden-tulip-montpellier-centre-belaroia",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "228b3296-121a-4f54-9b7a-aff800719fb8"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "du-chateau-carcassonne",
+    "name": "Hôtel du Château & Spa - Teritoria",
+    "booking_slug": "/hotel/fr/du-chateau-carcassonne",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "93694"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Carcassonne",
+    "country": "FR",
+    "coordinates": [
+      43.213,
+      2.3491
+    ]
+  },
+  {
+    "id": "le-cottage",
+    "name": "Le Cottage - Hotel & Spa",
+    "booking_slug": "/hotel/fr/le-cottage",
+    "engine_type": "thais",
+    "engine_params": {
+      "subdomain": "hotellecottage"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "grandhoteldulido",
+    "name": "Grand Hôtel Du Lido",
+    "booking_slug": "/hotel/fr/grandhoteldulido",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJB2"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "castellascollias",
+    "name": "Le Castellas Hotel & SPA - TERITORIA",
+    "booking_slug": "/hotel/fr/castellascollias",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "4102"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Collias",
+    "country": "FR",
+    "coordinates": [
+      43.95,
+      4.4833
+    ]
+  },
+  {
+    "id": "lalagunesaintcyprien",
+    "name": "Les Bulles de Mer - Hotel & Spa sur la Plage",
+    "booking_slug": "/hotel/fr/lalagunesaintcyprien",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJB2"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Saint-Cyprien",
+    "country": "FR",
+    "coordinates": [
+      42.6217,
+      3.0394
+    ]
+  },
+  {
+    "id": "best-western-park-ha-tel-perpignan",
+    "name": "Dali Hôtel Perpignan - Restaurant",
+    "booking_slug": "/hotel/fr/best-western-park-ha-tel-perpignan",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "430293"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Perpignan",
+    "country": "FR",
+    "coordinates": [
+      42.6987,
+      2.8954
+    ]
+  },
+  {
+    "id": "villa-occitana",
+    "name": "Villa Occitana",
+    "booking_slug": "/hotel/fr/villa-occitana",
+    "engine_type": "thais",
+    "engine_params": {
+      "subdomain": "villaoccitana"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "chateau-saint-pierre-de-serjac",
+    "name": "Château St Pierre de Serjac",
+    "booking_slug": "/hotel/fr/chateau-saint-pierre-de-serjac",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2UIL"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "hostellerie-saint-alban-nezignan-l-eveque",
+    "name": "Hôtel Saint-Alban",
+    "booking_slug": "/hotel/fr/hostellerie-saint-alban-nezignan-l-eveque",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Q19"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "richer-de-belleval",
+    "name": "Hôtel Richer De Belleval - Relais & Châteaux",
+    "booking_slug": "/hotel/fr/richer-de-belleval",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "fb620dfd-84d6-4a85-afe1-aba3007dd645"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "grand-l-ermitage",
+    "name": "Grand Hôtel L'ermitage",
+    "booking_slug": "/hotel/fr/grand-l-ermitage",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "300d661b-7222-4fc0-baaf-b1e2009d7411"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "palmyra-golf",
+    "name": "Palmyra Golf Hotel & Spa",
+    "booking_slug": "/hotel/fr/palmyra-golf",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "132159"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "iledelagunecypriensud",
+    "name": "Relais et Châteaux Thalasso & Spa Ile de la Lagune",
+    "booking_slug": "/hotel/fr/iledelagunecypriensud",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "175",
+      "hotel_id": "10396"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "zenitude-relais-et-spa",
+    "name": "Suite Deluxe vue sur Golf",
+    "booking_slug": "/hotel/fr/zenitude-relais-et-spa",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "59976",
+      "chain_id": "14463"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "la-maison-gaia-amp-spa",
+    "name": "La Maison Gaïa Hôtel & Spa",
+    "booking_slug": "/hotel/fr/la-maison-gaia-amp-spa",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "2fb1c75c-08a6-4fcc-a5aa-b15c00be4779"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "le-grand-molitg-les-bains",
+    "name": "Le Grand Hôtel",
+    "booking_slug": "/hotel/fr/le-grand-molitg-les-bains",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "7061"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Molitg-les-Bains",
+    "country": "FR",
+    "coordinates": [
+      42.6539,
+      2.3889
+    ]
+  },
+  {
+    "id": "auberge-du-roua",
+    "name": "Auberge Du Roua",
+    "booking_slug": "/hotel/fr/auberge-du-roua",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "233",
+      "hotel_id": "862"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "le-vieux-castillon",
+    "name": "Le Vieux Castillon Hôtel & Spa",
+    "booking_slug": "/hotel/fr/le-vieux-castillon",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "109",
+      "hotel_id": "13775"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "la-garrigue",
+    "name": "Hotel & Spa La Garrigue",
+    "booking_slug": "/hotel/fr/la-garrigue",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "frcar31649"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "mercure-montpellier-centre-antigone",
+    "name": "Hotel Mercure Montpellier Centre Antigone****",
+    "booking_slug": "/hotel/fr/mercure-montpellier-centre-antigone",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "1536"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "le-chateau-de-riell",
+    "name": "Le Château de Riell - Relais & Châteaux",
+    "booking_slug": "/hotel/fr/le-chateau-de-riell",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "175",
+      "hotel_id": "15083"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "la-fauceille",
+    "name": "La Fauceille Hotel & Spa",
+    "booking_slug": "/hotel/fr/la-fauceille",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "frmon61150"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "la-dolce-vita",
+    "name": "Hôtel La Dolce Vita",
+    "booking_slug": "/hotel/fr/la-dolce-vita",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "fr52746"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "la-signoria",
+    "name": "Hotel La Signoria Hôtel & Spa",
+    "booking_slug": "/hotel/fr/la-signoria",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "10073"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "hotel-entraigues",
+    "name": "Hôtel d'Entraigues",
+    "booking_slug": "/hotel/fr/hotel-entraigues",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "11085"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "sowell-family-grau-du-roi",
+    "name": "SOWELL Family Grau du Roi",
+    "booking_slug": "/hotel/fr/sowell-family-grau-du-roi",
+    "engine_type": "thais",
+    "engine_params": {
+      "subdomain": "grau"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Le Grau-du-Roi",
+    "country": "FR",
+    "coordinates": [
+      43.5356,
+      4.1344
+    ]
+  },
+  {
+    "id": "hotel-c-suites",
+    "name": "HÔTEL C SUITES chambres spacieuses",
+    "booking_slug": "/hotel/fr/hotel-c-suites",
+    "engine_type": "directbook",
+    "engine_params": {
+      "propertySlug": "hotelcsuites",
+      "propertyId": "3a3ef5e5-d0e0-4062-adc8-d7cd21f2e73a"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Montpellier",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "sowell-family-cap-dagde",
+    "name": "SOWELL Family Cap d'Agde",
+    "booking_slug": "/hotel/fr/sowell-family-cap-dagde",
+    "engine_type": "thais",
+    "engine_params": {
+      "subdomain": "agde"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Cap d'Agde",
+    "country": "FR",
+    "coordinates": [
+      43.2811,
+      3.5128
+    ]
+  },
+  {
+    "id": "soko-hotels-pont-du-gard",
+    "name": "Soko Hotels-Pont du Gard",
+    "booking_slug": "/hotel/fr/soko-hotels-pont-du-gard",
+    "engine_type": "directbook",
+    "engine_params": {
+      "propertySlug": "sokohotelpontdugard",
+      "propertyId": "e94dbb4c-1705-4eba-8e26-07c1b1c6c887"
+    },
+    "price_mode": "stay",
+    "region": "Languedoc-Roussillon",
+    "city": "Pont du Gard",
+    "country": "FR",
+    "coordinates": [
+      43.9476,
+      4.5353
+    ]
+  },
+  {
+    "id": "le-palmarium",
+    "name": "Aparthotel New Palmarium",
+    "booking_slug": "/hotel/fr/le-palmarium",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "66110"
+    },
+    "price_mode": "stay",
+    "city": "Montpellier",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "hoteldelaplagegrandemotte",
+    "name": "Hôtel La Plage 5 étoiles La Grande Motte",
+    "booking_slug": "/hotel/fr/hoteldelaplagegrandemotte",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2XVY",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "city": "La Grande-Motte",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.5611,
+      4.0828
+    ]
+  },
+  {
+    "id": "logis-chateau-de-siran",
+    "name": "Château De Siran - Hôtel & Spa",
+    "booking_slug": "/hotel/fr/logis-chateau-de-siran",
+    "engine_type": "thais",
+    "engine_params": {
+      "subdomain": "chateaudesiran"
+    },
+    "price_mode": "stay",
+    "city": "Montpellier",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "le-prieure-villeneuve-les-avignon",
+    "name": "Le Prieure",
+    "booking_slug": "/hotel/fr/le-prieure-villeneuve-les-avignon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2PAZ",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "city": "Villeneuve-lès-Avignon",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.9667,
+      4.7997
+    ]
+  },
+  {
+    "id": "la-maison-d-uza-s",
+    "name": "La Maison d'Uzès Relais & Châteaux",
+    "booking_slug": "/hotel/fr/la-maison-d-uza-s",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2N2",
+      "slug": "redirect"
+    },
+    "price_mode": "stay",
+    "city": "Uzès",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      44.0119,
+      4.4197
+    ]
+  },
+  {
+    "id": "oustau-camarguen",
+    "name": "Oustau Camarguen Hôtel & Spa",
+    "booking_slug": "/hotel/fr/oustau-camarguen",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "10088"
+    },
+    "price_mode": "stay",
+    "city": "Montpellier",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "hotelcasapairal",
+    "name": "Hôtel La Casa Pairal",
+    "booking_slug": "/hotel/fr/hotelcasapairal",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "175",
+      "hotel_id": "4122"
+    },
+    "price_mode": "stay",
+    "city": "Collioure",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      42.5269,
+      3.0832
+    ]
+  },
+  {
+    "id": "thalacap-catalogne",
+    "name": "Côté Thalasso Hôtel & Spa Marin",
+    "booking_slug": "/hotel/fr/thalacap-catalogne",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "470618"
+    },
+    "price_mode": "stay",
+    "city": "Montpellier",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "chateau-d-ayre",
+    "name": "Chateau d'Ayres - Hôtel & Spa",
+    "booking_slug": "/hotel/fr/chateau-d-ayre",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "5265"
+    },
+    "price_mode": "stay",
+    "city": "Montpellier",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "soleil-vacances-les-chevaliers",
+    "name": "SOWELL HOTELS Les Chevaliers",
+    "booking_slug": "/hotel/fr/soleil-vacances-les-chevaliers",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "frcar31649"
+    },
+    "price_mode": "stay",
+    "city": "Carcassonne",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.213,
+      2.3491
+    ]
+  },
+  {
+    "id": "soleilvacances-du-roi",
+    "name": "Hotel du Roi & Spa by SOWELL COLLECTION",
+    "booking_slug": "/hotel/fr/soleilvacances-du-roi",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "SOWELL_DU_ROI"
+    },
+    "price_mode": "stay",
+    "city": "Montpellier",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.6108,
+      3.8767
+    ]
+  },
+  {
+    "id": "sowell-hotels-les-jardins-du-cap",
+    "name": "SOWELL HÔTELS Les Jardins du Cap",
+    "booking_slug": "/hotel/fr/sowell-hotels-les-jardins-du-cap",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "SOWELL_CAP"
+    },
+    "price_mode": "stay",
+    "city": "Cap d'Agde",
+    "region": "Languedoc-Roussillon",
+    "country": "FR",
+    "coordinates": [
+      43.2811,
+      3.5128
+    ]
+  },
+  {
+    "id": "best-western-chalet-les-saytels",
+    "name": "Best Western Chalet Les Saytels",
+    "booking_slug": "/hotel/fr/sas-les-saytels",
+    "engine_type": "bestwestern",
+    "engine_params": {
+      "hotelCode": "93437",
+      "website": "www.bestwestern-chaletlessaytels.com"
+    },
+    "price_mode": "night",
+    "city": "Le Grand-Bornand",
+    "region": "Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "coordinates": [
+      45.9417,
+      6.4283
+    ]
+  },
+  {
+    "id": "boscolo-exedra-lyon",
+    "name": "Boscolo Lyon Hotel & Spa",
+    "booking_slug": "/hotel/fr/boscolo-exedra-lyon",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "6359",
+      "chain_id": "5375"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "st-alban-amp-spa",
+    "name": "St-Alban Hotel & Spa",
+    "booking_slug": "/hotel/fr/st-alban-amp-spa",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Q19"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "park-hotel-du-casino",
+    "name": "Golden Tulip Aix les Bains - Hotel & Spa",
+    "booking_slug": "/hotel/fr/park-hotel-du-casino",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2DZW"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Aix-les-Bains",
+    "country": "FR",
+    "coordinates": [
+      45.6886,
+      5.9156
+    ]
+  },
+  {
+    "id": "chateau-des-avenieres",
+    "name": "Château des Avenieres",
+    "booking_slug": "/hotel/fr/chateau-des-avenieres",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2D9W"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "heliopic-sweet-amp-spa",
+    "name": "Heliopic Hotel & Spa",
+    "booking_slug": "/hotel/fr/heliopic-sweet-amp-spa",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2VEW"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "bikube-lyon-lyon",
+    "name": "Bikube Lyon",
+    "booking_slug": "/hotel/fr/bikube-lyon-lyon",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "6a5a7a6a-c924-448d-9759-b1960084a9af"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "jiva-hill-resort",
+    "name": "Jiva Hill Resort - Genève",
+    "booking_slug": "/hotel/fr/jiva-hill-resort",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "58405",
+      "chain_id": "8565"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "domaine-dolomieu",
+    "name": "Domaine de Dolomieu Hotel & Spa - BW Premier Collection",
+    "booking_slug": "/hotel/fr/domaine-dolomieu",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2RW"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "saint-charles-val-cenis",
+    "name": "Hôtel Saint Charles Val Cenis",
+    "booking_slug": "/hotel/fr/saint-charles-val-cenis",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YB7"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "yan-s",
+    "name": "Best Western Premier Clos Syrah Hotel & Spa",
+    "booking_slug": "/hotel/fr/yan-s",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JLF3"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "logis-de-france-grand-du-parc",
+    "name": "Grand Hôtel Du Parc - Teritoria",
+    "booking_slug": "/hotel/fr/logis-de-france-grand-du-parc",
+    "engine_type": "thais",
+    "engine_params": {
+      "subdomain": "ghdp"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "lyon-metropole",
+    "name": "Hôtel Lyon Métropole & Spa",
+    "booking_slug": "/hotel/fr/lyon-metropole",
+    "engine_type": "book-secure",
+    "engine_params": {
+      "property_id": "frlyo13981"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "rivage-amp-spa-annecy",
+    "name": "Rivage Hôtel & Spa Annecy",
+    "booking_slug": "/hotel/fr/rivage-amp-spa-annecy",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "2808"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Annecy",
+    "country": "FR",
+    "coordinates": [
+      45.8992,
+      6.1294
+    ]
+  },
+  {
+    "id": "hotelbestwesterncharlemagne",
+    "name": "Hôtel Charlemagne by Happyculture",
+    "booking_slug": "/hotel/fr/hotelbestwesterncharlemagne",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2XY"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "restaurant-dauphitel",
+    "name": "PoMo Hôtel & Restaurant",
+    "booking_slug": "/hotel/fr/restaurant-dauphitel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JKMD"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "black-bass-hotel",
+    "name": "Black Bass Hotel",
+    "booking_slug": "/hotel/fr/black-bass-hotel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JB7X"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "au-coeur-de-mega-c-ve",
+    "name": "Coeur de Megève",
+    "booking_slug": "/hotel/fr/au-coeur-de-mega-c-ve",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "35522",
+      "chain_id": "28286"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Megève",
+    "country": "FR",
+    "coordinates": [
+      45.8565,
+      6.618
+    ]
+  },
+  {
+    "id": "evian-royal-palace",
+    "name": "Hôtel Royal",
+    "booking_slug": "/hotel/fr/evian-royal-palace",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRI3"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "business-park",
+    "name": "Best Western Park Hotel Geneve-Thoiry",
+    "booking_slug": "/hotel/fr/business-park",
+    "engine_type": "directbook",
+    "engine_params": {
+      "property_id": "businessparkdirect"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "best-western-le-morgane",
+    "name": "Hotel Le Morgane",
+    "booking_slug": "/hotel/fr/best-western-le-morgane",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2MZS"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "grand-restaurant-les-terrasses",
+    "name": "Grand Hôtel & Spa Uriage",
+    "booking_slug": "/hotel/fr/grand-restaurant-les-terrasses",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "12619"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Uriage",
+    "country": "FR",
+    "coordinates": [
+      45.1485,
+      5.8266
+    ]
+  },
+  {
+    "id": "apart-prestige-odalys-l-ecrin-blan",
+    "name": "Hotel L'Ecrin Blanc by Odalys",
+    "booking_slug": "/hotel/fr/apart-prestige-odalys-l-ecrin-blan",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "8362",
+      "chain_id": "25469"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "hotel-le-pic-blanc",
+    "name": "Le Pic Blanc",
+    "booking_slug": "/hotel/fr/hotel-le-pic-blanc",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2MNI"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "macchi",
+    "name": "Hôtel Macchi Restaurant & Spa",
+    "booking_slug": "/hotel/fr/macchi",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "13893"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "keystone-boutique-lyon",
+    "name": "Keystone Hôtel & Spa",
+    "booking_slug": "/hotel/fr/keystone-boutique-lyon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JIQA"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "domaine-de-suzel",
+    "name": "Domaine de Suzel Hôtel & Spa",
+    "booking_slug": "/hotel/fr/domaine-de-suzel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2D13"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "petithotelconfidentiel",
+    "name": "Petit Hôtel Confidentiel",
+    "booking_slug": "/hotel/fr/petithotelconfidentiel",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "170864"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "park-suisse",
+    "name": "Park Hotel Suisse & Spa",
+    "booking_slug": "/hotel/fr/park-suisse",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2QNY"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "grand-soleil-d-39-or",
+    "name": "Grand Hotel Soleil d'Or",
+    "booking_slug": "/hotel/fr/grand-soleil-d-39-or",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2SX"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "rockypop-grenoble",
+    "name": "RockyPop Grenoble Hotel",
+    "booking_slug": "/hotel/fr/rockypop-grenoble",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JS2W"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble",
+    "country": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ]
+  },
+  {
+    "id": "fourviere",
+    "name": "Fourvière Hôtel",
+    "booking_slug": "/hotel/fr/fourviere",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2CQ2"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "de-l-39-abbaye-lyon",
+    "name": "Hôtel de l'Abbaye Lyon - Boutique Hôtel",
+    "booking_slug": "/hotel/fr/de-l-39-abbaye-lyon",
+    "engine_type": "thais",
+    "engine_params": {
+      "subdomain": "hotelabbaye"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "villaflorentine",
+    "name": "Villa Florentine, A Beauvallon Hotel & Spa",
+    "booking_slug": "/hotel/fr/villaflorentine",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JLDN"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "araucaria",
+    "name": "Araucaria Hotel & Spa",
+    "booking_slug": "/hotel/fr/araucaria",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2P4M"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "chateau-chapeau-cornu",
+    "name": "Château Chapeau Cornu",
+    "booking_slug": "/hotel/fr/chateau-chapeau-cornu",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "7166"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "alp",
+    "name": "Lodji Hotel & spa",
+    "booking_slug": "/hotel/fr/alp",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "ce062b73-2b82-4556-acb5-b0a50079faab"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "hotel-marielle",
+    "name": "Hôtel Marielle",
+    "booking_slug": "/hotel/fr/hotel-marielle",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2JI"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-domaine-du-colombier",
+    "name": "Le Domaine Du Colombier",
+    "booking_slug": "/hotel/fr/le-domaine-du-colombier",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2QFT"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "rockypop-flaine-appartements-spa",
+    "name": "RockyPop Flaine Appartements & Spa",
+    "booking_slug": "/hotel/fr/rockypop-flaine-appartements-spa",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2C3U"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Flaine",
+    "country": "FR",
+    "coordinates": [
+      46.0066,
+      6.6917
+    ]
+  },
+  {
+    "id": "les-loges-annecy-vieille-ville",
+    "name": "Les Loges Annecy Vieille Ville",
+    "booking_slug": "/hotel/fr/les-loges-annecy-vieille-ville",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2VRW"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Annecy",
+    "country": "FR",
+    "coordinates": [
+      45.8992,
+      6.1294
+    ]
+  },
+  {
+    "id": "et-spa-fort-st-laurent-lyon-handwritten-collection",
+    "name": "Hôtel Fort St Laurent Lyon - Handwritten Collection",
+    "booking_slug": "/hotel/fr/et-spa-fort-st-laurent-lyon-handwritten-collection",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "${hotelId}",
+      "chain_id": "31635"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "chalet-ha-tel-alpen-valley",
+    "name": "Chalet Alpen Valley, Mont-Blanc",
+    "booking_slug": "/hotel/fr/chalet-ha-tel-alpen-valley",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "9531",
+      "chain_id": "25469"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "de-la-loze",
+    "name": "Hôtel de la Loze",
+    "booking_slug": "/hotel/fr/de-la-loze",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2YPF"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "maison-pic",
+    "name": "Maison Pic",
+    "booking_slug": "/hotel/fr/maison-pic",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "22766",
+      "chain_id": "8565"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "mercure-lyon-charpennes",
+    "name": "Hôtel Mercure Lyon Centre Charpennes Parc de la Tête d'Or",
+    "booking_slug": "/hotel/fr/mercure-lyon-charpennes",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "1625"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "ici-amp-la",
+    "name": "Mercure Villefranche-sur-Saône",
+    "booking_slug": "/hotel/fr/ici-amp-la",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "9783"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Villefranche",
+    "country": "FR",
+    "coordinates": [
+      45.9858,
+      4.7182
+    ]
+  },
+  {
+    "id": "college",
+    "name": "Collège Hôtel",
+    "booking_slug": "/hotel/fr/college",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2CQJ"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-palace-de-menthon",
+    "name": "Le Palace De Menthon",
+    "booking_slug": "/hotel/fr/le-palace-de-menthon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2ABA"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Menthon",
+    "country": "FR",
+    "coordinates": [
+      45.865,
+      6.2006
+    ]
+  },
+  {
+    "id": "hotelrooseveltlyon",
+    "name": "Hôtel Le Roosevelt Lyon",
+    "booking_slug": "/hotel/fr/hotelrooseveltlyon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "24JL"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-grand-grenoble-centre",
+    "name": "Le Grand Hôtel Grenoble, BW Premier Collection by Best Western",
+    "booking_slug": "/hotel/fr/le-grand-grenoble-centre",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J7UK"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble",
+    "country": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ]
+  },
+  {
+    "id": "carlton-lyon",
+    "name": "Carlton Hotel Lyon - MGallery Collection",
+    "booking_slug": "/hotel/fr/carlton-lyon",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "2950"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "inter-les-trois-roses-xml-reservit-seh",
+    "name": "Hôtel Les Trois Roses, Meylan Grenoble",
+    "booking_slug": "/hotel/fr/inter-les-trois-roses-xml-reservit-seh",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTKZ"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble",
+    "country": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ]
+  },
+  {
+    "id": "restaurant-du-port",
+    "name": "Hôtel Restaurant Du Port",
+    "booking_slug": "/hotel/fr/restaurant-du-port",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2ZEA"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "beauregard",
+    "name": "Hotel Beauregard",
+    "booking_slug": "/hotel/fr/beauregard",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JK8X"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "mercure-grand-saxe-lafayette",
+    "name": "Mercure Lyon Centre Saxe Lafayette",
+    "booking_slug": "/hotel/fr/mercure-grand-saxe-lafayette",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "2057"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "au-coin-du-feu",
+    "name": "Au Coin Du Feu",
+    "booking_slug": "/hotel/fr/au-coin-du-feu",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "253K"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "les-grands-montets",
+    "name": "Les Grands Montets Hotel & Spa",
+    "booking_slug": "/hotel/fr/les-grands-montets",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JI8R"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "grand-hotel-des-brotteaux-lyon-ctre-handwritten-collection",
+    "name": "Grand Hotel des Brotteaux Lyon - Handwritten Collection",
+    "booking_slug": "/hotel/fr/grand-hotel-des-brotteaux-lyon-ctre-handwritten-collection",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "7236"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "globe-et-cecil",
+    "name": "Globe Et Cecil",
+    "booking_slug": "/hotel/fr/globe-et-cecil",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2UVH"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "mercure-grenoble-centre-alpotel",
+    "name": "Mercure Grenoble Centre Alpotel",
+    "booking_slug": "/hotel/fr/mercure-grenoble-centre-alpotel",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "0652"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble",
+    "country": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ]
+  },
+  {
+    "id": "l-39-armancette-saint-gervais-les-bains",
+    "name": "Armancette - The Leading Hotels of the World",
+    "booking_slug": "/hotel/fr/l-39-armancette-saint-gervais-les-bains",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "9734",
+      "chain_id": "24447"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "la-ferme-de-cupelin",
+    "name": "Hôtel Restaurant La Ferme de Cupelin",
+    "booking_slug": "/hotel/fr/la-ferme-de-cupelin",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "e9ddfa94-88bd-4138-a48e-b1a7006708bb"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "residence-le-splendid",
+    "name": "RESIDENCE LE SPLENDID",
+    "booking_slug": "/hotel/fr/residence-le-splendid",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Y5W"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "les-chalets-de-l-aiguille-grive",
+    "name": "L'Aiguille Grive Chalets Hotel",
+    "booking_slug": "/hotel/fr/les-chalets-de-l-aiguille-grive",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J248"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-hameau-albert-1er",
+    "name": "Le Hameau Albert 1er - Relais & Châteaux",
+    "booking_slug": "/hotel/fr/le-hameau-albert-1er",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2DWK"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-phenix",
+    "name": "Le Phénix Hôtel",
+    "booking_slug": "/hotel/fr/le-phenix",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2MZ9"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "de-la-roche-beaufort",
+    "name": "Hôtel de la Roche",
+    "booking_slug": "/hotel/fr/de-la-roche-beaufort",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2DTF"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "alpaga",
+    "name": "L'Alpaga, a Beaumier hotel",
+    "booking_slug": "/hotel/fr/alpaga",
+    "engine_type": "directbook",
+    "engine_params": {
+      "property_id": "hotel-alpaga"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "domaine-de-chalveches",
+    "name": "Domaine de Chalvêches Hôtel SPA 4*",
+    "booking_slug": "/hotel/fr/domaine-de-chalveches",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JKJ5"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "mille-pas",
+    "name": "Hôtel Mille Pas",
+    "booking_slug": "/hotel/fr/mille-pas",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JJR4"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "villa-cecile",
+    "name": "Villa Cécile",
+    "booking_slug": "/hotel/fr/villa-cecile",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "10195"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "michel-chabran",
+    "name": "Hotel & Restaurants - Maison Chabran",
+    "booking_slug": "/hotel/fr/michel-chabran",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "68161",
+      "chain_id": "18985"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "bourg-en-bresse",
+    "name": "Mercure Bourg En Bresse",
+    "booking_slug": "/hotel/fr/bourg-en-bresse",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "1187"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Bourg-en-Bresse",
+    "country": "FR",
+    "coordinates": [
+      46.2052,
+      5.2259
+    ]
+  },
+  {
+    "id": "domaine-de-clairefontaine",
+    "name": "Domaine de Clairefontaine - Teritoria",
+    "booking_slug": "/hotel/fr/domaine-de-clairefontaine",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "0dfb566b-7c7e-442d-84ea-b29800994623"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "grenoble-nord-voreppe",
+    "name": "Novotel Grenoble Nord Voreppe",
+    "booking_slug": "/hotel/fr/grenoble-nord-voreppe",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "0423"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble",
+    "country": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ]
+  },
+  {
+    "id": "abbaye-de-talloires",
+    "name": "Abbaye de Talloires",
+    "booking_slug": "/hotel/fr/abbaye-de-talloires",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2DD"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Talloires",
+    "country": "FR",
+    "coordinates": [
+      45.8411,
+      6.2156
+    ]
+  },
+  {
+    "id": "le-clos-marcel",
+    "name": "Le Petit Létraz",
+    "booking_slug": "/hotel/fr/le-clos-marcel",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JHEH"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "valence-sudd",
+    "name": "Novotel Valence Sud",
+    "booking_slug": "/hotel/fr/valence-sudd",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "0455"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Valence",
+    "country": "FR",
+    "coordinates": [
+      44.9334,
+      4.8924
+    ]
+  },
+  {
+    "id": "villa-du-lac",
+    "name": "Hôtel Best of Both - Divonne-les-Bains",
+    "booking_slug": "/hotel/fr/villa-du-lac",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "18396",
+      "chain_id": "5460"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Divonne-les-Bains",
+    "country": "FR",
+    "coordinates": [
+      46.3564,
+      6.1431
+    ]
+  },
+  {
+    "id": "hotelmercurelyonest",
+    "name": "Mercure Lyon Est Chaponnay",
+    "booking_slug": "/hotel/fr/hotelmercurelyonest",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "5934"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "lyon-beaux-arts",
+    "name": "Mercure Lyon Centre Beaux-Arts",
+    "booking_slug": "/hotel/fr/lyon-beaux-arts",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "2949"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "mercure-annemasse-porte-de-geneve",
+    "name": "Mercure Annemasse Porte De Genève",
+    "booking_slug": "/hotel/fr/mercure-annemasse-porte-de-geneve",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "0343"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Annemasse",
+    "country": "FR",
+    "coordinates": [
+      46.1945,
+      6.2367
+    ]
+  },
+  {
+    "id": "ibis-styles-montelimar-centre",
+    "name": "ibis Styles Montelimar Centre",
+    "booking_slug": "/hotel/fr/ibis-styles-montelimar-centre",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "9423"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Montelimar",
+    "country": "FR",
+    "coordinates": [
+      44.5584,
+      4.7509
+    ]
+  },
+  {
+    "id": "mercure-lyon-charbonnieres",
+    "name": "Mercure Lyon Charbonnières",
+    "booking_slug": "/hotel/fr/mercure-lyon-charbonnieres",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "0345"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "novotel-annemasse-centre-porte-de-geneve",
+    "name": "Novotel Annemasse Centre - Porte de Genève",
+    "booking_slug": "/hotel/fr/novotel-annemasse-centre-porte-de-geneve",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "7055"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Annemasse",
+    "country": "FR",
+    "coordinates": [
+      46.1945,
+      6.2367
+    ]
+  },
+  {
+    "id": "le-jules-verne",
+    "name": "Hôtel La Riviera Victoria",
+    "booking_slug": "/hotel/fr/le-jules-verne",
+    "engine_type": "directbook",
+    "engine_params": {
+      "property_id": "hotelvictoriadirect"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "du-golf-saint-etienne",
+    "name": "Hotel Du Golf",
+    "booking_slug": "/hotel/fr/du-golf-saint-etienne",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "4356"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-royal-lyon",
+    "name": "Le Royal Hotel Lyon - MGallery Collection",
+    "booking_slug": "/hotel/fr/le-royal-lyon",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "2952"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "qualys-lyon-nord-xml-reservit-seh",
+    "name": "Best Western Plus Hotel Admiral",
+    "booking_slug": "/hotel/fr/qualys-lyon-nord-xml-reservit-seh",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "10818"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "vienne-sud-chanas-2",
+    "name": "Mercure Vienne Sud Chanas",
+    "booking_slug": "/hotel/fr/vienne-sud-chanas-2",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "6148"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Vienne",
+    "country": "FR",
+    "coordinates": [
+      45.525,
+      4.875
+    ]
+  },
+  {
+    "id": "victoria-valence",
+    "name": "Hotel Victoria",
+    "booking_slug": "/hotel/fr/victoria-valence",
+    "engine_type": "directbook",
+    "engine_params": {
+      "property_id": "hotelvictoriadirect"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Valence",
+    "country": "FR",
+    "coordinates": [
+      44.9334,
+      4.8924
+    ]
+  },
+  {
+    "id": "logis-la-croix-de-savoie",
+    "name": "La Croix de Savoie & Spa",
+    "booking_slug": "/hotel/fr/logis-la-croix-de-savoie",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "3645"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "mont-vallon",
+    "name": "Hotel Mont Vallon",
+    "booking_slug": "/hotel/fr/mont-vallon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "233Z"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-v-de-vaujany",
+    "name": "Hotel Le V de Vaujany",
+    "booking_slug": "/hotel/fr/le-v-de-vaujany",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "418600"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "hotelroyaloursblanc",
+    "name": "Royal Ours Blanc Boutique Hôtel & Spa",
+    "booking_slug": "/hotel/fr/hotelroyaloursblanc",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2MNI"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "ha-tel-de-chassieu",
+    "name": "Best Western Plus Hôtel & Spa de Chassieu",
+    "booking_slug": "/hotel/fr/ha-tel-de-chassieu",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "176424"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Chassieu",
+    "country": "FR",
+    "coordinates": [
+      45.7417,
+      4.9681
+    ]
+  },
+  {
+    "id": "le-chamois-d-or-cordon",
+    "name": "Le Chamois d'Or",
+    "booking_slug": "/hotel/fr/le-chamois-d-or-cordon",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2A8M"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Cordon",
+    "country": "FR",
+    "coordinates": [
+      45.9153,
+      6.6147
+    ]
+  },
+  {
+    "id": "mont-blanc-megeve",
+    "name": "Hotel Mont Blanc Megève",
+    "booking_slug": "/hotel/fr/mont-blanc-megeve",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "58822",
+      "chain_id": "7225"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Megève",
+    "country": "FR",
+    "coordinates": [
+      45.8565,
+      6.618
+    ]
+  },
+  {
+    "id": "au-coeur-du-village",
+    "name": "Au Coeur du Village",
+    "booking_slug": "/hotel/fr/au-coeur-du-village",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2MP5"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "val-thorens-3",
+    "name": "Fahrenheit Seven Val Thorens",
+    "booking_slug": "/hotel/fr/val-thorens-3",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2CLF"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Val Thorens",
+    "country": "FR",
+    "coordinates": [
+      45.2976,
+      6.5789
+    ]
+  },
+  {
+    "id": "la-pyramide-vienne",
+    "name": "La Pyramide - Maison Henriroux",
+    "booking_slug": "/hotel/fr/la-pyramide-vienne",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "237836"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Vienne",
+    "country": "FR",
+    "coordinates": [
+      45.525,
+      4.875
+    ]
+  },
+  {
+    "id": "la-cachette-friendly",
+    "name": "La Cachette, Friendly Hotel & Spa",
+    "booking_slug": "/hotel/fr/la-cachette-friendly",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "213d73a8-fab2-4b8c-9cb7-aeda006d02f5"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "mercure-lyon-part-dieu",
+    "name": "Mercure Lyon Centre - Gare Part Dieu",
+    "booking_slug": "/hotel/fr/mercure-lyon-part-dieu",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "7360"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "restaurant-la-bouitte",
+    "name": "La Bouitte - Hôtel Relais & Châteaux",
+    "booking_slug": "/hotel/fr/restaurant-la-bouitte",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "71703",
+      "chain_id": "8565"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "m-lodge-amp-spa",
+    "name": "M Lodge & Spa",
+    "booking_slug": "/hotel/fr/m-lodge-amp-spa",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JSJV"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "hotel-baud",
+    "name": "Hôtel Baud - Teritoria",
+    "booking_slug": "/hotel/fr/hotel-baud",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "68296",
+      "chain_id": "18985"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "mercure-les-arcs-1800",
+    "name": "Altezza - Arc 1800 Hotel & Spa - ex Mercure",
+    "booking_slug": "/hotel/fr/mercure-les-arcs-1800",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Q9K"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "les-suites-de-la-potiniere",
+    "name": "Les Suites de la Potinière",
+    "booking_slug": "/hotel/fr/les-suites-de-la-potiniere",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J2IT"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "higalik",
+    "name": "HIGALIK HOTEL",
+    "booking_slug": "/hotel/fr/higalik",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JSHB"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "la-bergerie-morzine",
+    "name": "Hôtel La Bergerie",
+    "booking_slug": "/hotel/fr/la-bergerie-morzine",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "256W"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Morzine",
+    "country": "FR",
+    "coordinates": [
+      46.1792,
+      6.7094
+    ]
+  },
+  {
+    "id": "marina-d-adelphia",
+    "name": "Hotel & Spa Marina d'Adelphia",
+    "booking_slug": "/hotel/fr/marina-d-adelphia",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "233",
+      "hotel_id": "140539"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "hotellerie-beau-rivage",
+    "name": "Hôtel Beau Rivage Condrieu",
+    "booking_slug": "/hotel/fr/hotellerie-beau-rivage",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "d5b90341-6b7c-4a62-b6e3-b2a300a13fb4"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "evian-royal-ermitage",
+    "name": "Hôtel Ermitage",
+    "booking_slug": "/hotel/fr/evian-royal-ermitage",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "13249",
+      "chain_id": "5460"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "imperial-palace",
+    "name": "Impérial Palace",
+    "booking_slug": "/hotel/fr/imperial-palace",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "244K"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "hotel-les-aiglons",
+    "name": "Hôtel Les Aiglons Chamonix",
+    "booking_slug": "/hotel/fr/hotel-les-aiglons",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTJC"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Chamonix",
+    "country": "FR",
+    "coordinates": [
+      45.9237,
+      6.8694
+    ]
+  },
+  {
+    "id": "les-roches-fleuries",
+    "name": "Hôtel Les Roches Fleuries",
+    "booking_slug": "/hotel/fr/les-roches-fleuries",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRZW"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "tribe-lyon-croix-rousse",
+    "name": "TRIBE Lyon Croix Rousse",
+    "booking_slug": "/hotel/fr/tribe-lyon-croix-rousse",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "5234"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "the-ruck",
+    "name": "The Ruck Hotel",
+    "booking_slug": "/hotel/fr/the-ruck",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JS9A"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "grand-mercure-grenoble-president",
+    "name": "Mercure Grenoble Centre Porte des Alpes",
+    "booking_slug": "/hotel/fr/grand-mercure-grenoble-president",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "2947"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble",
+    "country": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ]
+  },
+  {
+    "id": "novotel-lyon-confluence",
+    "name": "Novotel Lyon Centre-Confluence Bord de Saone",
+    "booking_slug": "/hotel/fr/novotel-lyon-confluence",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "7325"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "lyon-lumiere",
+    "name": "Hôtel Mercure Lyon Centre Lumière",
+    "booking_slug": "/hotel/fr/lyon-lumiere",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "1535"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "apt-paisible-en-centre-ville-parking-salle-de-sport-bar-en-rooftop",
+    "name": "The Babel Community Hôtel - Grenoble Bastille",
+    "booking_slug": "/hotel/fr/apt-paisible-en-centre-ville-parking-salle-de-sport-bar-en-rooftop",
+    "engine_type": "mews",
+    "engine_params": {
+      "property_id": "e79e98b9-d07f-47ce-8c74-b34d007ef70b"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble",
+    "country": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ]
+  },
+  {
+    "id": "grand-mercure-chateau-perrache",
+    "name": "Mercure Lyon Centre Château Perrache",
+    "booking_slug": "/hotel/fr/grand-mercure-chateau-perrache",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "1292"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "leprecarre",
+    "name": "Hôtel Le Pré Carré",
+    "booking_slug": "/hotel/fr/leprecarre",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "21440"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "chambery-centre",
+    "name": "Mercure Chambéry Centre",
+    "booking_slug": "/hotel/fr/chambery-centre",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "1541"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "annecy-centre-atria",
+    "name": "Novotel Annecy Centre",
+    "booking_slug": "/hotel/fr/annecy-centre-atria",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "1357"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Annecy",
+    "country": "FR",
+    "coordinates": [
+      45.8992,
+      6.1294
+    ]
+  },
+  {
+    "id": "grenoble-centre",
+    "name": "Novotel Grenoble Centre",
+    "booking_slug": "/hotel/fr/grenoble-centre",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "1624"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble",
+    "country": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ]
+  },
+  {
+    "id": "auberge-du-lac",
+    "name": "Auberge Du Lac",
+    "booking_slug": "/hotel/fr/auberge-du-lac",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "15283"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "lyon-l-isle-d-abeau",
+    "name": "Mercure Lyon Est Villefontaine",
+    "booking_slug": "/hotel/fr/lyon-l-isle-d-abeau",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "1132"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "villa-walbaum",
+    "name": "Hôtel Villa Walbaum",
+    "booking_slug": "/hotel/fr/villa-walbaum",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "423787"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "novotel-megeve-mont-blanc",
+    "name": "Novotel Megève Mont-Blanc",
+    "booking_slug": "/hotel/fr/novotel-megeve-mont-blanc",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "0639"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Megève",
+    "country": "FR",
+    "coordinates": [
+      45.8565,
+      6.618
+    ]
+  },
+  {
+    "id": "grenoble-meylan",
+    "name": "Mercure Grenoble Meylan",
+    "booking_slug": "/hotel/fr/grenoble-meylan",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "2948"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble",
+    "country": "FR",
+    "coordinates": [
+      45.1885,
+      5.7245
+    ]
+  },
+  {
+    "id": "valence-sud",
+    "name": "Mercure Valence",
+    "booking_slug": "/hotel/fr/valence-sud",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "6398"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Valence",
+    "country": "FR",
+    "coordinates": [
+      44.9334,
+      4.8924
+    ]
+  },
+  {
+    "id": "atrium-valence",
+    "name": "Best Western Hotel Atrium Valence",
+    "booking_slug": "/hotel/fr/atrium-valence",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "J187"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Valence",
+    "country": "FR",
+    "coordinates": [
+      44.9334,
+      4.8924
+    ]
+  },
+  {
+    "id": "mercure-annecy-sud",
+    "name": "Mercure Annecy Sud",
+    "booking_slug": "/hotel/fr/mercure-annecy-sud",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "0340"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Annecy",
+    "country": "FR",
+    "coordinates": [
+      45.8992,
+      6.1294
+    ]
+  },
+  {
+    "id": "la-folie-douce-chamonix",
+    "name": "La Folie Douce Hotels Chamonix",
+    "booking_slug": "/hotel/fr/la-folie-douce-chamonix",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Q41"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Chamonix",
+    "country": "FR",
+    "coordinates": [
+      45.9237,
+      6.8694
+    ]
+  },
+  {
+    "id": "alpina",
+    "name": "Alpina Eclectic Hotel",
+    "booking_slug": "/hotel/fr/alpina",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "2Q9K"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-tresor-des-templiers",
+    "name": "Le Trésor des Templiers",
+    "booking_slug": "/hotel/fr/le-tresor-des-templiers",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "253657"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-pelican-annecy1",
+    "name": "Le Pélican",
+    "booking_slug": "/hotel/fr/le-pelican-annecy1",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JRVR"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Annecy",
+    "country": "FR",
+    "coordinates": [
+      45.8992,
+      6.1294
+    ]
+  },
+  {
+    "id": "chalet-kaya",
+    "name": "Chalet Hotel Kaya",
+    "booking_slug": "/hotel/fr/chalet-kaya",
+    "engine_type": "dedge",
+    "engine_params": {
+      "code": "JTRJ"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "villa-maia-lyon",
+    "name": "Villa Maïa",
+    "booking_slug": "/hotel/fr/villa-maia-lyon",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "6743",
+      "chain_id": "24447"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "le-saint-gervais-amp-spa",
+    "name": "Le Saint Gervais Hotel & Spa Handwritten Collection",
+    "booking_slug": "/hotel/fr/le-saint-gervais-amp-spa",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "B9F3"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "ambassadeur",
+    "name": "Mercure Lyon Genas Eurexpo",
+    "booking_slug": "/hotel/fr/ambassadeur",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "B0M9"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "villa-augusta-relais-amo-chateaux",
+    "name": "Villa Augusta",
+    "booking_slug": "/hotel/fr/villa-augusta-relais-amo-chateaux",
+    "engine_type": "synxis",
+    "engine_params": {
+      "code": "42466",
+      "chain_id": "5460"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "novotel-saint-etienne-centre-gare",
+    "name": "Novotel Saint-Étienne Centre Gare Châteaucreux",
+    "booking_slug": "/hotel/fr/novotel-saint-etienne-centre-gare",
+    "engine_type": "accor",
+    "engine_params": {
+      "hotel_id": "B2Q4"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Saint-Étienne",
+    "country": "FR",
+    "coordinates": [
+      45.4397,
+      4.3872
+    ]
+  },
+  {
+    "id": "alexander-park",
+    "name": "Best Western Alexander Park Chambéry",
+    "booking_slug": "/hotel/fr/alexander-park",
+    "engine_type": "bestwestern",
+    "engine_params": {
+      "hotel_code": "93721"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "bwcrequilyonpartdieu",
+    "name": "Best Western Crequi Lyon Part Dieu",
+    "booking_slug": "/hotel/fr/bwcrequilyonpartdieu",
+    "engine_type": "bestwestern",
+    "engine_params": {
+      "hotel_code": "93536"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  },
+  {
+    "id": "domaine-du-golf-saint-clair",
+    "name": "Domaine De Saint Clair Spa & Golf",
+    "booking_slug": "/hotel/fr/domaine-du-golf-saint-clair",
+    "engine_type": "reservit",
+    "engine_params": {
+      "cust_id": "2",
+      "hotel_id": "126032"
+    },
+    "price_mode": "stay",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon",
+    "country": "FR",
+    "coordinates": [
+      45.7578,
+      4.832
+    ]
+  }
+]
